@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+The study introduces an autonomous virtual assistant system that uses video, sound, and touch to guide patients through EMDR therapy for trauma. The researchers tested this system with a group of 31 participants to see how well it worked. The results showed that the system successfully reduced anxiety, distress, and negative thoughts associated with traumatic memories.

@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study investigated whether a 12-week digital cognitive training program using an AI chatbot and group chat service improves mental abilities in older adults. The researchers tested this approach with 133 participants aged 55 to 75 who used the software daily for three months. The results showed that the program successfully enhanced cognitive function and social support, particularly for those who actively used the chat features.

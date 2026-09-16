@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper outlines a protocol for a scoping review that will examine how digital health technologies affect loneliness and social isolation in older adults. The study will use a scoping review methodology to map existing literature, identify types of technologies studied, and assess how loneliness and isolation are defined and measured. As this is a protocol for a future study, no main findings are reported yet.

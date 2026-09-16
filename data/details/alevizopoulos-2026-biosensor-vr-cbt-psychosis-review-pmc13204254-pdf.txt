@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study reviews how virtual reality combined with physiological sensors can improve therapy for people experiencing psychosis. The researchers analyzed twelve randomized controlled trials involving 1,504 participants to evaluate the effectiveness of these digital treatments. They found that these interventions significantly reduced hallucinations and paranoid thoughts compared to standard care.

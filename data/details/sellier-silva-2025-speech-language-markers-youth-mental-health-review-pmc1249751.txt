@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews whether changes in speech and language can predict the onset or worsening of mental health conditions in young people. The researchers analyzed data from 11 longitudinal studies that tracked youth and their families over time to see if speech patterns predicted diagnoses like depression, psychosis, or ADHD. The main finding is that while speech markers show promise for early detection, there are very few high-quality studies available, and current evidence is limited to only a few specific mental health disorders.

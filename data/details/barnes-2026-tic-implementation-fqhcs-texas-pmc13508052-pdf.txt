@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper evaluates a trauma-informed care program implemented at community health centers in Texas to improve safety and support for patients and staff. The study involved 34 health centers using a train-the-trainer model to teach trauma-informed principles, with progress measured through organizational assessments and staff interviews. Results showed significant improvements in organizational practices and staff knowledge, along with better teamwork, though challenges like staff time and leadership support remained.

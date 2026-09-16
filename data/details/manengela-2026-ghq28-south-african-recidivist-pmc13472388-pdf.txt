@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates the reliability and structure of the GHQ-28 mental health screening tool among a group of repeat offenders in South Africa. The researchers analyzed data from 385 participants using statistical tests for internal consistency, factor analysis, and network modeling. They found that while the overall tool showed moderate reliability, specific sections had weak performance and the results were complicated by missing original scoring details, suggesting the need for further verification.

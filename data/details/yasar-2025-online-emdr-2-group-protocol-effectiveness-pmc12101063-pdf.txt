@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluated the effectiveness of an online group therapy program for people who had experienced traffic accidents. Researchers randomly assigned participants to either the new group therapy or a standard mental health training course and measured their symptoms at the start, immediately after, and one month later. The group therapy significantly reduced anxiety, stress, and traumatic avoidance compared to the training, though it did not significantly change depression or trauma intrusion symptoms.

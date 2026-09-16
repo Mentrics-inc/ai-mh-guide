@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study explores a personalized AI chatbot designed to help older adults with cognitive impairment write memoirs and receive emotional support. Researchers tested the system in a small, single-session experiment with 20 participants, comparing its effects against an active control group. The results showed that users of the AI chatbot experienced improved mood and higher-quality memoirs compared to the control group.

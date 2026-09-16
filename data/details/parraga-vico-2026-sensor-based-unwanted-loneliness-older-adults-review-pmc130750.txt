@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how passive sensor technologies and artificial intelligence can detect unwanted loneliness in older adults. The study analyzes evidence from wearable devices, home sensors, and smartphones using multimodal data fusion approaches. The main finding is that combining multiple data sources with AI provides more accurate detection of loneliness than using single types of sensors.

@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study investigates whether remote, AI-supported Eye Movement Desensitization and Reprocessing therapy is effective for treating trauma-like symptoms in patients with long-COVID. The researchers compared 80 participants receiving remote treatment with 80 participants receiving traditional in-person therapy using standardized mental health assessments. The main finding was that the remote AI-powered platform was just as effective as in-person therapy, showing no significant difference in patient outcomes.
