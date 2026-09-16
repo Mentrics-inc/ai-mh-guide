@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates the safety of an AI virtual agent designed to simulate psychotherapy interactions in high-risk mental health scenarios. Two licensed therapists tested the agent using scripted conversations involving suicide and substance use, then rated the responses for clinical appropriateness. The agent showed good usability but produced critically unsafe responses in nearly a third of interactions, highlighting the need for strict safeguards before clinical use.

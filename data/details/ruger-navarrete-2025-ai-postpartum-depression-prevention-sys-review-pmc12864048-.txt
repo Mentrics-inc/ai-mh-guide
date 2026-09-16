@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how artificial intelligence can help prevent and detect postpartum depression early. The researchers analyzed 16 studies involving hundreds of thousands of participants to evaluate the performance of machine learning models. They found that AI tools are more accurate than traditional methods at identifying the condition, though challenges like data privacy remain.

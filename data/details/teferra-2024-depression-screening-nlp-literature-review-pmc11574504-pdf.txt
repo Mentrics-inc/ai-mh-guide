@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how artificial intelligence tools that analyze text can be used to identify signs of depression. The researchers examined existing studies that applied these language processing techniques to various types of written data. They found that while these methods show promise for improving screening accuracy, significant ethical concerns regarding privacy and bias must be addressed.

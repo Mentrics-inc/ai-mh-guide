@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper proposes a framework for safely and equitably applying large language models to mental health care. The authors outline a sociocultural–technical approach that addresses challenges such as data bias, high costs, and digital literacy gaps. They recommend establishing global clinical repositories, integrating cultural considerations, and promoting digital inclusivity to ensure fair access and mitigate risks.

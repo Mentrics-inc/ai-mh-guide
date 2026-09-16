@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates how well computer programs can detect depression by analyzing written text using reliable clinical standards. The researchers analyzed data from 11 studies involving 15 different machine learning models through a systematic review. The main finding is that these models are highly accurate, especially when they use advanced text processing techniques, deep learning structures, and diagnoses confirmed by medical professionals.

@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper addresses the mental health needs of international students by proposing digital interventions to overcome barriers to traditional care. The authors develop a five-stage framework for designing culturally sensitive digital mental health tools and review existing research on their effectiveness. The main finding is that while digital interventions show promise for reducing psychological distress, current evidence is limited, and future studies must rigorously test culturally adapted models.

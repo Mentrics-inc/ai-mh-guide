@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews the use of artificial intelligence tools that analyze spoken and written language to help detect depression in adults. The authors conducted a systematic review of existing studies that tested these models, which primarily relied on text data processed by transformer algorithms or speech data analyzed by neural networks. The main finding is that these AI models perform as well as standard depression screening questionnaires, though most current evidence comes from high-income countries and lacks real-world validation.

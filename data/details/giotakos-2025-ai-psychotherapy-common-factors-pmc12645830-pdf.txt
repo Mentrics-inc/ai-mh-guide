@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper explores how artificial intelligence applications can incorporate the shared elements that make traditional human psychotherapy effective. It examines the role of common therapeutic factors, such as empathy and trust, within the context of AI-driven mental health tools. The author argues that designing AI systems to foster these human-like connections will improve the reliability and overall success of digital therapy.

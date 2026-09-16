@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study validates a short questionnaire designed to detect suicidal thoughts in Spanish-speaking populations. The researchers analyzed data from nearly 6,400 participants in Spain and Mexico to test the tool's consistency and accuracy. The results show that the questionnaire reliably measures suicidal ideation and works equally well across different genders, drug use statuses, and countries.

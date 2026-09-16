@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 3s]
+This study adapted the Patient Health Questionnaire-9 into the San Martín Quechua language to create a culturally appropriate tool for screening depression in Peruvian Indigenous adults. Researchers tested the translated questionnaire with 309 Quechua-speaking adults using statistical methods to check its accuracy, consistency, and fairness across different demographic groups. The results showed that the adapted questionnaire is a reliable and valid single-factor tool for measuring depressive symptoms in this population.

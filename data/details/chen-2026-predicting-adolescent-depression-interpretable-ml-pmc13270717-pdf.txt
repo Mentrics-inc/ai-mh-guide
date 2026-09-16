@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study aims to predict the risk of depression in adolescents using machine learning to support early prevention and intervention. The researchers analyzed data from 1,226 patients aged 13 to 25 by comparing five different machine learning algorithms and using an interpretation method to identify key risk factors. The XGBoost model proved to be the most accurate predictor, with sleep habits, family environment, and education level identified as the most important factors associated with depression risk.

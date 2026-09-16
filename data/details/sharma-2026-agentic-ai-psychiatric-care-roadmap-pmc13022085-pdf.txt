@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper explores the potential of agentic artificial intelligence to transform psychiatric care by acting as adaptive, semi-autonomous partners to clinicians. The authors define this technology distinct from static decision-support tools and propose a framework for its responsible integration into mental health workflows. The main finding is that while these systems can improve access and monitoring, they must remain constrained and human-supervised to ensure safety and preserve the therapeutic relationship.

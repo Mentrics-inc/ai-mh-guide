@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews the current use of artificial intelligence to predict child abuse and neglect. The researchers analyzed seven studies that used medical or protective service data to build these prediction models. They found that the research is limited, uses small datasets, and suffers from significant flaws in study design.

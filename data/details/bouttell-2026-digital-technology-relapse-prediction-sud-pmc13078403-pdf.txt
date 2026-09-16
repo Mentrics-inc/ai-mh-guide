@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates whether a digital app that predicts relapse in people recovering from alcohol or opioid use can save money for the UK health system. The researchers used computer models to compare the costs of using the app against standard care over one, five, and twenty years. They found that the app could reduce costs if it lowers relapse rates by 15% and is priced below £300 to £460 per patient each year.

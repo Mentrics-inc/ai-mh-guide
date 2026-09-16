@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates how accurately artificial intelligence models using wearable device data can identify depression and predict future depressive episodes. The researchers conducted a systematic review and meta-analysis of 16 studies involving 1,189 patients to aggregate performance metrics. The results show that these AI models are highly accurate for detecting depression but have only moderate ability to predict future depressive episodes.

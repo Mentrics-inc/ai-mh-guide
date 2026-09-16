@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study uses machine learning to predict suicide attempts among adolescents in South Korea. The researchers analyzed data from nearly 450,000 students surveyed between 2017 and 2024 using several statistical models and interpretability tools. The results show that while the models performed moderately well, feelings of hopelessness were the strongest predictor of suicide attempts.

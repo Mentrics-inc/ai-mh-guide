@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study reviews how artificial intelligence tools support mental and emotional health by helping people build higher-order self-regulation skills. The researchers analyzed twenty-four randomized controlled trials published between 2015 and 2025 to evaluate these interventions. The results show that AI-based treatments consistently reduce symptoms like depression and anxiety while improving emotional awareness and self-reflection.

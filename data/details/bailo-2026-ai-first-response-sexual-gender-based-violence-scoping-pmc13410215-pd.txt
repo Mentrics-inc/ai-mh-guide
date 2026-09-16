@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews the current state of artificial intelligence tools designed to provide immediate support to survivors of sexual and gender-based violence. The authors conducted a systematic scoping review of 27 studies to map how these technologies are used and evaluated. They found that while many tools exist for tasks like chatbots and risk screening, most only test basic performance rather than measuring real-world safety or effectiveness.

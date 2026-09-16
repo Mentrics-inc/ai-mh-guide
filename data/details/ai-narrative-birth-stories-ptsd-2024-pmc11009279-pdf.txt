@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates whether artificial intelligence models can accurately detect post-traumatic stress disorder following childbirth by analyzing women's written birth stories. The researchers analyzed narratives from 1,295 new mothers using a specific text-embedding model and compared its performance against ChatGPT and other existing tools. The primary finding was that the text-embedding model successfully identified the disorder with high accuracy, outperforming ChatGPT and other tested models.

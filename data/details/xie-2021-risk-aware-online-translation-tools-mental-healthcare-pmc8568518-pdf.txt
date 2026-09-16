@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper examines how to safely use online translation tools for mental health care with Spanish-speaking patients in English-speaking countries. The researchers built a machine learning model to classify English mental health texts as safe or risky for automatic translation based on a dataset of over 500 articles. They found that the model can effectively identify which texts are likely to produce misleading translations, helping health workers decide when to rely on automated tools.

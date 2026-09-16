@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper introduces a framework for developing artificial intelligence systems that support evidence-based psychotherapy. The authors outline eight core principles for clinical AI, including diagnostic assessment, long-term case planning, and rigorous validation with patient populations. They conclude that current AI tools lack the memory and clinical depth required for effective treatment, necessitating responsible design to address limitations like short-term focus and excessive agreeability.

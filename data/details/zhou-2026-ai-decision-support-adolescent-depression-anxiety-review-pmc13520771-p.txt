@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how artificial intelligence can help clinicians identify and manage depression and anxiety in teenagers. It examines various digital tools and prediction models used to monitor symptoms and assess risk. The authors find that while these technologies show promise, current evidence is limited and more research is needed to prove they actually improve patient care.

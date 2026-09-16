@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study reviews mobile applications that address both depression and insomnia. The researchers analyzed 18 peer-reviewed studies published between 2017 and 2023. The main finding is that AI-powered chatbots significantly improve depression symptoms and offer a promising, accessible form of mental health support.

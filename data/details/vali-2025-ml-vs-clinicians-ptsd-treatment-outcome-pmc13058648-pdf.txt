@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study compares the accuracy of machine learning models against clinicians in predicting treatment outcomes for veterans with PTSD. The researchers analyzed predictions made by twenty clinicians and three machine learning algorithms for 194 patients undergoing cognitive processing therapy. Machine learning models were significantly more accurate than clinicians at predicting final symptom severity, although both groups performed equally well at predicting meaningful symptom reduction.

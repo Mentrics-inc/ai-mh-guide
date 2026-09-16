@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates whether two common questionnaires, the PHQ-9 and GAD-7, are accurate tools for detecting depression and anxiety in incarcerated men in Mexico. The researchers tested these surveys with 272 male prisoners using statistical methods to check their reliability and compare results against clinical diagnoses. The findings show that both questionnaires work well to identify mental health issues in this population, offering a reliable way for prisons to screen for depression and anxiety.

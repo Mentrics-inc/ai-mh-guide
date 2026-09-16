@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates a Chinese translation of a structured interview tool designed to assess self-injurious thoughts and behaviors in adolescents. The researchers tested the tool's accuracy and reliability by comparing it with established diagnostic criteria and other assessment instruments in a group of 170 young patients. The results showed that the translated interview tool is highly consistent with clinical standards and effectively identifies at-risk youth.

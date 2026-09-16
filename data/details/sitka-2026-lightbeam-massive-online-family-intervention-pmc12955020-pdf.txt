@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper describes a study protocol for testing an online mental health program designed to support parents of young children. The researchers will conduct a pilot trial with Canadian families using an app that provides videos and exercises over twelve weeks. The study aims to determine if this accessible digital intervention can effectively reduce parental stress and improve mental health outcomes.

@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study compares the reliability of a traditional paper-based cognitive test with a new tablet-based version in patients with neurological diseases. Researchers administered both tests to 32 patients using two different therapists to check for consistency in scoring. The tablet version produced results that were nearly identical to the paper version, proving it is a reliable alternative for clinical use.

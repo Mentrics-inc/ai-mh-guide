@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how artificial intelligence can help institutions recognize and document signs of escalating intimate partner violence to prevent femicide. The authors conducted a scoping review of over 1,200 studies that used AI methods to analyze data from healthcare, legal, police, and social service records. The main finding is that AI cannot predict individual lethal events but can support human-led efforts to coordinate responses and improve accountability across different agencies.

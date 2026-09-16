@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews machine learning models designed to predict post-traumatic stress disorder across various trauma types. The researchers analyzed 23 studies using a systematic review and meta-analysis approach to assess prediction accuracy and study quality. Although tree-based algorithms showed promising results for different groups, the findings are limited by high risk of bias and a lack of external validation.

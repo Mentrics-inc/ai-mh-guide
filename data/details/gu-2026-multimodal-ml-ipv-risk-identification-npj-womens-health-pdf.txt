@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study develops computer algorithms to identify women at risk of domestic abuse using their medical records. The researchers trained these models on data from over 6,000 female patients, combining structured health information with written clinical notes. The best-performing model accurately detected abuse risk with high precision, even for patients who had not yet sought specialized help.

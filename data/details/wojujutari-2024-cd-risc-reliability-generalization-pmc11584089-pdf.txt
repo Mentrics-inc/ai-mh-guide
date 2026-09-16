@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates the consistency of scores produced by two widely used psychological tests, the CD-RISC-10 and CD-RISC-25, which measure resilience. The researchers analyzed data from 27 previous studies published between 2018 and 2023 to assess how reliably these tests perform across different groups. The results show that both tests are highly reliable, with the 25-item version performing slightly better than the 10-item version, and their accuracy remains stable regardless of the language used.

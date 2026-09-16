@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study investigates whether family environment factors can predict the likelihood of children experiencing adverse childhood events. The researchers analyzed data from over 63,000 children using machine learning models to identify risk patterns. The results show that family conditions can accurately predict which children have no adverse experiences, though the model is less effective at identifying those with just one or multiple events.

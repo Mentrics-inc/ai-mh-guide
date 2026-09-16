@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper guides mental health professionals on the ethical and legal considerations for integrating mobile health applications into patient care. It advises clinicians to evaluate apps for privacy risks, evidence of benefit, and appropriate informed consent procedures before recommending them. The authors conclude that because many apps lack adequate oversight and transparency, clinicians bear the primary responsibility for ensuring patient safety and data protection.

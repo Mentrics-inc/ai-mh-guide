@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study explores the ethical and fairness concerns surrounding the use of artificial intelligence to detect deception in mental health therapy. Researchers gathered perspectives from eighteen mental health clinicians and clients through six virtual focus groups. Participants expressed significant concerns about privacy, trust, and bias, recommending strict safeguards to ensure these tools do not harm the therapeutic relationship.

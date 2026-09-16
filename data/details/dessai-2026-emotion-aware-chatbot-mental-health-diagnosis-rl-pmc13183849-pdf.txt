@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper develops an emotion-aware chatbot that dynamically selects questions to diagnose anxiety, depression, and stress more accurately than standard fixed surveys. The system uses a fine-tuned language model to analyze user responses and a reinforcement learning algorithm to choose the next question in real time based on previous answers. The main finding is that this adaptive approach reduces the number of questions needed while maintaining diagnostic precision by focusing only on relevant emotional indicators.

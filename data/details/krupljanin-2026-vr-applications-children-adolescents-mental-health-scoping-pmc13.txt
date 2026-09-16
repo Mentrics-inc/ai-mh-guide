@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how virtual reality is used to assess and treat mental health issues in children and adolescents. The researchers analyzed 43 studies that tested the accuracy of diagnosis tools, the effectiveness of treatments, and the practicality of using this technology. They found that virtual reality shows promise for improving diagnosis and therapy, particularly for autism and anxiety, but more consistent testing is needed to confirm its reliability.

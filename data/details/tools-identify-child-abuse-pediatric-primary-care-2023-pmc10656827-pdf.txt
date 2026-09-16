@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper develops a computer tool to automatically detect signs of child abuse and neglect in young patients by analyzing their medical records. The researchers created a list of relevant terms, refined it with expert input, and tested it using natural language processing on thousands of clinical notes from a pediatric clinic. The tool successfully identified most cases of abuse in the training data but struggled with accuracy in testing, suggesting it needs further refinement before being used by doctors to guide care decisions.

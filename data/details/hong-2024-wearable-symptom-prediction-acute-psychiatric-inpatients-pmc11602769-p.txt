@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study aimed to predict psychiatric symptoms in hospitalized patients using data from wrist-worn wearable devices. Researchers collected sensor data from 244 patients with schizophrenia and mood disorders to train deep learning models that assessed symptom changes and severity. The models successfully predicted symptom deterioration and severity, with multitask learning showing the best performance.

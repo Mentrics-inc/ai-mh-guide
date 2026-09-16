@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how artificial intelligence is used to study and treat insomnia, anxiety, and depression. The authors analyzed 875 research articles published between 2000 and 2024 using bibliometric tools to map trends and collaborations. The United States and China lead this research, with key focus areas including machine learning and personalized treatment, though challenges like data privacy and model transparency remain.

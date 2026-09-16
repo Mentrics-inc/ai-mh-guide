@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study investigates whether speech patterns can serve as objective indicators for distinguishing major depressive disorder from healthy mental states. Researchers analyzed audio recordings of forty-four depressed patients and fifty-two healthy controls who described emotional life events, using machine learning to process acoustic and linguistic data. The results showed that a computer model based on voice features could identify depression with high accuracy, performing nearly as well as standard clinical questionnaires.

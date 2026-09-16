@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper explores how artificial intelligence is used to support older adults in Japan who are experiencing loneliness. The researchers analyzed unstructured texts, such as blogs and policy documents, to identify emotional and institutional themes. They found that while AI can provide comfort, its success depends on emotional receptivity and overcoming barriers like technological anxiety and institutional gaps.

@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates whether artificial intelligence chatbots and robots can help older adults feel less depressed and lonely. Researchers analyzed data from eight randomized controlled trials involving 611 participants to compare those using the technology with those receiving standard care. The results showed that these AI tools significantly reduced symptoms of depression, but they did not have a measurable impact on feelings of loneliness.

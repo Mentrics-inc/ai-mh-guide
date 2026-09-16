@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study uses artificial intelligence to analyze medical records and identify specific mental health symptoms in patients with post-traumatic stress disorder. The researchers processed over five million clinical notes from nearly 39,000 patients using a computer program designed to understand human language. The analysis showed that psychotherapy generally reduced these symptoms, with women and veterans often displaying higher levels of certain disturbances than men and non-veterans.

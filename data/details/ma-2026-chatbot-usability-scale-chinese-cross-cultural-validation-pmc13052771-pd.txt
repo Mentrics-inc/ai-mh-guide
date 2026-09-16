@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study translates and validates the Chatbot Usability Scale for Chinese users to assess how easy and satisfying these AI systems are to use. The researchers adapted the 11-item questionnaire and collected data from 214 participants who evaluated 438 different chatbot interactions. The results confirm that the Chinese version is a reliable and accurate tool for measuring chatbot usability across dimensions like accessibility and information quality.

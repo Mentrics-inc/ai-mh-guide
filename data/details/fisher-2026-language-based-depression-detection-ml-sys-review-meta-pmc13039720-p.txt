@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates the accuracy of machine learning models that detect depression by analyzing written or spoken language. The researchers conducted a systematic review and meta-analysis of 123 studies involving nearly 41,000 text samples to measure model performance. The main finding is that these automated detection methods achieve an average accuracy of 80%, though performance varies significantly depending on the type of text and language used.

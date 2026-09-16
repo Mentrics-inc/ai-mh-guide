@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study compared a specialized AI therapy chatbot and a general-purpose chatbot to see if they could reduce depression, anxiety, and improve well-being. Researchers randomly assigned 185 adults to use one of the chatbots for three weeks or to a control group with no intervention. Both chatbot groups showed significant reductions in depression compared to the control group, but there was no significant difference in effectiveness between the two types of chatbots.

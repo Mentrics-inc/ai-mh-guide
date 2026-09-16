@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study developed and refined tailored text messages to help homeless youth aged 18 to 25 prevent HIV and reduce substance use. The researchers created a large library of messages through expert review, feedback from youth participants, and artificial intelligence tools. Youth found the vast majority of these messages acceptable, demonstrating that this collaborative approach is effective for creating relevant health content for this population.

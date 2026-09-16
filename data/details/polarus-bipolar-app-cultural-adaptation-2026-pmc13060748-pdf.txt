@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 3s]
+The paper describes a study to adapt a digital mental health app for bipolar disorder into French, Chinese, and Spanish for North American users. The researchers use a qualitative co-design approach, working with advisory groups from these linguistic communities to tailor the app content. The study is currently in progress with seven participants enrolled, and the final results are expected to be published in the fall of 2026.

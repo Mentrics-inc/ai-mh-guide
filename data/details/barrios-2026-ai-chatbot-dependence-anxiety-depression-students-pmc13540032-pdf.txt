@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates a Spanish-language survey tool designed to measure university students' dependence on artificial intelligence chatbots. The researchers surveyed 200 students in Paraguay to assess the tool's reliability and its connection to anxiety and depression. The results confirmed the survey tool works well, but found no strong or lasting link between chatbot dependence and mental health symptoms after accounting for other factors.

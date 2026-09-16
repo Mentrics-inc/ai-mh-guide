@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study investigates the genetic basis of psychological resilience, defined as the ability to bounce back from stress, using the Brief Resilience Scale. The researchers analyzed genome-wide data from 124,774 participants of European ancestry in the UK Biobank. They identified three genetic loci significantly associated with resilience and found strong genetic links between resilience and traits such as neuroticism, depression, and anxiety.

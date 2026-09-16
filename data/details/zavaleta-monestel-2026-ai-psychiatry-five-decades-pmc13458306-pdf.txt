@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews the history of artificial intelligence in psychiatry from 1972 to 2025 to identify why clinical adoption has remained difficult. The authors conducted a narrative review by synthesizing literature from multiple academic databases and organizing findings chronologically. They found that despite decades of technical progress, the field faces persistent barriers such as unclear diagnostic targets, poor validation, and integration challenges that prevent AI tools from being used in routine care.

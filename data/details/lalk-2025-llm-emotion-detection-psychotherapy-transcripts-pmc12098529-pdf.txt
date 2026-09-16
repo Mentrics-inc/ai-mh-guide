@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study uses a large language model to identify emotions in German psychotherapy transcripts and predict patient symptom severity and the therapeutic relationship. The researchers fine-tuned the model on a translated dataset of 28 emotions and applied it to transcripts from 553 therapy sessions involving 124 patients. Negative emotions like anger and fear were the strongest predictors of symptom severity, while positive emotions such as curiosity and surprise best predicted the strength of the therapeutic alliance.

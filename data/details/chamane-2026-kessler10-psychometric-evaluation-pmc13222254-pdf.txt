@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates the reliability and accuracy of the Kessler 10 questionnaire for measuring psychological distress in South Africa. The researchers analyzed national survey data using advanced statistical models to test how well the ten questions perform across different language groups. The findings confirm that the scale is a consistent and effective tool for identifying moderate to high levels of distress in the general population.

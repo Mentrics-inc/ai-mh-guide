@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluated an artificial intelligence tool designed to streamline psychiatric triage and reduce wait times for mental health care. Researchers tested the system with 101 patients waiting for outpatient psychiatric evaluations, comparing the AI's treatment recommendations against those made by a psychiatrist. The initiative cut overall wait times by 71 percent, with the AI's suggestions matching the psychiatrist's decisions in over 70 percent of cases.

@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study outlines a plan to co-design a virtual reality application that supports the social, emotional, and cultural wellbeing of Aboriginal communities in Sydney. The research involves 35 community members and partners in a three-phase process that combines storytelling, interviews, and surveys to test the technology's relevance and usability. The project aims to produce a culturally appropriate digital tool that can be integrated into existing community health programs to improve access to wellbeing support.

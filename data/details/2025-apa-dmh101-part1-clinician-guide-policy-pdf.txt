@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper introduces mental health professionals to the landscape of mobile health applications and how to effectively integrate them into patient care. It reviews the current availability of thousands of apps, distinguishing between general wellness tools and medically regulated solutions while addressing the limitations of app store ratings. The authors provide best practices for clinicians to evaluate and select appropriate digital tools based on individual patient needs rather than commercial popularity.

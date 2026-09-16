@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews digital health tools used to treat depression and anxiety in low- and middle-income countries. The researchers analyzed 80 studies published between January 2020 and January 2025 to assess how well these tools work and fit local cultures. They found that many tools lack proper cultural adaptation and face significant barriers to use, such as privacy concerns and structural issues.

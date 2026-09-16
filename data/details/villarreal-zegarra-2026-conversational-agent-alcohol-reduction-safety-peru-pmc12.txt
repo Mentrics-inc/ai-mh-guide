@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study developed a mental health conversational agent to reduce depressive and anxious symptoms and compared the performance of two large language models. The researchers built a web-based platform and evaluated 816 simulated interactions using expert ratings and numerical metrics. The results showed that GPT-4o outperformed Llama 3.1-8B in clarity, robustness, and completeness, although it was more expensive.

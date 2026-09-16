@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 3s]
+This paper outlines a study protocol to create prediction tools for depression in older adults using data from wearable devices. The researchers are collecting information from 685 elderly participants in South Korea over three years through surveys and device sensors. The study will use machine learning to analyze this data and develop algorithms for early detection.

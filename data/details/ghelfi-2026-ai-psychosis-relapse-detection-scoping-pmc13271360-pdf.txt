@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews existing research on using artificial intelligence to detect relapses in people with psychotic disorders. The study analyzed ten observational studies that used digital tools like smartphones and wearable devices to collect data on patient behavior and speech. The main finding is that while AI shows promise for monitoring mental health, current models are inconsistent and require larger, more collaborative studies to be reliable in real-world clinical settings.

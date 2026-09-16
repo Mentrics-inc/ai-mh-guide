@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how artificial intelligence is currently used to help protect vulnerable groups from interpersonal violence. The researchers searched major medical and social science databases and selected ten relevant studies for analysis. They found that while AI can predict and monitor violence, these systems need strict oversight, data protection, and more rigorous testing before being widely trusted.

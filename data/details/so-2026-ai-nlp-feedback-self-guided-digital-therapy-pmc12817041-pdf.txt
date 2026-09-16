@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study investigates whether adding artificial intelligence-generated feedback to self-guided online therapy for depression improves patient engagement and clinical results. Researchers randomly assigned 1,187 adults to receive either standard online therapy, the same therapy with AI feedback, or no treatment. The results showed that while AI feedback did not significantly reduce symptoms compared to standard therapy, it substantially increased the likelihood that participants would complete the program.

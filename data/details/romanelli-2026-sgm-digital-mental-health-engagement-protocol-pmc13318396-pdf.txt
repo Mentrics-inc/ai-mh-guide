@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper outlines a study protocol designed to test strategies for improving how sexual and gender minority users engage with free online mental health resources. The researchers will use a series of microrandomized trials on a real-world website where visitors are randomly assigned to receive specific engagement prompts or no prompt at two different points during their visit. The study aims to determine if these targeted prompts increase the likelihood that users will click through to read more mental health content.

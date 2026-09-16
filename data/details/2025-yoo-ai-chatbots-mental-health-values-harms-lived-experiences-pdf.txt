@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study investigates the values and potential harms of using AI chatbots for depression self-management from the perspective of individuals with lived experience. The researchers used a GPT-4o based chatbot to interview 17 participants through four hypothetical depression self-management scenarios. The main finding identifies five key values—informational support, emotional support, personalization, privacy, and crisis management—and maps associated harms to inform safer chatbot design.

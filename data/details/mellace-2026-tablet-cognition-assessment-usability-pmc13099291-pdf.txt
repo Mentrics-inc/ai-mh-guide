@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper describes the development and initial testing of TAP-COG, a tablet-based tool designed to quickly screen for cognitive issues. The researchers evaluated the tool's ease of use by having 80 healthy adults complete five tasks on a tablet and then rate their experience. The results showed that all participants could use the tool independently and found it easy to use, with most rating the experience as good or excellent.

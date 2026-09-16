@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates the reliability and accuracy of the German version of the Clinician-Administered PTSD Scale for diagnosing post-traumatic stress disorder. Researchers assessed 288 participants from both civilian and military clinical settings using a multi-trait and multi-method design. The results showed that the scale has strong consistency and diagnostic accuracy, establishing a score of 39 or higher as the threshold for a PTSD diagnosis.

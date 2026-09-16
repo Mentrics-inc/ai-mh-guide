@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews the strengths and limitations of the Montreal Cognitive Assessment as a screening tool for mild cognitive impairment. The authors conducted a narrative review of studies published between 2005 and 2024 to evaluate the test's validity and cultural applicability. The review finds that while the test is sensitive and quick, it suffers from cultural biases and superficial assessments of executive function, suggesting that clinicians should interpret results carefully and consider using refined scoring methods.

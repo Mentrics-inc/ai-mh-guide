@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study developed and tested a computer system designed to help emergency room doctors spot signs of physical abuse in infants. The researchers gathered feedback from twenty-four medical staff members through interviews to evaluate how easy the system was to use. The main finding was that the system was helpful for identifying abuse and could be improved by simplifying its design to prevent overwhelming providers with too many alerts.

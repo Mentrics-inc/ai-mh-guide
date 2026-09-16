@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews the current state and future potential of using artificial intelligence to manage post-traumatic stress disorder. The authors analyzed research publications from the Web of Science database using bibliometric software to identify trends and key contributors. The study finds that while the field is growing rapidly with the United States leading production, realizing AI's full potential requires overcoming challenges in data integration, ethics, and standardization.

@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study developed a machine learning tool called FLARE to identify firefighters at risk for post-traumatic stress disorder, addressing the issue of underreporting due to stigma. The researchers analyzed data from over 52,000 South Korean firefighters to train an algorithm that classifies PTSD risk based on seven specific psychosocial and clinical factors. The resulting model accurately distinguished between firefighters with and without probable PTSD, demonstrating high reliability in both initial and subsequent testing phases.

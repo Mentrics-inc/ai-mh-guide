@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study developed and validated an artificial intelligence model to passively screen for depressive symptoms using daily wrist movement data. The researchers analyzed actigraphy recordings from 1,160 adults to test five deep learning architectures against self-reported depression scores. The best-performing model accurately distinguished between individuals with normal and higher depressive symptoms, demonstrating that passive activity monitoring can effectively support early mental health screening.

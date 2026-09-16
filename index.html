@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Cache-Control" content="no-store">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MH Knowledge Curation — teaser</title>
+<style>
+:root { --ink:#1a2233; --paper:#faf9f6; --chip:#e8ecef; --accent:#4a6fa5; }
+body { font-family: Georgia, serif; max-width: 900px; margin: 0 auto; padding: 2rem; background: var(--paper); color: var(--ink); }
+h1 { font-size: 1.6rem; }
+.count { color: #667; }
+.chips { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1rem 0; }
+.chip { background: var(--chip); border: 1px solid #ccd; border-radius: 2rem; padding: .3rem .9rem; cursor: pointer; font-size: .9rem; }
+.chip.on { background: var(--accent); color: #fff; }
+.chip small { opacity: .7; }
+#randomBtn { font-size: 1.2rem; padding: .7rem 2rem; background: var(--accent); color: #fff; border: 0; border-radius: .4rem; cursor: pointer; margin: 1rem 0; }
+#randomBtn:hover { filter: brightness(1.1); }
+.card { border: 1px solid #ccd; border-radius: .6rem; padding: 1.2rem; margin: 1rem 0; background: #fff; }
+.card h2 { margin: .2rem 0 .6rem; font-size: 1.2rem; }
+.card .meta { color: #667; font-size: .85rem; margin-bottom: .6rem; }
+.card .teaser { line-height: 1.5; }
+.pools { color: #667; font-size: .9rem; }
+footer { color: #99a; font-size: .8rem; margin-top: 2rem; }
+</style>
+</head>
+<body>
+<h1>Mental health × AI — curation teaser</h1>
+<p class="count" id="poolCount"></p>
+<p>Pick any combination of facets, then hit the button for a random pick from that selection.</p>
+
+<h3>Category</h3><div class="chips" id="chips-category"></div>
+<h3>Type</h3><div class="chips" id="chips-type"></div>
+<h3>Other tags (channel / year)</h3><div class="chips" id="chips-tag"></div>
+
+<div id="moreWrap" style="margin:1rem 0"><button id="revealBtn">alright, a few more…</button>
+<button id="reshuffleBtn" style="margin-left:.5rem">🎲 shuffle</button>
+<small>[test mode: no throttle]</small></div>
+<div id="cards"></div>
+<footer>Static teaser prototype — items link into the curated repository. No tracking, no backend.</footer>
+
+<script>
+let ITEMS = [], FACETS = {};
+const active = new Set();
+const revealed = [];
+
+async function load() {
+  ITEMS = await (await fetch('data/items.json')).json();
+  FACETS = await (await fetch('data/facets.json')).json();
+  renderChips('category'); renderChips('type'); renderChips('tag');
+  document.getElementById('poolCount').textContent = `${ITEMS.length} items in the collection`;
+  // Editorial confidence score (made-up but deterministic): curated sources + has detail + recency
+  ITEMS.forEach(it => {
+    let c = 0;
+    if (it.teaser && it.teaser.length > 80) c += 2;
+    if (it.tags.includes('type:explainer')) c += 3;
+    if (it.tags.includes('type:transcript')) c += 2;
+    if (it.tags.includes('type:paper')) c += 2;
+    if (it.year && +it.year >= 2025) c += 2;
+    if (it.tags.some(t => t.startsWith('ch:'))) c += 1;
+    it.conf = c + (it.id.length % 3);  // small jitter, stable
+  });
+  showPicks(3);
+}
+function renderChips(kind) {
+  const host = document.getElementById('chips-' + kind);
+  const entries = Object.entries(FACETS[kind] || {}).sort((a,b)=>b[1]-a[1]).slice(0, kind==='tag'?22:99);
+  host.innerHTML = entries.map(([val, n]) =>
+    `<span class="chip" data-k="${kind}" data-v="${val}">${val.replace(/^(cat:|ch:|yr:|type:)/,'')} <small>${n}</small></span>`).join('');
+  host.querySelectorAll('.chip').forEach(c => c.onclick = (ev) => {
+    if (ev.ctrlKey || ev.metaKey) {           // Ctrl/Cmd+click = toggle multi-select
+      if (active.has(c.dataset.k + ':' + c.dataset.v)) active.delete(c.dataset.k + ':' + c.dataset.v);
+      else active.add(c.dataset.k + ':' + c.dataset.v);
+      c.classList.toggle('on', active.has(c.dataset.k + ':' + c.dataset.v));
+    } else {                                  // plain click = exclusive
+      active.clear();
+      document.querySelectorAll('.chip.on').forEach(x => x.classList.remove('on'));
+      active.add(c.dataset.k + ':' + c.dataset.v);
+      c.classList.add('on');
+    }
+    document.getElementById('cards').innerHTML = '';
+    document.getElementById('poolCount').textContent = `${pool().length} items match · ${ITEMS.length} total`;
+    pending = pool();                   // selection => show actual items
+    document.getElementById('cards').innerHTML = '';
+    reveal(12);
+  });
+}
+function pool() {
+  if (!active.size) return ITEMS;
+  const out = []; const seen = new Set();
+  active.forEach(a => {   // OR across selections (operator: few samples)
+    const [k, ...rest] = a.split(':'); const val = rest.join(':');
+    ITEMS.forEach(it => {
+      if (seen.has(it.id)) return;
+      if (it[k] === val || (it.tags && it.tags.includes(val))) { out.push(it); seen.add(it.id); }
+    });
+  });
+  return out;
+}
+function cardHtml(it) {
+  return `<div class="card" data-id="${it.id}">
+    <div class="meta">${it.year || ''} · ${it.category} · ${it.type}</div>
+    <h2>${it.title}</h2>
+    <p class="teaser">${it.teaser || ''}</p>
+    <small>${it.tags.join(' · ')}</small>
+    <div class="detail" id="d-${it.id}" style="margin-top:.7rem;color:#445"></div>
+  </div>`;
+}
+function attachDetail(it) {
+  fetch('data/details/' + it.id + '.txt').then(r => r.ok ? r.text() : Promise.reject())
+    .then(d => {
+      const el = document.getElementById('d-' + it.id);
+      if (el) el.innerHTML = '<details><summary>peek inside</summary><pre style="white-space:pre-wrap;font-size:.82rem">' + d.slice(0, 1200) + '</pre></details>';
+    }).catch(() => {});
+}
+// Editorial top picks (confidence desc, small shuffle among top 12)
+function topPicks(n) {
+  return [...ITEMS].sort((a,b) => b.conf - a.conf).slice(0, 12)
+    .sort(() => Math.random() - .5).slice(0, n);
+}
+// Random picks
+function randPicks(n) {
+  const p = [...pool()]; const out = [];
+  while (out.length < Math.min(n, p.length)) out.push(p.splice(Math.floor(Math.random()*p.length), 1)[0]);
+  return out;
+}
+// Throttled reveal: 3 cards at a time, 1.2s pause = the tease
+let pending = [];
+function reveal(n = 3) {
+  const batch = pending.splice(0, n);
+  batch.forEach((it) => {          // TEST MODE: no staged delay
+    const div = document.createElement('div'); div.innerHTML = cardHtml(it);
+    document.getElementById('cards').appendChild(div.firstElementChild);
+    attachDetail(it);
+  });
+  const more = document.getElementById('moreWrap');
+  if (pending.length) { more.style.display = 'block';
+    
+  } else if (!document.getElementById('cards').children.length) {
+    document.getElementById('poolCount').textContent += ' — nothing matches that selection (try Ctrl+click to combine)';
+    more.style.display = 'none';
+  } else { more.style.display = 'none'; }
+}
+function showPicks(n = 9) {
+  pending = topPicks(9);   // editorial mode: top-confidence mix
+  document.getElementById('cards').innerHTML = '';
+  pending.splice(0, 3).forEach((it) => {
+    const div = document.createElement('div'); div.innerHTML = cardHtml(it);
+    document.getElementById('cards').appendChild(div.firstElementChild);
+    attachDetail(it);
+  });
+  const more = document.getElementById('moreWrap');
+  more.style.display = 'block';
+  document.getElementById('revealBtn').textContent = 'alright, a few more…';
+}
+// any facet change or reshuffle resets to random-from-pool mode
+const origClick = document.getElementById('revealBtn').onclick;
+document.getElementById('revealBtn').onclick = () => {
+  if (!pending.length) pending = pool();
+  reveal(12);
+  if (!pending.length) document.getElementById('moreWrap').style.display = 'none';
+};
+// facet click switches to random-from-pool flow: rebuild pending lazily via reveal()
+document.getElementById('reshuffleBtn').onclick = () => {
+  pending = pool();
+  document.getElementById('cards').innerHTML = '';
+  reveal(12);
+};
+load();
+</script>
+</body>
+</html>

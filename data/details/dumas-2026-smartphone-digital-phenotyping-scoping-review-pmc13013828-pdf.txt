@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how smartphone sensors are used to track health behaviors and conditions without relying on user input. The study analyzed 65 research papers published between 2012 and 2025, focusing on mental health, physical health, and substance use disorders. The main finding is that while this approach shows promise, inconsistent reporting methods and lack of standardization currently hinder its ability to be reliably used in clinical settings.

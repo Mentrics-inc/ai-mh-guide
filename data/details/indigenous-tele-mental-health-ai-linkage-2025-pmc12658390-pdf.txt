@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper describes a pilot study evaluating a culturally tailored tele-mental health app designed to connect urban Indigenous people with appropriate therapists. The researchers used a small group of five clients and two therapists to test the app's accessibility, user experience, and cost through surveys and interviews. Although the study is still in progress with results expected in 2026, it aims to determine if this technology can provide a feasible and cost-effective way to improve mental health care access for this population.

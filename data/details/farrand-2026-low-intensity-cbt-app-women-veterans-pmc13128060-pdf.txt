@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study adapts a digital cognitive behavioral therapy app to better support low mood and worry in female military veterans. The researchers used a mixed-methods approach involving focus groups with veterans to guide changes, followed by a usability test with a larger group of female veterans. The main finding was that while the core therapy techniques were effective, removing constant references to the armed forces and improving navigation significantly increased the app's acceptability and usefulness for this group.

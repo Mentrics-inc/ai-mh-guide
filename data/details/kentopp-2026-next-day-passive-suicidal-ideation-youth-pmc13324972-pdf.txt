@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study investigates whether machine learning can accurately predict next-day passive suicidal thoughts in at-risk adolescents. Researchers collected daily risk assessments from 78 hospitalized youth for 28 days after discharge and used these time-varying data to train predictive models. The analysis revealed that recent personal trends in suicidal thoughts were highly accurate predictors, while initial baseline characteristics offered little additional value.

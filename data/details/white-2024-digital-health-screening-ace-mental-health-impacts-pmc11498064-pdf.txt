@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how digital health tools and artificial intelligence can help identify and reduce the mental health problems caused by traumatic childhood events. The authors analyzed eighteen studies published between 2017 and 2022 to evaluate existing digital solutions for children and adolescents. The review finds that these technologies have the potential to improve care for issues like anxiety, depression, and trauma, provided that privacy and security standards are properly maintained.

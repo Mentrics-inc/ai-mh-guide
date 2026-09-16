@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how artificial intelligence can improve alcohol research and treatment while addressing related ethical concerns. The authors conducted a narrative review of existing studies on machine learning and large language models in this field. They found that AI shows promise for advancing care and research, but its success depends on maintaining strict data security, informed consent, and ongoing monitoring for bias.

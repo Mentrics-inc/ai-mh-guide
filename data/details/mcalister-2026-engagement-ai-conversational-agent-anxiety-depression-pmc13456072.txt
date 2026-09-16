@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study examines how different patterns of interaction with an AI mental health chatbot relate to users' levels of anxiety and depression. Researchers analyzed usage data and survey responses from 112 individuals who completed at least five sessions with the app. Users who engaged in longer, clustered sessions reported the lowest symptoms, while those with brief, evenly distributed use reported the highest symptom levels.

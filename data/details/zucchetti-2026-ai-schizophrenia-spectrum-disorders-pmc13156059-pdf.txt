@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how artificial intelligence is currently used to study schizophrenia spectrum disorders. The authors analyzed 853 studies to categorize the types of AI methods and data sources employed in this field. The main finding is that machine learning is the most common approach, primarily used for diagnosis with data from brain scans and electrical brain activity recordings.

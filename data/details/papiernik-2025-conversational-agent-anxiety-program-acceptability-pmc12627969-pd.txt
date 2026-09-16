@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates how well people with anxiety accept and use a digital mental health program guided by a conversational AI agent. Researchers surveyed nearly 300 participants and interviewed a smaller group to measure their satisfaction and experiences with the tool. The results show that users found the program engaging, easy to use, and helpful for accessing care, though they wanted more personalized interactions.

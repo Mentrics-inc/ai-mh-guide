@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews the use of artificial intelligence to support cognitive behavioral therapy for treating depression and anxiety. The authors analyzed research and conceptual papers published between 2010 and 2025 to evaluate the effectiveness and implementation of these digital tools. The review finds that while these technologies show promise for helping people with mild to moderate symptoms, the current evidence is limited by short study durations and a lack of long-term safety data.

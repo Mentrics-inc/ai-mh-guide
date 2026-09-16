@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study tested whether a digital well-being app could improve mental health outcomes for Indigenous people in Australian prisons. Researchers conducted a randomized controlled trial with 132 prisoners, comparing immediate app access to delayed access while measuring well-being, empowerment, and distress levels. The results showed that while participants experienced general improvements over time, the app itself did not provide any additional benefit compared to standard care.

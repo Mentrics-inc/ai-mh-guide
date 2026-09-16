@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how functional near-infrared spectroscopy is used to study brain activity in people with substance use disorders. The authors analyzed existing research to compare this portable, non-invasive scanning method with traditional brain imaging techniques. They found that the technology effectively detects changes in brain function related to cravings and can help monitor progress during addiction treatment.

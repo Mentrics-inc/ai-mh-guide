@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study tests whether a data-driven method called the personalized advantage index can help match people with eating disorders to the digital treatment most likely to help them. Researchers used computer models to predict outcomes for 214 participants in a trial comparing two different digital programs. The main finding was that assigning participants to their predicted best treatment did not actually lead to better results than assigning them to any treatment.

@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates how well artificial intelligence chatbots can reduce anxiety and depression in various groups of people. The researchers analyzed data from twenty published studies using statistical methods to compare mental health outcomes. They found that these AI tools significantly lower symptoms of anxiety and depression, especially when the systems use multiple ways to communicate, though long-term benefits are less clear.

@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study explores whether computer analysis of daily digital behaviors can help identify suicidal thoughts in people with depression. Researchers used a smartphone app to record video, voice, and text from 99 patients over a week, then applied machine learning to these multimodal data. The best model correctly identified suicidal ideation in nearly 80% of cases, suggesting that remote digital monitoring is a promising tool for community-based mental health screening.

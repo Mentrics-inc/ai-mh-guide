@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 3s]
+This study investigates whether machine learning can accurately predict which patients with depression will stop attending psychotherapy. Researchers analyzed data from nearly 400 patients using computer models that identified key risk factors such as younger age, unemployment, and lack of a partner. However, the models performed poorly and failed to generalize to new patient groups, indicating that current methods are not yet ready for clinical use.

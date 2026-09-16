@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study uses machine learning to identify risk factors for anxiety, depression, and insomnia in mainland China after the end of COVID-19 lockdowns. The researchers analyzed survey data from over 65,000 people using seven different computer models to predict mental health symptoms. The best model accurately classified mental health conditions and showed that good community relations, regular sleep, and healthy habits lower the risk of these symptoms.

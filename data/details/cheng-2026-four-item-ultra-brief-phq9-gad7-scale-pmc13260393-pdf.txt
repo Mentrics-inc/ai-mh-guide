@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluates the reliability and validity of a four-item scale for screening depression and anxiety in rural Chinese adults. The researchers analyzed data from the China Multi-Ethnic Cohort using multivariate generalizability theory and item response theory. They found that the four-item scale demonstrated satisfactory measurement properties, although further validation against clinical criteria is needed.

@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study investigates the factors that predict depression in children living in a Tamil refugee camp in India. Researchers surveyed 120 parent-child pairs and used both traditional statistical analysis and machine learning to identify key influences. The findings show that parental mental health, child behavior, and family functioning are major predictors of child depression, highlighting the need for mental health support for both parents and children in refugee settings.

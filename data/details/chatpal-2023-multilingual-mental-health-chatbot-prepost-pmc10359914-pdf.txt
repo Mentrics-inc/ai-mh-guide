@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This study evaluated whether a multilingual digital chatbot named ChatPal could improve mental well-being among people in rural areas. Researchers recruited 348 participants from five different countries to use the app for 12 weeks and measured their mental health at the start, middle, and end of the trial. Although users who engaged more with the chatbot tended to be younger and showed some improvement, the overall changes in mental well-being were not statistically significant.

@@ -1,0 +1,2 @@
+[LLM synopsis from 6pp extract · 2s]
+This paper reviews how machine learning is used to study mental health issues in immigrants and racial or ethnic minorities. The researchers searched major academic databases and selected 13 peer-reviewed studies that applied these computer models to these specific groups. They found that while these models show promise for predicting mental health outcomes, their use in real-world clinical settings is still in early stages.
