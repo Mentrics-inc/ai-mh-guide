@@ -1,7 +1,7 @@
 {
  "category": {
   "abuse-treatment": 33,
-  "ai-applications": 54,
+  "ai-applications": 90,
   "cultural-competence": 18,
   "depression-anxiety": 32,
   "domestic-violence": 17,
@@ -64,7 +64,7 @@
  },
  "tag": {
   "cat:abuse-treatment": 33,
-  "cat:ai-applications": 54,
+  "cat:ai-applications": 90,
   "cat:cultural-competence": 18,
   "cat:depression-anxiety": 32,
   "cat:domestic-violence": 17,
@@ -135,7 +135,7 @@
   "type:book": 3,
   "type:explainer": 176,
   "type:grey-lit": 8,
-  "type:paper": 191,
+  "type:paper": 227,
   "type:training": 13,
   "type:transcript": 133,
   "yr:2019": 2,
@@ -143,14 +143,14 @@
   "yr:2022": 2,
   "yr:2023": 8,
   "yr:2024": 25,
-  "yr:2025": 210,
-  "yr:2026": 276
+  "yr:2025": 215,
+  "yr:2026": 307
  },
  "type": {
   "book": 3,
   "explainer": 176,
   "grey-lit": 8,
-  "paper": 191,
+  "paper": 227,
   "training": 13,
   "transcript": 133
  },
@@ -160,7 +160,7 @@
   "2022": 2,
   "2023": 8,
   "2024": 25,
-  "2025": 210,
-  "2026": 276
+  "2025": 215,
+  "2026": 307
  }
 }
