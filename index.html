@@ -182,7 +182,7 @@ function cardHtml(it) {
     `Explain this to a non-expert, with context and caveats.` +
     ` Title: "${it.title}"` +
     (it.url ? ` Source (readable online): ${it.url}` : ' Source: not publicly available.') +
-    (peek ? ` Full peek at the material: "${peek}"` : ''));
+    (peek ? ` Peek at the material (verify and expand with your own knowledge and sources): "${peek}"` : ''));
   const chat = `<span class="chatrow"> · 💬 <a href="https://chatgpt.com/?q=${prompt}" target="_blank" rel="noopener">ChatGPT</a>` +
     ` · <a href="https://www.perplexity.ai/search?q=${prompt}" target="_blank" rel="noopener">Perplexity</a></span>`;
   return `<div class="card" data-id="${it.id}">
