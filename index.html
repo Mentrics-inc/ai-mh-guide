@@ -175,12 +175,14 @@ function cardHtml(it) {
   // "chat about this" deep-links. Prompt guarantees the chat can work even
   // when the material isn't publicly reachable: best case = title + source URL
   // (chat can open it); worst case = excerpt of the actual text inline.
-  const gist = (it.teaser || '').slice(0, 600);
+  // pass the full peek (1200 chars of the actual material) — chat gets real
+  // content to work with, reachable-source or not
+  const peek = (it.peek || it.teaser || '').slice(0, 1200);
   const prompt = encodeURIComponent(
     `Explain this to a non-expert, with context and caveats.` +
     ` Title: "${it.title}"` +
     (it.url ? ` Source (readable online): ${it.url}` : ' Source: not publicly available.') +
-    (gist ? ` Excerpt of the material: "${gist}"` : ''));
+    (peek ? ` Full peek at the material: "${peek}"` : ''));
   const chat = `<span class="chatrow"> · 💬 <a href="https://chatgpt.com/?q=${prompt}" target="_blank" rel="noopener">ChatGPT</a>` +
     ` · <a href="https://www.perplexity.ai/search?q=${prompt}" target="_blank" rel="noopener">Perplexity</a></span>`;
   return `<div class="card" data-id="${it.id}">
