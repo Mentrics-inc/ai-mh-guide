@@ -70,8 +70,8 @@ async function load() {
     if (host && host.children.length > 12) {
       const det = document.createElement('details'); det.className = 'facet-group'; det.open = true;
       det.innerHTML = `<summary>${label} (${host.children.length})</summary>`;
-      det.appendChild(host); 
-      host.parentNode.insertBefore(det, host);
+      host.before(det);          // place wrapper FIRST (host's parent is still its real parent)
+      det.appendChild(host);     // then move the chip list inside
     }
   });
   document.getElementById('poolCount').textContent = `${ITEMS.length} items in the collection`;
