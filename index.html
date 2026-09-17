@@ -16,6 +16,7 @@ h1 { font-size: 1.6rem; }
 .facet-group summary { cursor: pointer; color: #345; font-weight: 600; font-size: .95rem; }
 .facet-group[open] summary { margin-bottom: .4rem; }
 .chip { background: var(--chip); border: 1px solid #ccd; border-radius: 2rem; padding: .3rem .9rem; cursor: pointer; font-size: .9rem; }
+.chip .ico { opacity: .75; margin-right: .25rem; font-size: .85em; }
 .chip.on { background: var(--accent); color: #fff; }
 .chip small { opacity: .7; }
 #randomBtn { font-size: 1.2rem; padding: .7rem 2rem; background: var(--accent); color: #fff; border: 0; border-radius: .4rem; cursor: pointer; margin: 1rem 0; }
@@ -89,9 +90,12 @@ async function load() {
 }
 function renderChips(kind) {
   const host = document.getElementById('chips-' + kind);
+  // emoji on the CHIP (selection area) — helps scanning at top; results stay clean text
+  const ICON = {org:'🏛', person:'👤', place:'📍', event:'📅', category:'🗂', type:'🏷', year:'📅', tag:'🔖'};
+  const ico = ICON[kind] || '';
   const entries = Object.entries(FACETS[kind] || {}).sort((a,b)=>b[1]-a[1]).slice(0, kind==='tag'?22:99);
   host.innerHTML = entries.map(([val, n]) =>
-    `<span class="chip" data-k="${kind}" data-v="${val}">${val.replace(/^(cat:|ch:|yr:|type:)/,'')} <small>${n}</small></span>`).join('');
+    `<span class="chip" data-k="${kind}" data-v="${val}"><span class="ico">${ico}</span>${val.replace(/^(cat:|ch:|yr:|type:)/,'')} <small>${n}</small></span>`).join('');
   host.querySelectorAll('.chip').forEach(c => c.onclick = (ev) => {
     if (ev.ctrlKey || ev.metaKey) {           // Ctrl/Cmd+click = toggle multi-select
       if (active.has(c.dataset.k + ':' + c.dataset.v)) active.delete(c.dataset.k + ':' + c.dataset.v);
@@ -127,17 +131,17 @@ function pool() {
   return out;
 }
 function cardHtml(it) {
-  // single-line entity strip with emoji, from tags (org/person/place/event namespaces)
-  const ICON = {org:'🏛', person:'👤', place:'📍', event:'📅'};
+  // results: clean text — entity names as plain single line, no emoji (emoji live on chips only)
   const ent = it.tags.filter(t => /^(org|person|place|event):/.test(t))
-    .map(t => { const [ns,...r] = t.split(':'); return ICON[ns] + r.join(':'); }).slice(0, 6)
+    .map(t => { const [ns,...r] = t.split(':'); return r.join(':'); }).slice(0, 6)
     .join(' · ');
   const link = it.url ? ` · <a href="${it.url}" target="_blank" rel="noopener">source ↗</a>` : '';
+  const meta = [it.year || '', it.category, it.type].filter(Boolean).join(' · ');
   return `<div class="card" data-id="${it.id}">
-    <div class="meta">${it.year || ''} · ${it.category} · ${it.type}${link}</div>
+    <div class="meta">${meta}${link}</div>
     <h2>${it.title}</h2>
     <p class="teaser">${it.teaser || ''}</p>
-    <small>${ent}</small>
+    ${ent ? `<small>${ent}</small>` : ''}
     <div class="detail" id="d-${it.id}" style="margin-top:.7rem;color:#445"></div>
   </div>`;
 }
