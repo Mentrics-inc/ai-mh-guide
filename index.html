@@ -70,16 +70,8 @@ async function load() {
   [...merged.children].sort((a,b) =>
     (+(b.querySelector('small')?.textContent || 0)) - (+(a.querySelector('small')?.textContent || 0)))
     .forEach(c => merged.appendChild(c));
-  // collapse ALL chip rows beyond 12 chips into open-by-default accordions
-  [['chips-category','Category'], ['chips-type','Type'], ['chips-tag','Other tags']].forEach(([id,label]) => {
-    const host = document.getElementById(id);
-    if (host && host.children.length > 12) {
-      const det = document.createElement('details'); det.className = 'facet-group'; det.open = true;
-      det.innerHTML = `<summary>${label} (${host.children.length})</summary>`;
-      host.before(det);          // place wrapper FIRST (host's parent is still its real parent)
-      det.appendChild(host);     // then move the chip list inside
-    }
-  });
+  // single-level chips everywhere: NO accordions — heading + plain chip row
+  // (operator: same pattern as Type; no 2-level nesting, no summaries)
   document.getElementById('poolCount').textContent = `${ITEMS.length} items in the collection`;
   // Editorial confidence score (made-up but deterministic): curated sources + has detail + recency
   ITEMS.forEach(it => {
@@ -182,12 +174,16 @@ function reveal(n = 3) {
     }, 250 * batch.indexOf(it) + Math.floor(Math.random() * 400)); // staggered 0.25s+ up to 0.65s per card
   });
   const more = document.getElementById('moreWrap');
-  if (pending.length) { more.style.display = 'block';
-    
+  if (pending.length) {
+    more.style.display = 'block';
   } else if (!document.getElementById('cards').children.length) {
     document.getElementById('poolCount').textContent += ' — nothing matches that selection (try Ctrl+click to combine)';
     more.style.display = 'none';
-  } else { more.style.display = 'none'; }
+  } else {
+    // pool empty but cards exist: hide briefly? no — keep the tease going only
+    // when a NEW random draw is possible (unfiltered pool). In filtered mode, stop.
+    more.style.display = active.size ? 'none' : 'block';
+  }
 }
 function showPicks(n = 9) {
   pending = topPicks(9);   // editorial mode: top-confidence mix
@@ -201,18 +197,17 @@ function showPicks(n = 9) {
   more.style.display = 'block';
   document.getElementById('revealBtn').textContent = 'alright, a few more…';
 }
-// any facet change or reshuffle resets to random-from-pool mode
-const origClick = document.getElementById('revealBtn').onclick;
+// "a few more": reveal next batch; if pool exhausted, draw a FRESH random set
+// (never disappears — the tease continues)
 document.getElementById('revealBtn').onclick = () => {
-  if (!pending.length) pending = pool();
-  reveal(12);
-  if (!pending.length) document.getElementById('moreWrap').style.display = 'none';
+  if (!pending.length) pending = randPicks(9);   // fresh draw, endless flow
+  reveal(3);
 };
 // facet click switches to random-from-pool flow: rebuild pending lazily via reveal()
 document.getElementById('reshuffleBtn').onclick = () => {
   pending = pool();
   document.getElementById('cards').innerHTML = '';
-  reveal(12);
+  reveal(3);
 };
 load();
 </script>
