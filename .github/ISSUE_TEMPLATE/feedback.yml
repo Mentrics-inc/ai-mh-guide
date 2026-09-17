@@ -1,0 +1,21 @@
+name: Site feedback / feature request
+description: Suggest a change to the site (layout, facets, links, content)
+labels: ["feedback"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options: ["Facets/chips", "Cards/results", "Links", "Content/item", "Performance", "Other"]
+    validations: { required: true }
+  - type: textarea
+    id: want
+    attributes:
+      label: What would you like?
+      placeholder: e.g. "add emoji legend", "show item count per category", "more event tags"
+    validations: { required: true }
+  - type: input
+    id: example
+    attributes:
+      label: Item or chip affected (optional)
+      placeholder: e.g. "event:Webinar shows 2 but should show 3"
