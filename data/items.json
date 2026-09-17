@@ -9,10 +9,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:explainer",
    "yr:2024"
   ],
-  "teaser": "# CDC \u2014 Essentials for Childhood: Preventing ACEs through Data to Action"
+  "teaser": "# CDC \u2014 Essentials for Childhood: Preventing ACEs through Data to Action",
+  "url": ""
  },
  {
   "id": "2025-cdc-aces-prevention-module-1-transcript-yt-NbTl4UujRPg-txt",
@@ -24,10 +26,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Hi, I'm Eddie. We've never met before,"
+  "teaser": "Hi, I'm Eddie. We've never met before,",
+  "url": ""
  },
  {
   "id": "2025-cdc-aces-prevention-module-10-transcript-yt-1c2X5T7frw-txt",
@@ -39,10 +43,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "&gt;&gt; So just as risk factors"
+  "teaser": "&gt;&gt; So just as risk factors",
+  "url": ""
  },
  {
   "id": "2025-cdc-aces-prevention-module-2-transcript-yt-d-SSwYTe8TY-txt",
@@ -54,10 +60,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "our brains develop and change throughout"
+  "teaser": "our brains develop and change throughout",
+  "url": ""
  },
  {
   "id": "2025-cdc-aces-prevention-module-3-transcript-yt-HAqw9eWRSIc-txt",
@@ -69,10 +77,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "in this lesson you'll learn how exposure"
+  "teaser": "in this lesson you'll learn how exposure",
+  "url": ""
  },
  {
   "id": "2025-cdc-aces-prevention-module-4-transcript-yt-Mgdq-oIbPcc-txt",
@@ -84,10 +94,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "the categories included in the ACE study"
+  "teaser": "the categories included in the ACE study",
+  "url": ""
  },
  {
   "id": "2025-cdc-aces-prevention-module-5-transcript-yt-vezTnx8s2j8-txt",
@@ -99,10 +111,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "in this lesson we'll delve into the"
+  "teaser": "in this lesson we'll delve into the",
+  "url": ""
  },
  {
   "id": "2025-cdc-aces-prevention-module-6-transcript-yt-7PQDbyBVF40-txt",
@@ -114,10 +128,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "so just as risk factors are important so"
+  "teaser": "so just as risk factors are important so",
+  "url": ""
  },
  {
   "id": "2025-cdc-aces-prevention-module-7-transcript-yt-faSA2WWNBX0-txt",
@@ -129,10 +145,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "the second goal using data to inform"
+  "teaser": "the second goal using data to inform",
+  "url": ""
  },
  {
   "id": "2025-cdc-aces-prevention-module-8-transcript-yt-3aaUTSj9mW0-txt",
@@ -144,10 +162,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "goal three is creating the context for"
+  "teaser": "goal three is creating the context for",
+  "url": ""
  },
  {
   "id": "2025-cdc-aces-prevention-module-9-transcript-yt-qbRNnX7f0SA-txt",
@@ -159,10 +179,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "go for of essentials chopped for"
+  "teaser": "go for of essentials chopped for",
+  "url": ""
  },
  {
   "id": "2026-lay-counselor-delivery-tfcbt-review-10-1007-s40653-txt",
@@ -176,7 +198,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "Lay Counselor Delivery of Trauma-Focused Cognitive Behavioral Therapy (TF-CBT): A Systematic Review"
+  "teaser": "Lay Counselor Delivery of Trauma-Focused Cognitive Behavioral Therapy (TF-CBT): A Systematic Review",
+  "url": "https://doi.org/10.1007/s40653-026-00852-z"
  },
  {
   "id": "ai-child-abuse-neglect-systematic-review-2023-pmc10605696-pdf",
@@ -190,7 +213,8 @@
    "type:paper",
    "yr:2023"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10605696/"
  },
  {
   "id": "black-latinx-caregiver-ml-child-abuse-2023-pmc9929722-pdf",
@@ -204,7 +228,8 @@
    "type:paper",
    "yr:2023"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9929722/"
  },
  {
   "id": "child-abuse-clinical-decision-support-2024-pmc11015363-pdf",
@@ -218,7 +243,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11015363/"
  },
  {
   "id": "explainer-2025-cdc-aces-prevention-module-1-NbTl4UujRPg-md",
@@ -230,10 +256,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# Understanding Adverse Childhood Experiences"
+  "teaser": "# Understanding Adverse Childhood Experiences",
+  "url": ""
  },
  {
   "id": "explainer-2025-cdc-aces-prevention-module-10-1c2X5T7frw-md",
@@ -245,10 +273,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# Understanding Risk and Protective Factors in Child Development"
+  "teaser": "# Understanding Risk and Protective Factors in Child Development",
+  "url": ""
  },
  {
   "id": "explainer-2025-cdc-aces-prevention-module-2-d-SSwYTe8TY-md",
@@ -260,10 +290,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# How Early Experiences Shape Brain Development"
+  "teaser": "# How Early Experiences Shape Brain Development",
+  "url": ""
  },
  {
   "id": "explainer-2025-cdc-aces-prevention-module-3-HAqw9eWRSIc-md",
@@ -275,10 +307,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# Understanding Childhood Adversity and Long-Term Health"
+  "teaser": "# Understanding Childhood Adversity and Long-Term Health",
+  "url": ""
  },
  {
   "id": "explainer-2025-cdc-aces-prevention-module-4-Mgdq-oIbPcc-md",
@@ -290,10 +324,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "### Understanding Adverse Childhood Experiences"
+  "teaser": "### Understanding Adverse Childhood Experiences",
+  "url": ""
  },
  {
   "id": "explainer-2025-cdc-aces-prevention-module-5-vezTnx8s2j8-md",
@@ -305,10 +341,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# Understanding Adverse Childhood Experiences"
+  "teaser": "# Understanding Adverse Childhood Experiences",
+  "url": ""
  },
  {
   "id": "explainer-2025-cdc-aces-prevention-module-6-7PQDbyBVF40-md",
@@ -320,10 +358,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# Understanding Childhood Adversity and Protection"
+  "teaser": "# Understanding Childhood Adversity and Protection",
+  "url": ""
  },
  {
   "id": "explainer-2025-cdc-aces-prevention-module-7-faSA2WWNBX0-md",
@@ -335,10 +375,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# Understanding Adverse Childhood Experiences (ACEs)"
+  "teaser": "# Understanding Adverse Childhood Experiences (ACEs)",
+  "url": ""
  },
  {
   "id": "explainer-2025-cdc-aces-prevention-module-8-3aaUTSj9mW0-md",
@@ -350,10 +392,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "### Building Healthy Environments for Families"
+  "teaser": "### Building Healthy Environments for Families",
+  "url": ""
  },
  {
   "id": "explainer-2025-cdc-aces-prevention-module-9-qbRNnX7f0SA-md",
@@ -365,10 +409,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:CDC-ACES",
+   "org:Cdc",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# Understanding the Essentials Framework for Child Health"
+  "teaser": "# Understanding the Essentials Framework for Child Health",
+  "url": ""
  },
  {
   "id": "explainer-istss-2025-friday-fast-facts-incarceration-traumatic-stress-LGzN9XLdcQ",
@@ -380,10 +426,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:ISTSS",
+   "org:Istss",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# The Intersection of Trauma and Incarceration"
+  "teaser": "# The Intersection of Trauma and Incarceration",
+  "url": ""
  },
  {
   "id": "explainer-istss-2025-friday-fast-facts-medical-trauma-44v9VgET4ww-md",
@@ -395,10 +443,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:ISTSS",
+   "org:Istss",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# Understanding Medical Trauma"
+  "teaser": "# Understanding Medical Trauma",
+  "url": ""
  },
  {
   "id": "istss-2025-friday-fast-facts-incarceration-traumatic-stress-transcript-yt-LGzN9X",
@@ -410,10 +460,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hi I'm Dr Melissa zinsky clinical"
+  "teaser": "hi I'm Dr Melissa zinsky clinical",
+  "url": ""
  },
  {
   "id": "istss-2025-friday-fast-facts-medical-trauma-transcript-yt-44v9VgET4ww-txt",
@@ -425,10 +477,12 @@
   "tags": [
    "cat:abuse-treatment",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Hi, I'm Dr. Sash McBain. I am a clinical"
+  "teaser": "Hi, I'm Dr. Sash McBain. I am a clinical",
+  "url": ""
  },
  {
   "id": "moon-2026-conversational-ai-child-abuse-detection-multistage-counseling-pmc13354",
@@ -442,7 +496,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13354129/"
  },
  {
   "id": "tawiah-2025-predicting-aces-family-environment-ml-pmc12466657-pdf",
@@ -456,7 +511,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12466657/"
  },
  {
   "id": "tools-identify-child-abuse-pediatric-primary-care-2023-pmc10656827-pdf",
@@ -470,7 +526,8 @@
    "type:paper",
    "yr:2023"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10656827/"
  },
  {
   "id": "white-2024-digital-health-screening-ace-mental-health-impacts-pmc11498064-pdf",
@@ -484,7 +541,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11498064/"
  },
  {
   "id": "2024-nimh-technology-future-mental-health-treatment-explainer-md",
@@ -496,10 +554,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:NIMH",
+   "org:Nimh",
    "type:explainer",
    "yr:2024"
   ],
-  "teaser": "# NIMH \u2014 Technology and the Future of Mental Health Treatment"
+  "teaser": "# NIMH \u2014 Technology and the Future of Mental Health Treatment",
+  "url": ""
  },
  {
   "id": "2025-chan-telepsychiatry-ai-mental-health-transcript-yt-RHKlcQx7wAs-txt",
@@ -513,7 +573,8 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Welcome to the NEI podcast. On this"
+  "teaser": "Welcome to the NEI podcast. On this",
+  "url": ""
  },
  {
   "id": "2025-clinician-panel-testing-ai-mental-health-transcript-yt-HaGbjQtR5uY-txt",
@@ -524,10 +585,12 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "event:Panel",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Hey everybody, my name is Neil Periq and"
+  "teaser": "Hey everybody, my name is Neil Periq and",
+  "url": ""
  },
  {
   "id": "2025-yoo-ai-chatbots-mental-health-values-harms-lived-experiences-pdf",
@@ -541,7 +604,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "2026-afsp-ask-dr-jill-ai-chatbots-dangerous-teens-transcript-yt-RGJcbiH3M3U-txt",
@@ -553,10 +617,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:AFSP",
+   "org:Afsp",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "This program contains subject matter"
+  "teaser": "This program contains subject matter",
+  "url": ""
  },
  {
   "id": "2026-bhavnani-routledge-ai-mental-healthcare-book-synopsis-md",
@@ -570,7 +636,8 @@
    "type:book",
    "yr:2026"
   ],
-  "teaser": "# Book synopsis \u2014 Artificial Intelligence in Mental Healthcare: Potential Applications and New Frontiers"
+  "teaser": "# Book synopsis \u2014 Artificial Intelligence in Mental Healthcare: Potential Applications and New Frontiers",
+  "url": ""
  },
  {
   "id": "2026-coursera-lund-ai-applications-mental-health-training-md",
@@ -581,10 +648,12 @@
   "year": "2026",
   "tags": [
    "cat:ai-applications",
+   "org:Lund",
    "type:training",
    "yr:2026"
   ],
-  "teaser": "# AI Applications for Mental Health and Clinical Practice (Coursera / Lund University)"
+  "teaser": "# AI Applications for Mental Health and Clinical Practice (Coursera / Lund University)",
+  "url": ""
  },
  {
   "id": "2026-emdria-sleep-stabilization-explainer-md",
@@ -596,10 +665,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:EMDR",
+   "org:Emdria",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# Sleep: The Hidden Key to Trauma Healing in EMDR Therapy"
+  "teaser": "# Sleep: The Hidden Key to Trauma Healing in EMDR Therapy",
+  "url": ""
  },
  {
   "id": "2026-iasp-ai-online-safety-suicide-prevention-side-event-transcript-yt-n-TgK1VJF",
@@ -610,10 +681,12 @@
   "year": "2026",
   "tags": [
    "cat:ai-applications",
+   "org:Iasp",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "Good afternoon. Good afternoon everybody"
+  "teaser": "Good afternoon. Good afternoon everybody",
+  "url": ""
  },
  {
   "id": "2026-luxton-practitioners-guide-ai-behavioral-health-book-synopsis-md",
@@ -627,7 +700,8 @@
    "type:book",
    "yr:2026"
   ],
-  "teaser": "# Book synopsis \u2014 A Practitioner's Guide to Advancing Behavioral Health Care With Artificial Intelligence"
+  "teaser": "# Book synopsis \u2014 A Practitioner's Guide to Advancing Behavioral Health Care With Artificial Intelligence",
+  "url": ""
  },
  {
   "id": "2026-orygen-digital-general-manager-jon-myer-transcript-yt-aMA68oyLroc-txt",
@@ -639,10 +713,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "my name is John Meyer associate director"
+  "teaser": "my name is John Meyer associate director",
+  "url": "https://www.youtube.com/watch?v=aMA68oyLroc"
  },
  {
   "id": "2026-orygen-most-blended-care-transcript-yt-uo5bC1UX9Ys-txt",
@@ -654,10 +730,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "foreign"
+  "teaser": "foreign",
+  "url": "https://www.youtube.com/watch?v=uo5bC1UX9Ys"
  },
  {
   "id": "2026-orygen-most-clinicians-12-14-transcript-yt-5QshBTnUUF4-txt",
@@ -669,10 +747,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "foreign"
+  "teaser": "foreign",
+  "url": "https://www.youtube.com/watch?v=5QshBTnUUF4"
  },
  {
   "id": "2026-orygen-most-digital-therapy-explainer-md",
@@ -684,10 +764,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# MOST: Moderated Online Social Therapy (Orygen Digital)"
+  "teaser": "# MOST: Moderated Online Social Therapy (Orygen Digital)",
+  "url": "https://emhicglobal.com/case-studies/most-moderated-online-social-therapy/"
  },
  {
   "id": "2026-orygen-most-digital-therapy-malamati-story-transcript-yt-RFbTw0ksCfs-txt",
@@ -699,10 +781,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "there's absolutely so many people so"
+  "teaser": "there's absolutely so many people so",
+  "url": ""
  },
  {
   "id": "2026-orygen-vr-webpage-clip-transcript-yt-veeq9PDCZJ0-txt",
@@ -714,10 +798,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "so Origin digital has got a number of"
+  "teaser": "so Origin digital has got a number of",
+  "url": "https://www.youtube.com/watch?v=veeq9PDCZJ0"
  },
  {
   "id": "2026-stamatis-beyond-simulations-mental-health-ai-safety-20000-conversations-pdf",
@@ -731,7 +817,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "2026-therapist-in-the-loop-ai-mh-learning-shortlist-training-md",
@@ -745,7 +832,8 @@
    "type:training",
    "yr:2026"
   ],
-  "teaser": "# Therapist in the Loop \u2014 AI & MH Learning Shortlist for Clinicians (2026)"
+  "teaser": "# Therapist in the Loop \u2014 AI & MH Learning Shortlist for Clinicians (2026)",
+  "url": ""
  },
  {
   "id": "barrios-2026-ai-chatbot-dependence-anxiety-depression-students-pmc13540032-pdf",
@@ -759,7 +847,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13540032/"
  },
  {
   "id": "being-well-2025-ai-chatbot-therapist-jacobson-transcript-yt-tvq7HAu0kEY-txt",
@@ -770,10 +859,12 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "person:Jacobson",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Transcript: Being Well Podcast \u2014 'AI Deep Dive: Can a Chatbot Be Your Therapist?' w/ Dr. Nick Jacobson"
+  "teaser": "Transcript: Being Well Podcast \u2014 'AI Deep Dive: Can a Chatbot Be Your Therapist?' w/ Dr. Nick Jacobson",
+  "url": "https://www.youtube.com/watch?v=tvq7HAu0kEY"
  },
  {
   "id": "comulada-2026-ai-chatbot-sud-hiv-youth-pmc13234539-pdf",
@@ -787,7 +878,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13234539/"
  },
  {
   "id": "dessai-2026-emotion-aware-chatbot-mental-health-diagnosis-rl-pmc13183849-pdf",
@@ -801,7 +893,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13183849/"
  },
  {
   "id": "dmh-2025-human-ai-collaboration-mental-health-althoff-transcript-yt-eCmYOzdogqc-",
@@ -813,10 +906,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:DMH",
+   "person:Althoff",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":4.719,\"start\":0.08,\"text\":\"often people wait until uh the last 3\"},{\"duration\":4,\"start\":2.44,\"text\":\"minutes uh of the hour to put thei"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":4.719,\"start\":0.08,\"text\":\"often people wait until uh the last 3\"},{\"duration\":4,\"start\":2.44,\"text\":\"minutes uh of the hour to put thei",
+  "url": ""
  },
  {
   "id": "explainer-2025-chan-telepsychiatry-ai-mental-health-RHKlcQx7wAs-md",
@@ -830,7 +925,8 @@
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "**What the Content Covers**"
+  "teaser": "**What the Content Covers**",
+  "url": ""
  },
  {
   "id": "explainer-2025-clinician-panel-testing-ai-mental-health-HaGbjQtR5uY-md",
@@ -841,10 +937,12 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "event:Panel",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "**Understanding AI in Mental Health**"
+  "teaser": "**Understanding AI in Mental Health**",
+  "url": ""
  },
  {
   "id": "explainer-2026-afsp-ask-dr-jill-ai-chatbots-dangerous-teens-RGJcbiH3M3U-md",
@@ -856,10 +954,28 @@
   "tags": [
    "cat:ai-applications",
    "ch:AFSP",
+   "org:Afsp",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "**The Hidden Risks of AI Chatbots for Teens**"
+  "teaser": "**The Hidden Risks of AI Chatbots for Teens**",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-coursera-lund-ai-applications-mental-health-training-md-md",
+  "title": "explainer-2026-coursera-lund-ai-applications-mental-health-training.md.md",
+  "file": "ai-applications/explainer-2026-coursera-lund-ai-applications-mental-health-training.md.md",
+  "category": "ai-applications",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ai-applications",
+   "org:Lund",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding AI in Mental Health",
+  "url": ""
  },
  {
   "id": "explainer-2026-iasp-ai-online-safety-suicide-prevention-side-event-n-TgK1VJF4Y-m",
@@ -870,10 +986,12 @@
   "year": "2026",
   "tags": [
    "cat:ai-applications",
+   "org:Iasp",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "**The Digital Suicide Prevention Challenge**"
+  "teaser": "**The Digital Suicide Prevention Challenge**",
+  "url": ""
  },
  {
   "id": "explainer-2026-orygen-digital-general-manager-jon-myer-aMA68oyLroc-md",
@@ -885,10 +1003,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# Enhancing Youth Mental Health Through Technology"
+  "teaser": "# Enhancing Youth Mental Health Through Technology",
+  "url": ""
  },
  {
   "id": "explainer-2026-orygen-most-blended-care-uo5bC1UX9Ys-md",
@@ -900,10 +1020,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# Understanding Blended Mental Health Care for Youth"
+  "teaser": "# Understanding Blended Mental Health Care for Youth",
+  "url": ""
  },
  {
   "id": "explainer-2026-orygen-most-clinicians-12-14-5QshBTnUUF4-md",
@@ -915,10 +1037,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# Understanding the MOST Platform for Young People"
+  "teaser": "# Understanding the MOST Platform for Young People",
+  "url": ""
  },
  {
   "id": "explainer-2026-orygen-most-digital-therapy-malamati-story-RFbTw0ksCfs-md",
@@ -930,10 +1054,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# Understanding Digital Mental Health Support"
+  "teaser": "# Understanding Digital Mental Health Support",
+  "url": ""
  },
  {
   "id": "explainer-2026-orygen-vr-webpage-clip-veeq9PDCZJ0-md",
@@ -945,10 +1071,27 @@
   "tags": [
    "cat:ai-applications",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# Understanding VR for Youth Mental Health"
+  "teaser": "# Understanding VR for Youth Mental Health",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-therapist-in-the-loop-ai-mh-learning-shortlist-training-md-md",
+  "title": "explainer-2026-therapist-in-the-loop-ai-mh-learning-shortlist-training.md.md",
+  "file": "ai-applications/explainer-2026-therapist-in-the-loop-ai-mh-learning-shortlist-training.md.md",
+  "category": "ai-applications",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ai-applications",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding AI in Mental Health Care",
+  "url": ""
  },
  {
   "id": "explainer-being-well-2025-ai-chatbot-therapist-jacobson-tvq7HAu0kEY-md",
@@ -959,10 +1102,12 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "person:Jacobson",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "**The Rise of AI Therapy**"
+  "teaser": "**The Rise of AI Therapy**",
+  "url": ""
  },
  {
   "id": "explainer-dmh-2025-human-ai-collaboration-mental-health-althoff-eCmYOzdogqc-md",
@@ -974,10 +1119,12 @@
   "tags": [
    "cat:ai-applications",
    "ch:DMH",
+   "person:Althoff",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "**The Content**"
+  "teaser": "**The Content**",
+  "url": ""
  },
  {
   "id": "explainer-mclean-2025-ai-human-flourishing-maes-9EBQ8a8DVLI-md",
@@ -988,10 +1135,13 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "org:Mclean",
+   "person:Maes",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "**The Hidden Costs of AI Reliance**"
+  "teaser": "**The Hidden Costs of AI Reliance**",
+  "url": ""
  },
  {
   "id": "explainer-mclean-2025-generative-ai-mental-health-fireside-lHyPpnASjRQ-md",
@@ -1002,10 +1152,12 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "org:Mclean",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "**The Rise of AI in Mental Health**"
+  "teaser": "**The Rise of AI in Mental Health**",
+  "url": ""
  },
  {
   "id": "explainer-mclean-2025-intelligent-mental-health-app-SYx63V70Nv4-md",
@@ -1016,10 +1168,12 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "org:Mclean",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "**What This Content Covers**"
+  "teaser": "**What This Content Covers**",
+  "url": ""
  },
  {
   "id": "explainer-mclean-2025-psychometrics-genai-galatzer-levy-DbC2HJS0euc-md",
@@ -1030,10 +1184,12 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "org:Mclean",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "**What This Content Covers**"
+  "teaser": "**What This Content Covers**",
+  "url": ""
  },
  {
   "id": "explainer-mclean-2025-purpose-built-ai-mental-health-hull-KYvcxy2LB3g-md",
@@ -1044,10 +1200,13 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "org:Mclean",
+   "person:Hull",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "**The Case for Specialized Mental Health AI**"
+  "teaser": "**The Case for Specialized Mental Health AI**",
+  "url": ""
  },
  {
   "id": "krupljanin-2026-vr-applications-children-adolescents-mental-health-scoping-pmc13",
@@ -1061,7 +1220,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13501348/"
  },
  {
   "id": "kuta-2026-automated-mobile-therapeutic-vs-chatbot-depression-anxiety-pmc13102284",
@@ -1075,7 +1235,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13102284/"
  },
  {
   "id": "laha-2026-ai-clinical-urine-drug-test-interpretation-jama-pmc13291894-txt",
@@ -1089,7 +1250,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "pmc JAMA Netw Open JAMA Netw Open 3211 jamasd 101729235 JAMA Network Open 2574-3805 pmc-is-collection-domain yes pmc-collection-title JAMA Network PMC13291894 PMC13291894.1 1329189"
+  "teaser": "pmc JAMA Netw Open JAMA Netw Open 3211 jamasd 101729235 JAMA Network Open 2574-3805 pmc-is-collection-domain yes pmc-collection-title JAMA Network PMC13291894 PMC13291894.1 1329189",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13291894/"
  },
  {
   "id": "mcalister-2026-engagement-ai-conversational-agent-anxiety-depression-pmc13456072",
@@ -1103,7 +1265,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13456072/"
  },
  {
   "id": "mclean-2025-ai-human-flourishing-maes-transcript-yt-9EBQ8a8DVLI-txt",
@@ -1114,10 +1277,13 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "org:Mclean",
+   "person:Maes",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":6.32,\"start\":0.08,\"text\":\"So I'll uh talk a little bit today about\"},{\"duration\":5.92,\"start\":3.28,\"text\":\"uh AI and its impact on human"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":6.32,\"start\":0.08,\"text\":\"So I'll uh talk a little bit today about\"},{\"duration\":5.92,\"start\":3.28,\"text\":\"uh AI and its impact on human",
+  "url": ""
  },
  {
   "id": "mclean-2025-generative-ai-mental-health-fireside-transcript-yt-lHyPpnASjRQ-txt",
@@ -1128,10 +1294,12 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "org:Mclean",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Transcript: McLean Institute for Technology in Psychiatry \u2014 Fireside Chat on the 'Use of Generative AI in Mental Health'"
+  "teaser": "Transcript: McLean Institute for Technology in Psychiatry \u2014 Fireside Chat on the 'Use of Generative AI in Mental Health'",
+  "url": "https://www.youtube.com/watch?v=lHyPpnASjRQ"
  },
  {
   "id": "mclean-2025-intelligent-mental-health-app-transcript-yt-SYx63V70Nv4-txt",
@@ -1142,10 +1310,12 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "org:Mclean",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":3.2,\"start\":0.64,\"text\":\"So our talk is titled building an\"},{\"duration\":2.801,\"start\":2.639,\"text\":\"intelligent mental health app\"},{\"d"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":3.2,\"start\":0.64,\"text\":\"So our talk is titled building an\"},{\"duration\":2.801,\"start\":2.639,\"text\":\"intelligent mental health app\"},{\"d",
+  "url": ""
  },
  {
   "id": "mclean-2025-psychometrics-genai-galatzer-levy-transcript-yt-DbC2HJS0euc-txt",
@@ -1156,10 +1326,12 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "org:Mclean",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":5.84,\"start\":0.4,\"text\":\"It's my great um honor um to introduce\"},{\"duration\":5.44,\"start\":3.52,\"text\":\"today my um friend and colleague"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":5.84,\"start\":0.4,\"text\":\"It's my great um honor um to introduce\"},{\"duration\":5.44,\"start\":3.52,\"text\":\"today my um friend and colleague",
+  "url": ""
  },
  {
   "id": "mclean-2025-purpose-built-ai-mental-health-hull-transcript-yt-KYvcxy2LB3g-txt",
@@ -1170,10 +1342,13 @@
   "year": "2025",
   "tags": [
    "cat:ai-applications",
+   "org:Mclean",
+   "person:Hull",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":4.56,\"start\":2.56,\"text\":\"Thank you, Christian. Um, and very\"},{\"duration\":3.839,\"start\":4.72,\"text\":\"excited to be here today to share "
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":4.56,\"start\":2.56,\"text\":\"Thank you, Christian. Um, and very\"},{\"duration\":3.839,\"start\":4.72,\"text\":\"excited to be here today to share ",
+  "url": ""
  },
  {
   "id": "papiernik-2025-conversational-agent-anxiety-program-acceptability-pmc12627969-pd",
@@ -1187,7 +1362,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12627969/"
  },
  {
   "id": "rolvien-2026-intelligent-virtual-agents-psychotherapy-safety-pmc13110360-pdf",
@@ -1201,7 +1377,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13110360/"
  },
  {
   "id": "villarreal-zegarra-2026-conversational-agent-alcohol-reduction-safety-peru-pmc12",
@@ -1215,7 +1392,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12998858/"
  },
  {
   "id": "wolfe-2026-engagement-phenotypes-102k-ai-mental-health-chatbot-users-pdf",
@@ -1229,7 +1407,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "2019-hhs-think-cultural-health-behavioral-health-training-md",
@@ -1240,10 +1419,12 @@
   "year": "2019",
   "tags": [
    "cat:cultural-competence",
+   "org:Hhs",
    "type:training",
    "yr:2019"
   ],
-  "teaser": "# HHS Think Cultural Health \u2014 Behavioral Health e-Learning"
+  "teaser": "# HHS Think Cultural Health \u2014 Behavioral Health e-Learning",
+  "url": ""
  },
  {
   "id": "2025-irshaid-mental-health-arab-world-transcript-yt-wji4RdJlUyo-txt",
@@ -1257,7 +1438,8 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "as people were all pretty messed up"
+  "teaser": "as people were all pretty messed up",
+  "url": ""
  },
  {
   "id": "2026-afsp-elevating-voices-aapi-generational-healing-transcript-yt-pjsXnFcz9sQ-t",
@@ -1269,10 +1451,12 @@
   "tags": [
    "cat:cultural-competence",
    "ch:AFSP",
+   "org:Afsp",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[music] This program contains subject"
+  "teaser": "[music] This program contains subject",
+  "url": "https://www.youtube.com/watch?v=pjsXnFcz9sQ"
  },
  {
   "id": "2026-iu-trauma-informed-care-certificate-outline-training-md",
@@ -1283,10 +1467,12 @@
   "year": "2026",
   "tags": [
    "cat:cultural-competence",
+   "org:Iu",
    "type:training",
    "yr:2026"
   ],
-  "teaser": "# Professional Development Certificate in Trauma-Informed Care, 2nd Ed. (Indiana University)"
+  "teaser": "# Professional Development Certificate in Trauma-Informed Care, 2nd Ed. (Indiana University)",
+  "url": ""
  },
  {
   "id": "2026-xie-digital-mh-interventions-international-students-postprint-pdf",
@@ -1300,7 +1486,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "cafi-digital-culturally-adapted-family-intervention-2026-pmc13015912-pdf",
@@ -1314,7 +1501,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13015912/"
  },
  {
   "id": "cbt-ai-chatbot-chinese-students-2025-pmc12396778-pdf",
@@ -1328,7 +1516,24 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12396778/"
+ },
+ {
+  "id": "explainer-2019-hhs-think-cultural-health-behavioral-health-training-md-md",
+  "title": "explainer-2019-hhs-think-cultural-health-behavioral-health-training.md.md",
+  "file": "cultural-competence/explainer-2019-hhs-think-cultural-health-behavioral-health-training.md.md",
+  "category": "cultural-competence",
+  "type": "explainer",
+  "year": "2019",
+  "tags": [
+   "cat:cultural-competence",
+   "org:Hhs",
+   "type:explainer",
+   "yr:2019"
+  ],
+  "teaser": "# Understanding Cultural Competency in Behavioral Health",
+  "url": ""
  },
  {
   "id": "explainer-2025-irshaid-mental-health-arab-world-wji4RdJlUyo-md",
@@ -1342,7 +1547,8 @@
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# Understanding Mental Health in the Middle East"
+  "teaser": "# Understanding Mental Health in the Middle East",
+  "url": ""
  },
  {
   "id": "explainer-2026-afsp-elevating-voices-aapi-generational-healing-pjsXnFcz9sQ-md",
@@ -1354,10 +1560,28 @@
   "tags": [
    "cat:cultural-competence",
    "ch:AFSP",
+   "org:Afsp",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "**What the Content Covers**"
+  "teaser": "**What the Content Covers**",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-iu-trauma-informed-care-certificate-outline-training-md-md",
+  "title": "explainer-2026-iu-trauma-informed-care-certificate-outline-training.md.md",
+  "file": "cultural-competence/explainer-2026-iu-trauma-informed-care-certificate-outline-training.md.md",
+  "category": "cultural-competence",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:cultural-competence",
+   "org:Iu",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# What This Course Covers",
+  "url": ""
  },
  {
   "id": "explainer-istss-2025-climate-change-trauma-6Y_Tvh2URT4-md",
@@ -1369,10 +1593,12 @@
   "tags": [
    "cat:cultural-competence",
    "ch:ISTSS",
+   "org:Istss",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "**Understanding Trauma and Climate Change**"
+  "teaser": "**Understanding Trauma and Climate Change**",
+  "url": ""
  },
  {
   "id": "garay-2026-vr-app-indigenous-social-emotional-wellbeing-protocol-pmc13268641-pdf",
@@ -1386,7 +1612,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13268641/"
  },
  {
   "id": "istss-2025-climate-change-trauma-transcript-yt-6Y_Tvh2URT4-txt",
@@ -1398,10 +1625,12 @@
   "tags": [
    "cat:cultural-competence",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "thank you Holly and hello and welcome"
+  "teaser": "thank you Holly and hello and welcome",
+  "url": ""
  },
  {
   "id": "perdacher-2024-stay-strong-app-indigenous-prison-rct-pmc11662183-pdf",
@@ -1415,7 +1644,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11662183/"
  },
  {
   "id": "polarus-bipolar-app-cultural-adaptation-2026-pmc13060748-pdf",
@@ -1429,7 +1659,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13060748/"
  },
  {
   "id": "retention-culturally-adapted-dmh-2026-systematic-review-pmc12850045-pdf",
@@ -1444,7 +1675,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12850045/"
  },
  {
   "id": "zhai-2026-digital-mh-services-first-nations-australia-review-pmc12841858-pdf",
@@ -1455,10 +1687,12 @@
   "year": "2026",
   "tags": [
    "cat:cultural-competence",
+   "place:Australia",
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12841858/"
  },
  {
   "id": "2024-nimh-depression-overview-explainer-md",
@@ -1470,10 +1704,12 @@
   "tags": [
    "cat:depression-anxiety",
    "ch:NIMH",
+   "org:Nimh",
    "type:explainer",
    "yr:2024"
   ],
-  "teaser": "# NIMH \u2014 Depression Overview"
+  "teaser": "# NIMH \u2014 Depression Overview",
+  "url": ""
  },
  {
   "id": "2026-iasp-reach-in-reach-out-show-notes-podcast-txt",
@@ -1484,10 +1720,12 @@
   "year": "2026",
   "tags": [
    "cat:depression-anxiety",
+   "org:Iasp",
    "type:training",
    "yr:2026"
   ],
-  "teaser": "# Reach In, Reach Out (IASP) \u2014 show notes captured from iasp.info/podcast"
+  "teaser": "# Reach In, Reach Out (IASP) \u2014 show notes captured from iasp.info/podcast",
+  "url": ""
  },
  {
   "id": "2026-lancet-public-health-suicide-prevention-series-launch-transcript-yt-BKaHqFM",
@@ -1499,10 +1737,12 @@
   "tags": [
    "cat:depression-anxiety",
    "ch:LANCET",
+   "org:Lancet",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "hello everybody and thank you for"
+  "teaser": "hello everybody and thank you for",
+  "url": "https://www.youtube.com/watch?v=BKaHqFMwQLs"
  },
  {
   "id": "2026-orygen-suicide-prevention-jo-robinson-transcript-yt-e9z5_jHsl_0-txt",
@@ -1514,10 +1754,12 @@
   "tags": [
    "cat:depression-anxiety",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "i'm joe robinson and i lead the youth"
+  "teaser": "i'm joe robinson and i lead the youth",
+  "url": "https://www.youtube.com/watch?v=e9z5_jHsl_0"
  },
  {
   "id": "2026-orygen-suicide-prevention-research-spotlight-transcript-yt-oWpKrVM8m4A-txt",
@@ -1529,10 +1771,12 @@
   "tags": [
    "cat:depression-anxiety",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "I'm Joe Robinson and I lead the suicide"
+  "teaser": "I'm Joe Robinson and I lead the suicide",
+  "url": "https://www.youtube.com/watch?v=oWpKrVM8m4A"
  },
  {
   "id": "arias-de-la-torre-2026-language-ai-screening-depressive-disorders-curr-psych-rep",
@@ -1546,7 +1790,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://doi.org/10.1007/s11920-026-01676-2"
  },
  {
   "id": "chamane-2026-kessler10-psychometric-evaluation-pmc13222254-pdf",
@@ -1560,7 +1805,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13222254/"
  },
  {
   "id": "chen-2026-predicting-adolescent-depression-interpretable-ml-pmc13270717-pdf",
@@ -1574,7 +1820,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13270717/"
  },
  {
   "id": "cheng-2026-four-item-ultra-brief-phq9-gad7-scale-pmc13260393-pdf",
@@ -1588,7 +1835,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13260393/"
  },
  {
   "id": "cornelis-2025-brief-resilience-scale-gwas-uk-biobank-pmc12465605-pdf",
@@ -1599,10 +1847,12 @@
   "year": "2025",
   "tags": [
    "cat:depression-anxiety",
+   "place:Uk",
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12465605/"
  },
  {
   "id": "dmh-2025-fitzsimmons-craft-multisector-partnerships-reach-transcript-yt-3je7DUZi",
@@ -1617,7 +1867,8 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "else uh and a licensed clinical"
+  "teaser": "else uh and a licensed clinical",
+  "url": ""
  },
  {
   "id": "enkhbayar-2026-passive-depression-screening-wrist-actigraphy-deep-learning-pmc13",
@@ -1631,7 +1882,24 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13372263/"
+ },
+ {
+  "id": "explainer-2026-iasp-reach-in-reach-out-show-notes-podcast-md",
+  "title": "explainer-2026-iasp-reach-in-reach-out-show-notes-podcast.md",
+  "file": "depression-anxiety/explainer-2026-iasp-reach-in-reach-out-show-notes-podcast.md",
+  "category": "depression-anxiety",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:depression-anxiety",
+   "org:Iasp",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding IASP\u2019s \u201cReach In, Reach Out\u201d Podcast",
+  "url": ""
  },
  {
   "id": "explainer-2026-lancet-public-health-suicide-prevention-series-launch-BKaHqFMwQLs",
@@ -1643,10 +1911,12 @@
   "tags": [
    "cat:depression-anxiety",
    "ch:LANCET",
+   "org:Lancet",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# A Public Health Approach to Suicide Prevention"
+  "teaser": "# A Public Health Approach to Suicide Prevention",
+  "url": ""
  },
  {
   "id": "explainer-2026-orygen-suicide-prevention-jo-robinson-e9z5_jHsl_0-md",
@@ -1658,10 +1928,12 @@
   "tags": [
    "cat:depression-anxiety",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# Understanding Youth Suicide Prevention Research"
+  "teaser": "# Understanding Youth Suicide Prevention Research",
+  "url": ""
  },
  {
   "id": "explainer-2026-orygen-suicide-prevention-research-spotlight-oWpKrVM8m4A-md",
@@ -1673,10 +1945,12 @@
   "tags": [
    "cat:depression-anxiety",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# Understanding Youth Suicide Prevention"
+  "teaser": "# Understanding Youth Suicide Prevention",
+  "url": ""
  },
  {
   "id": "explainer-dmh-2025-fitzsimmons-craft-multisector-partnerships-reach-3je7DUZicV8-",
@@ -1691,7 +1965,24 @@
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "**The Content: Digital Tools for Eating Disorder Care**"
+  "teaser": "**The Content: Digital Tools for Eating Disorder Care**",
+  "url": ""
+ },
+ {
+  "id": "explainer-mclean-2025-ai-eating-behaviors-TAVSSh-tzdY-md",
+  "title": "explainer-mclean-2025-ai-eating-behaviors-TAVSSh-tzdY.md",
+  "file": "depression-anxiety/explainer-mclean-2025-ai-eating-behaviors-TAVSSh-tzdY.md",
+  "category": "depression-anxiety",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:depression-anxiety",
+   "org:Mclean",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**AI in Mental Health and Nutrition Care**",
+  "url": ""
  },
  {
   "id": "garcia-batista-2026-phq9-dominican-republic-psychometrics-pmc13390212-pdf",
@@ -1705,7 +1996,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13390212/"
  },
  {
   "id": "gonzalez-medina-2026-ghq12-phq2-chile-longitudinal-pmc12997820-pdf",
@@ -1719,7 +2011,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12997820/"
  },
  {
   "id": "huang-2025-hamd6-self-report-rasch-chinese-pmc12482358-pdf",
@@ -1733,7 +2026,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12482358/"
  },
  {
   "id": "josten-2026-depression-prediction-key-factors-logreg-vs-ml-pmc13521342-pdf",
@@ -1747,7 +2041,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13521342/"
  },
  {
   "id": "kadirvelu-2026-digital-phenotyping-adolescent-mental-health-ml-pmc12871944-pdf",
@@ -1761,7 +2056,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12871944/"
  },
  {
   "id": "kentopp-2026-next-day-passive-suicidal-ideation-youth-pmc13324972-pdf",
@@ -1775,7 +2071,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13324972/"
  },
  {
   "id": "kim-2023-smartphone-prediction-adolescent-depression-treatment-response-pmc10248",
@@ -1789,7 +2086,8 @@
    "type:paper",
    "yr:2023"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10248781/"
  },
  {
   "id": "li-2025-interpretable-ml-anxiety-depression-stress-risk-factors-pmc12632078-pdf",
@@ -1803,7 +2101,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12632078/"
  },
  {
   "id": "man-2026-suicidal-ideation-mdd-ml-plos-digital-health-pmc13521398-pdf",
@@ -1817,7 +2116,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13521398/"
  },
  {
   "id": "mclean-2025-ai-eating-behaviors-transcript-yt-TAVSSh-tzdY-txt",
@@ -1828,10 +2128,12 @@
   "year": "2025",
   "tags": [
    "cat:depression-anxiety",
+   "org:Mclean",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":3.2,\"start\":1.04,\"text\":\"Hi everybody. It's great to be here. My\"},{\"duration\":3.36,\"start\":2.72,\"text\":\"name is Nicholas Leonard. I'm a"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":3.2,\"start\":1.04,\"text\":\"Hi everybody. It's great to be here. My\"},{\"duration\":3.36,\"start\":2.72,\"text\":\"name is Nicholas Leonard. I'm a",
+  "url": ""
  },
  {
   "id": "menne-2024-voice-depression-speech-biomarkers-mdd-pmc11559157-pdf",
@@ -1845,7 +2147,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11559157/"
  },
  {
   "id": "so-2026-ml-suicide-attempts-adolescents-national-xai-pmc13390233-pdf",
@@ -1859,7 +2162,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13390233/"
  },
  {
   "id": "teferra-2024-depression-screening-nlp-literature-review-pmc11574504-pdf",
@@ -1873,7 +2177,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11574504/"
  },
  {
   "id": "zhou-2026-ai-decision-support-adolescent-depression-anxiety-review-pmc13520771-p",
@@ -1887,7 +2192,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13520771/"
  },
  {
   "id": "2026-li-ai-ipv-prevention-review-10-1111-70275-txt",
@@ -1901,7 +2207,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "The Role of Artificial Intelligence for Intimate Partner Violence Prevention: A Systematic Review"
+  "teaser": "The Role of Artificial Intelligence for Intimate Partner Violence Prevention: A Systematic Review",
+  "url": "https://doi.org/10.1111/jocn.70275"
  },
  {
   "id": "2026-nepal-domestic-violence-ml-prediction-pmc-PMC13153562-txt",
@@ -1916,7 +2223,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "VENUE: Journal of Public Health Research 2026 \u00b7 DOI 10.1177/22799036261448793 \u00b7 PMC PMC13153562"
+  "teaser": "VENUE: Journal of Public Health Research 2026 \u00b7 DOI 10.1177/22799036261448793 \u00b7 PMC PMC13153562",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13153562/"
  },
  {
   "id": "2026-nnedv-techsafety-ai-victim-services-guide-explainer-md",
@@ -1927,10 +2235,12 @@
   "year": "2026",
   "tags": [
    "cat:domestic-violence",
+   "org:Nnedv",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# TechSafety \u2014 AI and Victim Services: Agency Use Resources"
+  "teaser": "# TechSafety \u2014 AI and Victim Services: Agency Use Resources",
+  "url": ""
  },
  {
   "id": "2026-patterns-intimate-partner-violence-qualitative-ml-pmc-PMC13550090-txt",
@@ -1945,7 +2255,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "VENUE: Prevention Science 2026 \u00b7 DOI 10.1007/s11121-026-01923-1 \u00b7 PMC PMC13550090"
+  "teaser": "VENUE: Prevention Science 2026 \u00b7 DOI 10.1007/s11121-026-01923-1 \u00b7 PMC PMC13550090",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13550090/"
  },
  {
   "id": "2026-police-recorded-dv-data-nlp-improvement-pmc-PMC12682816-txt",
@@ -1960,7 +2271,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "VENUE: Frontiers in Sociology 2025 \u00b7 DOI 10.3389/fsoc.2025.1686632 \u00b7 PMC PMC12682816"
+  "teaser": "VENUE: Frontiers in Sociology 2025 \u00b7 DOI 10.3389/fsoc.2025.1686632 \u00b7 PMC PMC12682816",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12682816/"
  },
  {
   "id": "2026-vogt-ainoaid-chatbot-dv-support-pmc-PMC12817862-txt",
@@ -1975,7 +2287,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "VENUE: BMC Women's Health 2025 \u00b7 DOI 10.1186/s12905-025-04202-3 \u00b7 PMC PMC12817862 \u00b7 OA"
+  "teaser": "VENUE: BMC Women's Health 2025 \u00b7 DOI 10.1186/s12905-025-04202-3 \u00b7 PMC PMC12817862 \u00b7 OA",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12817862/"
  },
  {
   "id": "bailo-2026-ai-first-response-sexual-gender-based-violence-scoping-pmc13410215-pd",
@@ -1989,7 +2302,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13410215/"
  },
  {
   "id": "bailo-2026-ai-ipv-risk-pathways-femicide-prisma-review-pdf",
@@ -2003,7 +2317,25 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-friday-fast-facts-gbv-ipv-lIvSS5jjd5Y-md",
+  "title": "explainer-istss-2025-friday-fast-facts-gbv-ipv-lIvSS5jjd5Y.md",
+  "file": "domestic-violence/explainer-istss-2025-friday-fast-facts-gbv-ipv-lIvSS5jjd5Y.md",
+  "category": "domestic-violence",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:domestic-violence",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Gender-Based Violence",
+  "url": ""
  },
  {
   "id": "gu-2026-multimodal-ml-ipv-risk-identification-npj-womens-health-pdf",
@@ -2017,7 +2349,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://doi.org/10.1038/s44294-025-00126-3)/Title(Leveraging"
  },
  {
   "id": "istss-2025-friday-fast-facts-gbv-ipv-transcript-yt-lIvSS5jjd5Y-txt",
@@ -2029,10 +2362,12 @@
   "tags": [
    "cat:domestic-violence",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hi everyone and welcome to the istss"
+  "teaser": "hi everyone and welcome to the istss",
+  "url": ""
  },
  {
   "id": "lila-2025-motivational-strategies-recidivism-ipv-perpetrators-pmc11821649-pdf",
@@ -2046,7 +2381,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11821649/"
  },
  {
   "id": "ned-2026-tech-facilitated-gbv-women-disabilities-baseline-pmc13203575-pdf",
@@ -2060,7 +2396,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13203575/"
  },
  {
   "id": "oram-2022-lancet-psychiatry-ipv-commission-pdf",
@@ -2072,10 +2409,12 @@
   "tags": [
    "cat:domestic-violence",
    "ch:LANCET",
+   "org:Lancet",
    "type:paper",
    "yr:2022"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "roldan-pardo-2026-predictors-satisfaction-ipv-perpetrator-intervention-pmc129640",
@@ -2089,7 +2428,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12964064/"
  },
  {
   "id": "romero-martinez-2026-neuropsych-predictors-treatment-dropout-ipv-perpetrators-pm",
@@ -2103,7 +2443,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13514597/"
  },
  {
   "id": "zarling-2025-psychological-inflexibility-ipv-men-act-pmc11939254-pdf",
@@ -2117,7 +2458,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11939254/"
  },
  {
   "id": "2026-interpreter-availability-asylum-seekers-acute-care-pmc-PMC12260684-txt",
@@ -2132,7 +2474,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "VENUE: BJPsych Open 2025 \u00b7 PMC PMC12260684"
+  "teaser": "VENUE: BJPsych Open 2025 \u00b7 PMC PMC12260684",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12260684/"
  },
  {
   "id": "2026-kang-ai-refugee-mental-health-review-10-2196-101857-txt",
@@ -2146,7 +2489,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "AI-Based Approaches to Refugee Mental Health Care: Systematic Integrative Review"
+  "teaser": "AI-Based Approaches to Refugee Mental Health Care: Systematic Integrative Review",
+  "url": "https://doi.org/10.2196/101857"
  },
  {
   "id": "altun-2025-lost-in-translation-digital-perinatal-mh-resources-migrants-pmc127523",
@@ -2160,7 +2504,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12752332/"
  },
  {
   "id": "chatpal-2023-multilingual-mental-health-chatbot-prepost-pmc10359914-pdf",
@@ -2174,7 +2519,8 @@
    "type:paper",
    "yr:2023"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10359914/"
  },
  {
   "id": "cjuno-2026-phq9-quechua-adaptation-pmc13281567-pdf",
@@ -2188,7 +2534,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13281567/"
  },
  {
   "id": "cocreation-translation-localization-trauma-dmh-2026-pmc13128169-pdf",
@@ -2203,7 +2550,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13128169/"
  },
  {
   "id": "indigenous-tele-mental-health-ai-linkage-2025-pmc12658390-pdf",
@@ -2217,7 +2565,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12658390/"
  },
  {
   "id": "licht-handler-2026-mobile-emi-grief-china-switzerland-pmc13249120-pdf",
@@ -2231,7 +2580,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13249120/"
  },
  {
   "id": "ma-2026-chatbot-usability-scale-chinese-cross-cultural-validation-pmc13052771-pd",
@@ -2245,7 +2595,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13052771/"
  },
  {
   "id": "malgaroli-2025-llm-mental-health-community-translating-code-to-care-pmc11949714-",
@@ -2259,7 +2610,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11949714/"
  },
  {
   "id": "rs-2026-ai-interpreter-root-causes-emotional-themes-reddit-pmc13361628-pdf",
@@ -2273,7 +2625,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13361628/"
  },
  {
   "id": "xie-2021-risk-aware-online-translation-tools-mental-healthcare-pmc8568518-pdf",
@@ -2287,7 +2640,8 @@
    "type:paper",
    "yr:2021"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8568518/"
  },
  {
   "id": "2025-ashaaa-stress-assistant-concept-paper-preprint-docx",
@@ -2301,7 +2655,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "2025-trevor-project-lgbtq-youth-mental-health-transcript-yt-SMtZj62tN-o-txt",
@@ -2312,10 +2667,12 @@
   "year": "2025",
   "tags": [
    "cat:minority-populations",
+   "org:Trevor",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "did you know that lgbtq plus youth are"
+  "teaser": "did you know that lgbtq plus youth are",
+  "url": ""
  },
  {
   "id": "2026-afsp-elevating-voices-lgbtq-explainer-md",
@@ -2327,10 +2684,12 @@
   "tags": [
    "cat:minority-populations",
    "ch:AFSP",
+   "org:Afsp",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# Understanding LGBTQ+ Mental Health Challenges"
+  "teaser": "# Understanding LGBTQ+ Mental Health Challenges",
+  "url": ""
  },
  {
   "id": "2026-afsp-elevating-voices-lgbtq-mental-health-transcript-yt-1Swj2HPM1Dw-txt",
@@ -2342,10 +2701,12 @@
   "tags": [
    "cat:minority-populations",
    "ch:AFSP",
+   "org:Afsp",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "This program contains subject matter"
+  "teaser": "This program contains subject matter",
+  "url": "https://www.youtube.com/watch?v=1Swj2HPM1Dw"
  },
  {
   "id": "2026-strongminds-group-ipt-depression-africa-explainer-md",
@@ -2359,7 +2720,8 @@
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# StrongMinds \u2014 Group IPT for Depression at Scale (Africa)"
+  "teaser": "# StrongMinds \u2014 Group IPT for Depression at Scale (Africa)",
+  "url": ""
  },
  {
   "id": "2026-trevor-project-research-overview-explainer-md",
@@ -2370,10 +2732,12 @@
   "year": "2026",
   "tags": [
    "cat:minority-populations",
+   "org:Trevor",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# The Trevor Project \u2014 Research Program Overview"
+  "teaser": "# The Trevor Project \u2014 Research Program Overview",
+  "url": ""
  },
  {
   "id": "altun-2026-migrant-women-perinatal-mh-care-pathways-pmc13439841-pdf",
@@ -2387,7 +2751,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13439841/"
  },
  {
   "id": "dmh-2025-jonassaint-digital-health-diverse-communities-transcript-yt-MQbzEH5yTIQ",
@@ -2402,7 +2767,8 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "so thank you for joining us today"
+  "teaser": "so thank you for joining us today",
+  "url": ""
  },
  {
   "id": "dmh-2025-macapagal-lgbtq-digital-sexual-health-transcript-yt-7bwABJoAM-U-txt",
@@ -2417,7 +2783,8 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "David for the invitation to talk U I'm"
+  "teaser": "David for the invitation to talk U I'm",
+  "url": ""
  },
  {
   "id": "doh-2026-older-african-migrants-social-isolation-loneliness-pmc13410368-pdf",
@@ -2431,7 +2798,107 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13410368/"
+ },
+ {
+  "id": "explainer-2025-trevor-project-lgbtq-youth-mental-health-SMtZj62tN-o-md",
+  "title": "explainer-2025-trevor-project-lgbtq-youth-mental-health-SMtZj62tN-o.md",
+  "file": "minority-populations/explainer-2025-trevor-project-lgbtq-youth-mental-health-SMtZj62tN-o.md",
+  "category": "minority-populations",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:minority-populations",
+   "org:Trevor",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Understanding LGBTQ+ Youth Mental Health**",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-afsp-elevating-voices-lgbtq-mental-health-1Swj2HPM1Dw-md",
+  "title": "explainer-2026-afsp-elevating-voices-lgbtq-mental-health-1Swj2HPM1Dw.md",
+  "file": "minority-populations/explainer-2026-afsp-elevating-voices-lgbtq-mental-health-1Swj2HPM1Dw.md",
+  "category": "minority-populations",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:minority-populations",
+   "ch:AFSP",
+   "org:Afsp",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "**Understanding LGBTQ+ Mental Health Challenges**",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-jonassaint-digital-health-diverse-communities-MQbzEH5yTIQ-md",
+  "title": "explainer-dmh-2025-jonassaint-digital-health-diverse-communities-MQbzEH5yTIQ.md",
+  "file": "minority-populations/explainer-dmh-2025-jonassaint-digital-health-diverse-communities-MQbzEH5yTIQ.md",
+  "category": "minority-populations",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:minority-populations",
+   "ch:DMH",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Understanding Digital Mental Health for Sickle Cell Disease**",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-macapagal-lgbtq-digital-sexual-health-7bwABJoAM-U-md",
+  "title": "explainer-dmh-2025-macapagal-lgbtq-digital-sexual-health-7bwABJoAM-U.md",
+  "file": "minority-populations/explainer-dmh-2025-macapagal-lgbtq-digital-sexual-health-7bwABJoAM-U.md",
+  "category": "minority-populations",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:minority-populations",
+   "ch:DMH",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Digital Health for LGBTQ+ Teens: A Practical Guide",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-refugee-trauma-mental-health-hgovH_68HFM-md",
+  "title": "explainer-istss-2025-refugee-trauma-mental-health-hgovH_68HFM.md",
+  "file": "minority-populations/explainer-istss-2025-refugee-trauma-mental-health-hgovH_68HFM.md",
+  "category": "minority-populations",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:minority-populations",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Refugee Trauma and Mental Health",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-trauma-minority-stress-tgd-communities-LhrblU8yZ2I-md",
+  "title": "explainer-istss-2025-trauma-minority-stress-tgd-communities-LhrblU8yZ2I.md",
+  "file": "minority-populations/explainer-istss-2025-trauma-minority-stress-tgd-communities-LhrblU8yZ2I.md",
+  "category": "minority-populations",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:minority-populations",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Understanding Trauma and Minority Stress in Transgender Communities**",
+  "url": ""
  },
  {
   "id": "gordon-2026-lgbtq-youth-discord-digital-health-hcd-pmc13077274-pdf",
@@ -2445,7 +2912,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13077274/"
  },
  {
   "id": "guziak-2026-chatbot-cancer-family-history-hispanic-pacific-islander-pmc12872182-",
@@ -2459,7 +2927,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "2985 kargersd Public Health Genomics Public Health Genomics PMC12872182 12872182 13021227 41528940 10.1159/000550466 NIHMS2139698 Views on a Chatbot for Cancer Family History Colle"
+  "teaser": "2985 kargersd Public Health Genomics Public Health Genomics PMC12872182 12872182 13021227 41528940 10.1159/000550466 NIHMS2139698 Views on a Chatbot for Cancer Family History Colle",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12872182/"
  },
  {
   "id": "istss-2025-refugee-trauma-mental-health-transcript-yt-hgovH_68HFM-txt",
@@ -2471,10 +2940,12 @@
   "tags": [
    "cat:minority-populations",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hello my name is Dr Belinda Liddell and"
+  "teaser": "hello my name is Dr Belinda Liddell and",
+  "url": ""
  },
  {
   "id": "istss-2025-trauma-minority-stress-tgd-communities-transcript-yt-LhrblU8yZ2I-txt",
@@ -2486,10 +2957,12 @@
   "tags": [
    "cat:minority-populations",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "now i will briefly introduce today's"
+  "teaser": "now i will briefly introduce today's",
+  "url": ""
  },
  {
   "id": "maxwell-2026-historical-trauma-postpartum-indigenous-pmc13454111-pdf",
@@ -2503,7 +2976,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13454111/"
  },
  {
   "id": "park-2024-ml-mental-health-immigrants-minorities-scoping-review-pmc11468366-pdf",
@@ -2517,7 +2991,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11468366/"
  },
  {
   "id": "romanelli-2026-sgm-digital-mental-health-engagement-protocol-pmc13318396-pdf",
@@ -2531,7 +3006,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13318396/"
  },
  {
   "id": "santa-maria-2026-hiv-substance-use-homeless-youth-app-pmc13178083-pdf",
@@ -2545,7 +3021,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13178083/"
  },
  {
   "id": "tamil-refugee-children-ml-predictors-2024-pmc11404815-pdf",
@@ -2559,7 +3036,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11404815/"
  },
  {
   "id": "unaccompanied-refugee-suicidal-ideation-ml-2026-pmc12957002-pdf",
@@ -2573,7 +3051,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12957002/"
  },
  {
   "id": "viksveen-2025-dmh-minority-indigenous-refugee-youth-norway-protocol-pmc12736645-",
@@ -2588,7 +3067,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12736645/"
  },
  {
   "id": "yasui-2026-intergenerational-trauma-socialization-inventory-pmc13415292-pdf",
@@ -2602,7 +3082,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13415292/"
  },
  {
   "id": "2024-kcl-avatar-slomo-digital-therapies-psychosis-nhs-explainer-md",
@@ -2613,10 +3094,30 @@
   "year": "2024",
   "tags": [
    "cat:psychiatry-general",
+   "org:Kcl",
    "type:explainer",
    "yr:2024"
   ],
-  "teaser": "# AVATAR and SloMo Digital Therapies for Psychosis \u2014 NICE Recommended for NHS"
+  "teaser": "# AVATAR and SloMo Digital Therapies for Psychosis \u2014 NICE Recommended for NHS",
+  "url": ""
+ },
+ {
+  "id": "2025-apa-dmh101-part1-clinician-guide-policy-explainer-md",
+  "title": "2025-apa-dmh101-part1-clinician-guide-policy-explainer.md",
+  "file": "psychiatry-general/2025-apa-dmh101-part1-clinician-guide-policy-explainer.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "ch:APA",
+   "ch:DMH",
+   "org:Apa",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# What Is Digital Mental Health?",
+  "url": ""
  },
  {
   "id": "2025-apa-dmh101-part1-clinician-guide-policy-pdf",
@@ -2629,10 +3130,30 @@
    "cat:psychiatry-general",
    "ch:APA",
    "ch:DMH",
+   "org:Apa",
    "type:grey-lit",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
+ },
+ {
+  "id": "2025-apa-dmh101-part2-clinician-guide-policy-explainer-md",
+  "title": "2025-apa-dmh101-part2-clinician-guide-policy-explainer.md",
+  "file": "psychiatry-general/2025-apa-dmh101-part2-clinician-guide-policy-explainer.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "ch:APA",
+   "ch:DMH",
+   "org:Apa",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# What Are Digital Mental Health Tools?",
+  "url": ""
  },
  {
   "id": "2025-apa-dmh101-part2-clinician-guide-policy-pdf",
@@ -2645,10 +3166,30 @@
    "cat:psychiatry-general",
    "ch:APA",
    "ch:DMH",
+   "org:Apa",
    "type:grey-lit",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
+ },
+ {
+  "id": "2025-apa-dmh101-part3-clinician-guide-policy-explainer-md",
+  "title": "2025-apa-dmh101-part3-clinician-guide-policy-explainer.md",
+  "file": "psychiatry-general/2025-apa-dmh101-part3-clinician-guide-policy-explainer.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "ch:APA",
+   "ch:DMH",
+   "org:Apa",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Digital Mental Health Tools",
+  "url": ""
  },
  {
   "id": "2025-apa-dmh101-part3-clinician-guide-policy-pdf",
@@ -2661,10 +3202,12 @@
    "cat:psychiatry-general",
    "ch:APA",
    "ch:DMH",
+   "org:Apa",
    "type:grey-lit",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "2025-frances-ai-future-psychiatry-transcript-yt-qXKXlF5lZoI-txt",
@@ -2678,7 +3221,25 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Welcome to Psychiatry Boot Camp season"
+  "teaser": "Welcome to Psychiatry Boot Camp season",
+  "url": ""
+ },
+ {
+  "id": "2025-who-mental-health-atlas-2024-grey-lit-explainer-md",
+  "title": "2025-who-mental-health-atlas-2024-grey-lit-explainer.md",
+  "file": "psychiatry-general/2025-who-mental-health-atlas-2024-grey-lit-explainer.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "ch:WHO",
+   "org:Who",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding the Mental Health Atlas 2024",
+  "url": ""
  },
  {
   "id": "2025-who-mental-health-atlas-2024-grey-lit-pdf",
@@ -2690,10 +3251,12 @@
   "tags": [
    "cat:psychiatry-general",
    "ch:WHO",
+   "org:Who",
    "type:grey-lit",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "2026-apa-digital-mental-health-101-clinician-guide-explainer-md",
@@ -2705,10 +3268,27 @@
   "tags": [
    "cat:psychiatry-general",
    "ch:APA",
+   "org:Apa",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# APA \u2014 Digital Mental Health: Clinician Guide"
+  "teaser": "# APA \u2014 Digital Mental Health: Clinician Guide",
+  "url": ""
+ },
+ {
+  "id": "2026-beyond-blue-future-we-choose-media-release-grey-lit-explainer-md",
+  "title": "2026-beyond-blue-future-we-choose-media-release-grey-lit-explainer.md",
+  "file": "psychiatry-general/2026-beyond-blue-future-we-choose-media-release-grey-lit-explainer.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:psychiatry-general",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Australia\u2019s Mental Health Future",
+  "url": ""
  },
  {
   "id": "2026-beyond-blue-future-we-choose-media-release-grey-lit-pdf",
@@ -2722,7 +3302,25 @@
    "type:grey-lit",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
+ },
+ {
+  "id": "2026-beyondblue-future-we-choose-media-release-grey-lit-explainer-md",
+  "title": "2026-beyondblue-future-we-choose-media-release-grey-lit-explainer.md",
+  "file": "psychiatry-general/2026-beyondblue-future-we-choose-media-release-grey-lit-explainer.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:psychiatry-general",
+   "ch:BEYONDBLUE",
+   "org:Beyondblue",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Australia\u2019s Mental Health Future",
+  "url": ""
  },
  {
   "id": "2026-beyondblue-future-we-choose-media-release-grey-lit-pdf",
@@ -2734,10 +3332,12 @@
   "tags": [
    "cat:psychiatry-general",
    "ch:BEYONDBLUE",
+   "org:Beyondblue",
    "type:grey-lit",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "2026-mclean-tips-summit-event-card-explainer-md",
@@ -2748,10 +3348,12 @@
   "year": "2026",
   "tags": [
    "cat:psychiatry-general",
+   "org:Mclean",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# McLean Technology in Psychiatry Summit 2026 \u2014 Event Card Update"
+  "teaser": "# McLean Technology in Psychiatry Summit 2026 \u2014 Event Card Update",
+  "url": ""
  },
  {
   "id": "2026-nami-education-programs-training-md",
@@ -2762,10 +3364,12 @@
   "year": "2026",
   "tags": [
    "cat:psychiatry-general",
+   "org:Nami",
    "type:training",
    "yr:2026"
   ],
-  "teaser": "# NAMI Education Programs \u2014 Free Mental Health Programs"
+  "teaser": "# NAMI Education Programs \u2014 Free Mental Health Programs",
+  "url": ""
  },
  {
   "id": "2026-nimh-health-topics-index-explainer-md",
@@ -2777,10 +3381,12 @@
   "tags": [
    "cat:psychiatry-general",
    "ch:NIMH",
+   "org:Nimh",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# NIMH Health Topics \u2014 Mental Disorders and Related Topics"
+  "teaser": "# NIMH Health Topics \u2014 Mental Disorders and Related Topics",
+  "url": ""
  },
  {
   "id": "2026-sodmh-annual-meeting-event-card-explainer-md",
@@ -2795,7 +3401,8 @@
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# Society for Digital Mental Health 2026 Annual Meeting \u2014 Event Card"
+  "teaser": "# Society for Digital Mental Health 2026 Annual Meeting \u2014 Event Card",
+  "url": ""
  },
  {
   "id": "2026-understanding-psychosis-show-notes-podcast-txt",
@@ -2809,7 +3416,8 @@
    "type:training",
    "yr:2026"
   ],
-  "teaser": "# Understanding Psychosis Podcast (Schizophrenia & Psychosis Action Alliance) \u2014 show notes"
+  "teaser": "# Understanding Psychosis Podcast (Schizophrenia & Psychosis Action Alliance) \u2014 show notes",
+  "url": ""
  },
  {
   "id": "2026-who-mental-health-brain-health-substance-use-programs-explainer-md",
@@ -2821,10 +3429,12 @@
   "tags": [
    "cat:psychiatry-general",
    "ch:WHO",
+   "org:Who",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# WHO \u2014 Mental Health, Brain Health and Substance Use Programs"
+  "teaser": "# WHO \u2014 Mental Health, Brain Health and Substance Use Programs",
+  "url": ""
  },
  {
   "id": "aldosari-2026-ai-behavior-personality-prediction-pmc13357554-pdf",
@@ -2838,7 +3448,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13357554/"
  },
  {
   "id": "bouguettaya-2025-racial-bias-ai-psychiatric-diagnosis-pmc12137607-pdf",
@@ -2852,7 +3463,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12137607/"
  },
  {
   "id": "choun-2025-mmse-k-tablet-rater-reliability-pmc12692307-pdf",
@@ -2866,7 +3478,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12692307/"
  },
  {
   "id": "dmh-2025-2nd-gen-mhealth-mental-health-bardram-transcript-yt-4fioneDRrVo-txt",
@@ -2878,10 +3491,12 @@
   "tags": [
    "cat:psychiatry-general",
    "ch:DMH",
+   "person:Bardram",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":4.361,\"start\":0.199,\"text\":\"in my end of the world to everybody and\"},{\"duration\":3.64,\"start\":2.679,\"text\":\"good morning to some of you"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":4.361,\"start\":0.199,\"text\":\"in my end of the world to everybody and\"},{\"duration\":3.64,\"start\":2.679,\"text\":\"good morning to some of you",
+  "url": ""
  },
  {
   "id": "dmh-2025-choudhury-sensing-intervention-loop-behavioral-health-transcript-yt-7C8",
@@ -2896,7 +3511,8 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "um and thanks for the the really kind"
+  "teaser": "um and thanks for the the really kind",
+  "url": ""
  },
  {
   "id": "dmh-2025-counts-policy-digital-mental-health-transcript-yt-ygwu5lsPUn0-txt",
@@ -2908,10 +3524,12 @@
   "tags": [
    "cat:psychiatry-general",
    "ch:DMH",
+   "person:Counts",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "and thank you david for the lovely"
+  "teaser": "and thank you david for the lovely",
+  "url": ""
  },
  {
   "id": "dmh-2025-klasnja-causal-diagramming-design-implementation-transcript-yt-ZSAXsEyO",
@@ -2926,7 +3544,8 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "yeah are you guys able to see to see"
+  "teaser": "yeah are you guys able to see to see",
+  "url": ""
  },
  {
   "id": "dmh-2025-munson-human-centered-design-psychosocial-interventions-transcript-yt-Q",
@@ -2941,7 +3560,184 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "honored to be able to um have Sean mson"
+  "teaser": "honored to be able to um have Sean mson",
+  "url": ""
+ },
+ {
+  "id": "explainer-2025-frances-ai-future-psychiatry-qXKXlF5lZoI-md",
+  "title": "explainer-2025-frances-ai-future-psychiatry-qXKXlF5lZoI.md",
+  "file": "psychiatry-general/explainer-2025-frances-ai-future-psychiatry-qXKXlF5lZoI.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# The Rise of AI in Mental Health",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-nami-education-programs-training-md-md",
+  "title": "explainer-2026-nami-education-programs-training.md.md",
+  "file": "psychiatry-general/explainer-2026-nami-education-programs-training.md.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:psychiatry-general",
+   "org:Nami",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding NAMI\u2019s Free Mental Health Resources",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-understanding-psychosis-show-notes-podcast-md",
+  "title": "explainer-2026-understanding-psychosis-show-notes-podcast.md",
+  "file": "psychiatry-general/explainer-2026-understanding-psychosis-show-notes-podcast.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:psychiatry-general",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Psychosis: A Plain-Language Guide",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-2nd-gen-mhealth-mental-health-bardram-4fioneDRrVo-md",
+  "title": "explainer-dmh-2025-2nd-gen-mhealth-mental-health-bardram-4fioneDRrVo.md",
+  "file": "psychiatry-general/explainer-dmh-2025-2nd-gen-mhealth-mental-health-bardram-4fioneDRrVo.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "ch:DMH",
+   "person:Bardram",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Overview of Mobile Mental Health Research**",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-choudhury-sensing-intervention-loop-behavioral-health-7C8Xao8",
+  "title": "explainer-dmh-2025-choudhury-sensing-intervention-loop-behavioral-health-7C8Xao8X1uI.md",
+  "file": "psychiatry-general/explainer-dmh-2025-choudhury-sensing-intervention-loop-behavioral-health-7C8Xao8X1uI.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "ch:DMH",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**The Rise of Digital Mental Health Sensing**",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-counts-policy-digital-mental-health-ygwu5lsPUn0-md",
+  "title": "explainer-dmh-2025-counts-policy-digital-mental-health-ygwu5lsPUn0.md",
+  "file": "psychiatry-general/explainer-dmh-2025-counts-policy-digital-mental-health-ygwu5lsPUn0.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "ch:DMH",
+   "person:Counts",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**The Hidden Influence of Policy on Digital Mental Health**",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-klasnja-causal-diagramming-design-implementation-ZSAXsEyOG8U-",
+  "title": "explainer-dmh-2025-klasnja-causal-diagramming-design-implementation-ZSAXsEyOG8U.md",
+  "file": "psychiatry-general/explainer-dmh-2025-klasnja-causal-diagramming-design-implementation-ZSAXsEyOG8U.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "ch:DMH",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Why Design Choices in Health Interventions Matter",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-munson-human-centered-design-psychosocial-interventions-QCPbl",
+  "title": "explainer-dmh-2025-munson-human-centered-design-psychosocial-interventions-QCPblvfkmQg.md",
+  "file": "psychiatry-general/explainer-dmh-2025-munson-human-centered-design-psychosocial-interventions-QCPblvfkmQg.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "ch:DMH",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Making Mental Health Care Work in Real Life",
+  "url": ""
+ },
+ {
+  "id": "explainer-mclean-2025-digital-navigators-mental-health-5bNPDRy_Qb4-md",
+  "title": "explainer-mclean-2025-digital-navigators-mental-health-5bNPDRy_Qb4.md",
+  "file": "psychiatry-general/explainer-mclean-2025-digital-navigators-mental-health-5bNPDRy_Qb4.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "org:Mclean",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**What This Session Covers**",
+  "url": ""
+ },
+ {
+  "id": "explainer-mclean-2025-psychiatric-readmission-prediction-ehr-E6mumMk0q2Q-md",
+  "title": "explainer-mclean-2025-psychiatric-readmission-prediction-ehr-E6mumMk0q2Q.md",
+  "file": "psychiatry-general/explainer-mclean-2025-psychiatric-readmission-prediction-ehr-E6mumMk0q2Q.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "org:Mclean",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Understanding Psychiatric Readmission Risks**",
+  "url": ""
+ },
+ {
+  "id": "explainer-mclean-2025-technologies-ocd-monitoring-treatment-JWDaefVWEaI-md",
+  "title": "explainer-mclean-2025-technologies-ocd-monitoring-treatment-JWDaefVWEaI.md",
+  "file": "psychiatry-general/explainer-mclean-2025-technologies-ocd-monitoring-treatment-JWDaefVWEaI.md",
+  "category": "psychiatry-general",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychiatry-general",
+   "org:Mclean",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Symposium on New OCD Technologies**",
+  "url": ""
  },
  {
   "id": "ghelfi-2026-ai-psychosis-relapse-detection-scoping-pmc13271360-pdf",
@@ -2955,7 +3751,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13271360/"
  },
  {
   "id": "hadinezhad-2026-moca-strengths-limitations-review-pmc13111965-pdf",
@@ -2969,7 +3766,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13111965/"
  },
  {
   "id": "hong-2024-wearable-symptom-prediction-acute-psychiatric-inpatients-pmc11602769-p",
@@ -2983,7 +3781,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11602769/"
  },
  {
   "id": "hudon-2025-hybrid-fuzzy-random-forest-psychiatric-treatment-outcomes-pmc12209287",
@@ -2997,7 +3796,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12209287/"
  },
  {
   "id": "kalpana-2026-fnirs-neuroimaging-addiction-review-pmc13473313-pdf",
@@ -3011,7 +3811,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13473313/"
  },
  {
   "id": "king-2026-ethics-fairness-ai-deception-detection-mh-pmc13200768-pdf",
@@ -3025,7 +3826,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13200768/"
  },
  {
   "id": "mclean-2025-digital-navigators-mental-health-transcript-yt-5bNPDRy_Qb4-txt",
@@ -3036,10 +3838,12 @@
   "year": "2025",
   "tags": [
    "cat:psychiatry-general",
+   "org:Mclean",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":3.679,\"start\":0.24,\"text\":\"Lovely to be here and thank you so much\"},{\"duration\":4.4,\"start\":2,\"text\":\"for the opportunity to present on"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":3.679,\"start\":0.24,\"text\":\"Lovely to be here and thank you so much\"},{\"duration\":4.4,\"start\":2,\"text\":\"for the opportunity to present on",
+  "url": ""
  },
  {
   "id": "mclean-2025-psychiatric-readmission-prediction-ehr-transcript-yt-E6mumMk0q2Q-txt",
@@ -3050,10 +3854,12 @@
   "year": "2025",
   "tags": [
    "cat:psychiatry-general",
+   "org:Mclean",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":5.76,\"start\":1.36,\"text\":\"Thank you for joining us today.\"},{\"duration\":6.48,\"start\":4.4,\"text\":\"Unplanned psychiatric readmission\"},{\"d"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":5.76,\"start\":1.36,\"text\":\"Thank you for joining us today.\"},{\"duration\":6.48,\"start\":4.4,\"text\":\"Unplanned psychiatric readmission\"},{\"d",
+  "url": ""
  },
  {
   "id": "mclean-2025-technologies-ocd-monitoring-treatment-transcript-yt-JWDaefVWEaI-txt",
@@ -3064,10 +3870,12 @@
   "year": "2025",
   "tags": [
    "cat:psychiatry-general",
+   "org:Mclean",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":5.12,\"start\":0.88,\"text\":\"Um thanks everyone for being um in our\"},{\"duration\":5.36,\"start\":3.6,\"text\":\"symposium on new technologies fo"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":5.12,\"start\":0.88,\"text\":\"Um thanks everyone for being um in our\"},{\"duration\":5.36,\"start\":3.6,\"text\":\"symposium on new technologies fo",
+  "url": ""
  },
  {
   "id": "mellace-2026-tablet-cognition-assessment-usability-pmc13099291-pdf",
@@ -3081,7 +3889,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13099291/"
  },
  {
   "id": "mladin-2026-contextual-resonance-theory-transgenerational-trauma-pmc13509164-pdf",
@@ -3095,7 +3904,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13509164/"
  },
  {
   "id": "mocnik-2026-hybrid-assessment-adolescent-bpd-pmc13389489-pdf",
@@ -3109,7 +3919,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13389489/"
  },
  {
   "id": "morgado-2026-ai-psychiatry-clinical-applications-limitations-ethics-pmc13443063-",
@@ -3123,7 +3934,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13443063/"
  },
  {
   "id": "olisaeloka-2026-ai-psychosis-mechanisms-risks-generative-ai-pmc13276754-pdf",
@@ -3137,7 +3949,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13276754/"
  },
  {
   "id": "perfalk-2024-patient-trust-ml-cdss-psychiatry-pmc11730065-pdf",
@@ -3151,7 +3964,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11730065/"
  },
  {
   "id": "perfalk-2025-receiving-info-ml-cdss-psychiatry-rationale-pmc12127058-pdf",
@@ -3165,7 +3979,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12127058/"
  },
  {
   "id": "saini-2026-perceptions-ethical-concerns-ai-mh-pmc12949988-pdf",
@@ -3179,7 +3994,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12949988/"
  },
  {
   "id": "sharma-2026-agentic-ai-psychiatric-care-roadmap-pmc13022085-pdf",
@@ -3193,7 +4009,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13022085/"
  },
  {
   "id": "stojanovic-2026-ai-guided-cbt-depression-anxiety-bridging-gap-pmc13464972-pdf",
@@ -3207,7 +4024,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13464972/"
  },
  {
   "id": "van-der-zande-2026-thought-language-ssd-wernicke-aphasia-nlp-pmc13226953-pdf",
@@ -3221,7 +4039,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13226953/"
  },
  {
   "id": "wang-2026-fairness-ml-aggression-acute-psychiatric-care-pmc12953580-pdf",
@@ -3235,7 +4054,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12953580/"
  },
  {
   "id": "zavaleta-monestel-2026-ai-psychiatry-five-decades-pmc13458306-pdf",
@@ -3249,7 +4069,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13458306/"
  },
  {
   "id": "zhang-2026-mobile-cognitive-assessment-mmse-moca-equivalence-pmc12975418-pdf",
@@ -3263,7 +4084,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12975418/"
  },
  {
   "id": "zucchetti-2026-ai-schizophrenia-spectrum-disorders-pmc13156059-pdf",
@@ -3277,7 +4099,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13156059/"
  },
  {
   "id": "2023-nice-digitally-enabled-therapies-depression-anxiety-policy-md",
@@ -3288,10 +4111,12 @@
   "year": "2023",
   "tags": [
    "cat:psychotherapy",
+   "org:Nice",
    "type:grey-lit",
    "yr:2023"
   ],
-  "teaser": "# NICE Recommends 8 Digitally Enabled Therapies for Depression and Anxiety"
+  "teaser": "# NICE Recommends 8 Digitally Enabled Therapies for Depression and Anxiety",
+  "url": ""
  },
  {
   "id": "2026-orygen-most-malamati-story-explainer-md",
@@ -3303,10 +4128,12 @@
   "tags": [
    "cat:psychotherapy",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# MOST Digital Therapy \u2014 Malamati's Story \u2014 Explainer"
+  "teaser": "# MOST Digital Therapy \u2014 Malamati's Story \u2014 Explainer",
+  "url": ""
  },
  {
   "id": "2026-orygen-most-story-malamati-digital-therapy-transcript-yt-RFbTw0ksCfs-txt",
@@ -3318,10 +4145,12 @@
   "tags": [
    "cat:psychotherapy",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "there's absolutely so many people so"
+  "teaser": "there's absolutely so many people so",
+  "url": "https://www.youtube.com/watch?v=RFbTw0ksCfs"
  },
  {
   "id": "2026-stade-ebp-ai-framework-preprint-osf-tjv8p-pdf",
@@ -3335,7 +4164,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "bremer-hoeve-2026-ml-dropout-psychotherapy-depression-pmc13469726-pdf",
@@ -3349,7 +4179,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13469726/"
  },
  {
   "id": "dmh-2025-little-treatments-big-effects-schleider-transcript-yt-Q6oLh6Y_mZY-txt",
@@ -3361,10 +4192,46 @@
   "tags": [
    "cat:psychotherapy",
    "ch:DMH",
+   "person:Schleider",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":2.78,\"start\":4.08,\"text\":\"foreign\"},{\"duration\":6.239,\"start\":29.34,\"text\":\"all right welcome welcome today to our\"},{\"duration\":5.219,\""
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":2.78,\"start\":4.08,\"text\":\"foreign\"},{\"duration\":6.239,\"start\":29.34,\"text\":\"all right welcome welcome today to our\"},{\"duration\":5.219,\"",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-orygen-most-story-malamati-digital-therapy-RFbTw0ksCfs-md",
+  "title": "explainer-2026-orygen-most-story-malamati-digital-therapy-RFbTw0ksCfs.md",
+  "file": "psychotherapy/explainer-2026-orygen-most-story-malamati-digital-therapy-RFbTw0ksCfs.md",
+  "category": "psychotherapy",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:psychotherapy",
+   "ch:ORYGEN",
+   "org:Orygen",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Digital Therapy Support",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-little-treatments-big-effects-schleider-Q6oLh6Y_mZY-md",
+  "title": "explainer-dmh-2025-little-treatments-big-effects-schleider-Q6oLh6Y_mZY.md",
+  "file": "psychotherapy/explainer-dmh-2025-little-treatments-big-effects-schleider-Q6oLh6Y_mZY.md",
+  "category": "psychotherapy",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:psychotherapy",
+   "ch:DMH",
+   "person:Schleider",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**The Mental Health Access Gap**",
+  "url": ""
  },
  {
   "id": "giber-2026-psychotherapy-dropout-community-settings-pmc13522969-txt",
@@ -3378,7 +4245,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "3211 jamasd JAMA Network Open JAMA Netw Open PMC13522969 13522969 13522969 42658492 10.1001/jamanetworkopen.2026.31565 Identifying Patients at Risk for Psychotherapy Dropout in Com"
+  "teaser": "3211 jamasd JAMA Network Open JAMA Netw Open PMC13522969 13522969 13522969 42658492 10.1001/jamanetworkopen.2026.31565 Identifying Patients at Risk for Psychotherapy Dropout in Com",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13522969/"
  },
  {
   "id": "giotakos-2025-ai-psychotherapy-common-factors-pmc12645830-pdf",
@@ -3392,7 +4260,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12645830/"
  },
  {
   "id": "kopelovich-2026-hybrid-family-intervention-psychosis-pmc13433529-pdf",
@@ -3406,7 +4275,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13433529/"
  },
  {
   "id": "lalk-2025-llm-emotion-detection-psychotherapy-transcripts-pmc12098529-pdf",
@@ -3420,7 +4290,8 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12098529/"
  },
  {
   "id": "moreto-2026-design-thinking-person-centered-depression-pmc12885253-pdf",
@@ -3434,7 +4305,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12885253/"
  },
  {
   "id": "neacsu-2026-ai-psychotherapy-opportunities-risks-pmc13203138-pdf",
@@ -3448,7 +4320,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13203138/"
  },
  {
   "id": "sitka-2026-lightbeam-massive-online-family-intervention-pmc12955020-pdf",
@@ -3462,7 +4335,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12955020/"
  },
  {
   "id": "so-2026-ai-nlp-feedback-self-guided-digital-therapy-pmc12817041-pdf",
@@ -3476,7 +4350,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12817041/"
  },
  {
   "id": "stephenson-2026-ai-online-psychotherapy-access-pmc12316677-pdf",
@@ -3490,7 +4365,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12316677/"
  },
  {
   "id": "wen-2026-expressive-writing-digital-cognitive-therapy-schizophrenia-pmc13275683-",
@@ -3504,7 +4380,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13275683/"
  },
  {
   "id": "2024-nimh-ptsd-overview-explainer-md",
@@ -3516,10 +4393,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:NIMH",
+   "org:Nimh",
    "type:explainer",
    "yr:2024"
   ],
-  "teaser": "# NIMH \u2014 Traumatic Events and Post-Traumatic Stress Disorder (PTSD)"
+  "teaser": "# NIMH \u2014 Traumatic Events and Post-Traumatic Stress Disorder (PTSD)",
+  "url": ""
  },
  {
   "id": "2025-istss-41st-annual-meeting-keynotes-explainer-md",
@@ -3531,10 +4410,13 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "event:Keynote",
+   "org:Istss",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# ISTSS 2025 Keynote Speakers \u2014 41st Annual Meeting (Baltimore, Sep 17-20, 2025)"
+  "teaser": "# ISTSS 2025 Keynote Speakers \u2014 41st Annual Meeting (Baltimore, Sep 17-20, 2025)",
+  "url": ""
  },
  {
   "id": "2025-nctsn-resources-overview-explainer-md",
@@ -3548,7 +4430,8 @@
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# National Child Traumatic Stress Network (NCTSN) \u2014 Resources Overview"
+  "teaser": "# National Child Traumatic Stress Network (NCTSN) \u2014 Resources Overview",
+  "url": ""
  },
  {
   "id": "2025-samhsa-trauma-violence-overview-explainer-md",
@@ -3560,10 +4443,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:SAMHSA",
+   "org:Samhsa",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# SAMHSA Trauma and Violence \u2014 Overview"
+  "teaser": "# SAMHSA Trauma and Violence \u2014 Overview",
+  "url": ""
  },
  {
   "id": "2025-va-ncptsd-apps-videos-programs-explainer-md",
@@ -3576,10 +4461,12 @@
    "cat:ptsd-trauma",
    "ch:NCPTSD",
    "ch:VA",
+   "org:Va",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# VA National Center for PTSD \u2014 Apps, Videos and More"
+  "teaser": "# VA National Center for PTSD \u2014 Apps, Videos and More",
+  "url": ""
  },
  {
   "id": "2025-va-ncptsd-continuing-education-catalog-training-md",
@@ -3592,10 +4479,12 @@
    "cat:ptsd-trauma",
    "ch:NCPTSD",
    "ch:VA",
+   "org:Va",
    "type:training",
    "yr:2025"
   ],
-  "teaser": "# VA National Center for PTSD \u2014 Continuing Education Catalog"
+  "teaser": "# VA National Center for PTSD \u2014 Continuing Education Catalog",
+  "url": ""
  },
  {
   "id": "2025-va-ncptsd-videos-apps-overview-explainer-md",
@@ -3608,10 +4497,12 @@
    "cat:ptsd-trauma",
    "ch:NCPTSD",
    "ch:VA",
+   "org:Va",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# VA National Center for PTSD \u2014 Videos and Apps Overview"
+  "teaser": "# VA National Center for PTSD \u2014 Videos and Apps Overview",
+  "url": ""
  },
  {
   "id": "2025-va-ptsd-bytes-show-notes-podcast-txt",
@@ -3623,10 +4514,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:VA",
+   "org:Va",
    "type:training",
    "yr:2025"
   ],
-  "teaser": "# PTSD Bytes (VA National Center for PTSD) \u2014 show notes from RSS"
+  "teaser": "# PTSD Bytes (VA National Center for PTSD) \u2014 show notes from RSS",
+  "url": ""
  },
  {
   "id": "2025-va-ptsd-coach-app-intro-transcript-yt-C_XLmb-qqlQ-txt",
@@ -3638,10 +4531,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:VA",
+   "org:Va",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "If you've been through a traumatic event"
+  "teaser": "If you've been through a traumatic event",
+  "url": ""
  },
  {
   "id": "2025-va-stair-coach-app-intro-transcript-yt-zlTcYUgHZBQ-txt",
@@ -3653,10 +4548,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:VA",
+   "org:Va",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "&gt;&gt;Graphic: VA Logo and Seal"
+  "teaser": "&gt;&gt;Graphic: VA Logo and Seal",
+  "url": ""
  },
  {
   "id": "2025-va-vetchange-app-intro-transcript-yt-evmtnKSMe5Q-txt",
@@ -3668,10 +4565,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:VA",
+   "org:Va",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "&gt;&gt;Graphic: VA Logo and Seal"
+  "teaser": "&gt;&gt;Graphic: VA Logo and Seal",
+  "url": ""
  },
  {
   "id": "2026-aboutface-about-ptsd-advice-listen-you-know-who-you-are-veteran-edward-tran",
@@ -3684,10 +4583,13 @@
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
    "ch:WHO",
+   "org:Aboutface",
+   "org:Who",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "Guys listen, you know who"
+  "teaser": "Guys listen, you know who",
+  "url": "https://www.youtube.com/watch?v=RiekGpvwDN0"
  },
  {
   "id": "2026-aboutface-about-ptsd-and-family-my-anger-started-to-increase-cpt-josh-trans",
@@ -3699,10 +4601,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "A lot of times with"
+  "teaser": "A lot of times with",
+  "url": "https://www.youtube.com/watch?v=ehjbQLP_KFY"
  },
  {
   "id": "2026-aboutface-about-ptsd-and-family-she-didn-t-think-i-d-ever-get-better-v-tran",
@@ -3714,10 +4618,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "I got off the bus from"
+  "teaser": "I got off the bus from",
+  "url": "https://www.youtube.com/watch?v=8suuemJpdQ4"
  },
  {
   "id": "2026-aboutface-about-ptsd-suicide-is-not-an-option-veteran-timm-lovitt-transcrip",
@@ -3729,10 +4635,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "When I was in the military, I"
+  "teaser": "When I was in the military, I",
+  "url": "https://www.youtube.com/watch?v=9dwYHpqjvvk"
  },
  {
   "id": "2026-aboutface-about-ptsd-symptoms-you-hear-a-boom-and-even-now-i-count-vet-tran",
@@ -3744,10 +4652,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "We got mortared a lot over there"
+  "teaser": "We got mortared a lot over there",
+  "url": "https://www.youtube.com/watch?v=vh_lKg1vVco"
  },
  {
   "id": "2026-aboutface-aboutface-ptsd-treatment-can-turn-your-life-around-31s-psa-transc",
@@ -3759,10 +4669,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "My name is Corporal"
+  "teaser": "My name is Corporal",
+  "url": "https://www.youtube.com/watch?v=qr082CNtV9M"
  },
  {
   "id": "2026-aboutface-brad-seitz-treatment-blessing-transcript-yt-ZCxPdKYVJPQ-txt",
@@ -3774,10 +4686,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.126] My treatment has been a blessing to me and my family."
+  "teaser": "[0.126] My treatment has been a blessing to me and my family.",
+  "url": "https://www.youtube.com/watch?v=ZCxPdKYVJPQ"
  },
  {
   "id": "2026-aboutface-bud-smith-been-through-it-transcript-yt-mC4n86I3eN8-txt",
@@ -3789,10 +4703,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.336] I've been through it and I can tell you that most of the fears and the sickness about, make myself sick about going out there the first time, I look back and I have to chuc"
+  "teaser": "[0.336] I've been through it and I can tell you that most of the fears and the sickness about, make myself sick about going out there the first time, I look back and I have to chuc",
+  "url": "https://www.youtube.com/watch?v=mC4n86I3eN8"
  },
  {
   "id": "2026-aboutface-edward-fair-ghost-in-the-night-transcript-yt-WjpwjJRTo_4-txt",
@@ -3804,10 +4720,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.176] Certain times of the year are trigger points in my life, like October."
+  "teaser": "[0.176] Certain times of the year are trigger points in my life, like October.",
+  "url": "https://www.youtube.com/watch?v=WjpwjJRTo_4"
  },
  {
   "id": "2026-aboutface-i-basically-froze-transcript-yt-3VyaD7kjEWw-txt",
@@ -3819,10 +4737,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "When I was in Iraq, I was equipping all the Iraqi police,"
+  "teaser": "When I was in Iraq, I was equipping all the Iraqi police,",
+  "url": "https://www.youtube.com/watch?v=3VyaD7kjEWw"
  },
  {
   "id": "2026-aboutface-i-cannot-be-this-person-transcript-yt-BmKjBDejEDc-txt",
@@ -3834,10 +4754,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "I've always thought of PTSD being, like, for deployments or war,"
+  "teaser": "I've always thought of PTSD being, like, for deployments or war,",
+  "url": "https://www.youtube.com/watch?v=BmKjBDejEDc"
  },
  {
   "id": "2026-aboutface-i-made-it-transcript-yt-0dKj39D4I_Q-txt",
@@ -3849,10 +4771,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "I have a great life, I really do."
+  "teaser": "I have a great life, I really do.",
+  "url": "https://www.youtube.com/watch?v=0dKj39D4I_Q"
  },
  {
   "id": "2026-aboutface-i-meant-to-protect-her-transcript-yt-8n-pqXs-NEk-txt",
@@ -3864,10 +4788,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "I just, I was just -- I just shut down."
+  "teaser": "I just, I was just -- I just shut down.",
+  "url": "https://www.youtube.com/watch?v=8n-pqXs-NEk"
  },
  {
   "id": "2026-aboutface-intro-montage-transcript-yt-Eac_CHz8gDo-txt",
@@ -3879,10 +4805,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.336] My name is Corporal Bradley Joseph Seitz."
+  "teaser": "[0.336] My name is Corporal Bradley Joseph Seitz.",
+  "url": "https://www.youtube.com/watch?v=Eac_CHz8gDo"
  },
  {
   "id": "2026-aboutface-it-works-if-you-work-it-transcript-yt-aJHqUIQEckg-txt",
@@ -3894,10 +4822,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "You know, no one says that because you're in this world"
+  "teaser": "You know, no one says that because you're in this world",
+  "url": "https://www.youtube.com/watch?v=aJHqUIQEckg"
  },
  {
   "id": "2026-aboutface-john-angell-ptsd-take-over-transcript-yt-nYTwI4rDaIE-txt",
@@ -3909,10 +4839,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.056] If you think that there's a possibility of something, it's worth looking at."
+  "teaser": "[0.056] If you think that there's a possibility of something, it's worth looking at.",
+  "url": "https://www.youtube.com/watch?v=nYTwI4rDaIE"
  },
  {
   "id": "2026-aboutface-my-meditation-transcript-yt-uAqe7WkuTVQ-txt",
@@ -3924,10 +4856,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "Most people look at fighting as a more barbaric sport than"
+  "teaser": "Most people look at fighting as a more barbaric sport than",
+  "url": "https://www.youtube.com/watch?v=uAqe7WkuTVQ"
  },
  {
   "id": "2026-aboutface-my-shame-was-being-alive-transcript-yt-4aZTVe6Qhso-txt",
@@ -3939,10 +4873,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "When I get remembered, it will not have been"
+  "teaser": "When I get remembered, it will not have been",
+  "url": "https://www.youtube.com/watch?v=4aZTVe6Qhso"
  },
  {
   "id": "2026-aboutface-ptsd-treatment-works-hear-from-veterans-transcript-yt-MnNCeJhjG28",
@@ -3954,10 +4890,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "PTSD isn't' something that"
+  "teaser": "PTSD isn't' something that",
+  "url": "https://www.youtube.com/watch?v=MnNCeJhjG28"
  },
  {
   "id": "2026-aboutface-richard-adams-dont-hesitate-transcript-yt-cY_IFNK5R1E-txt",
@@ -3969,10 +4907,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.416] If you haven't tried to get into therapy or anything and you're sitting there and you're watching this video, don't hesitate."
+  "teaser": "[0.416] If you haven't tried to get into therapy or anything and you're sitting there and you're watching this video, don't hesitate.",
+  "url": "https://www.youtube.com/watch?v=cY_IFNK5R1E"
  },
  {
   "id": "2026-aboutface-richard-adams-stigma-never-talked-transcript-yt-cFCLXeMSYnI-txt",
@@ -3984,10 +4924,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.396] When I came home, friends of mine they went over two, three years before me, back in the 60's come back, none of us talked about it."
+  "teaser": "[0.396] When I came home, friends of mine they went over two, three years before me, back in the 60's come back, none of us talked about it.",
+  "url": "https://www.youtube.com/watch?v=cFCLXeMSYnI"
  },
  {
   "id": "2026-aboutface-rick-collier-whole-new-world-transcript-yt-xG7-CmWWwRQ-txt",
@@ -3999,10 +4941,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.326] Treatment has really saved my life."
+  "teaser": "[0.326] Treatment has really saved my life.",
+  "url": "https://www.youtube.com/watch?v=xG7-CmWWwRQ"
  },
  {
   "id": "2026-aboutface-rob-tucker-sleep-gun-transcript-yt-NGcaA1deX5s-txt",
@@ -4014,10 +4958,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.156] When we were over there, I don't know if you guys heard about it or not, but the May 19th attack on Bagram Airfield was the largest most significant attack on Bagram Airfie"
+  "teaser": "[0.156] When we were over there, I don't know if you guys heard about it or not, but the May 19th attack on Bagram Airfield was the largest most significant attack on Bagram Airfie",
+  "url": "https://www.youtube.com/watch?v=NGcaA1deX5s"
  },
  {
   "id": "2026-aboutface-ron-whitcomb-snipers-scope-transcript-yt-fzce7PpU5KE-txt",
@@ -4029,10 +4975,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.136] Back in the days when I was going through what I call my Chernobyl period, I slept one or two hours every other day and I never slept without a loaded gun and a survival kn"
+  "teaser": "[0.136] Back in the days when I was going through what I call my Chernobyl period, I slept one or two hours every other day and I never slept without a loaded gun and a survival kn",
+  "url": "https://www.youtube.com/watch?v=fzce7PpU5KE"
  },
  {
   "id": "2026-aboutface-sarah-humphries-alienated-transcript-yt-9VQ05H-Pywo-txt",
@@ -4044,10 +4992,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.196] My son had just graduated from high school."
+  "teaser": "[0.196] My son had just graduated from high school.",
+  "url": "https://www.youtube.com/watch?v=9VQ05H-Pywo"
  },
  {
   "id": "2026-aboutface-sarah-humphries-families-hard-for-them-transcript-yt-GFqumMqrn04-",
@@ -4059,10 +5009,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.246] Families suffer a great deal when mom or dad come home just lost with PTSD."
+  "teaser": "[0.246] Families suffer a great deal when mom or dad come home just lost with PTSD.",
+  "url": "https://www.youtube.com/watch?v=GFqumMqrn04"
  },
  {
   "id": "2026-aboutface-stu-shipley-easier-to-live-with-transcript-yt-JbTOJ9xQ6rQ-txt",
@@ -4074,10 +5026,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.076] My sons feel that I have taken the right step and they tell me that I'm a lot easier to live with now."
+  "teaser": "[0.076] My sons feel that I have taken the right step and they tell me that I'm a lot easier to live with now.",
+  "url": "https://www.youtube.com/watch?v=JbTOJ9xQ6rQ"
  },
  {
   "id": "2026-aboutface-the-bloodiest-battle-transcript-yt-FGNJBDMRJUw-txt",
@@ -4089,10 +5043,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "I would have never anticipated"
+  "teaser": "I would have never anticipated",
+  "url": "https://www.youtube.com/watch?v=FGNJBDMRJUw"
  },
  {
   "id": "2026-aboutface-the-most-peaceful-place-on-earth-transcript-yt-JJ322hxlbVI-txt",
@@ -4104,10 +5060,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "I built my own home."
+  "teaser": "I built my own home.",
+  "url": "https://www.youtube.com/watch?v=JJ322hxlbVI"
  },
  {
   "id": "2026-aboutface-tia-christopher-girl-that-left-transcript-yt-LIqj1R_nPRU-txt",
@@ -4119,10 +5077,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.056] When I came home from the Navy I wasn't the girl that left and my family, I feel, really wanted the girl that left, not the girl that came back."
+  "teaser": "[0.056] When I came home from the Navy I wasn't the girl that left and my family, I feel, really wanted the girl that left, not the girl that came back.",
+  "url": "https://www.youtube.com/watch?v=LIqj1R_nPRU"
  },
  {
   "id": "2026-aboutface-tia-christopher-grace-transcript-yt-hV8R5-7IQio-txt",
@@ -4134,10 +5094,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.126] I think that I would give you two pieces of advice."
+  "teaser": "[0.126] I think that I would give you two pieces of advice.",
+  "url": "https://www.youtube.com/watch?v=hV8R5-7IQio"
  },
  {
   "id": "2026-aboutface-timm-lovitt-driving-trigger-transcript-yt-gh2oOAX4hxY-txt",
@@ -4149,10 +5111,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[0.066] One of my big triggers is driving."
+  "teaser": "[0.066] One of my big triggers is driving.",
+  "url": "https://www.youtube.com/watch?v=gh2oOAX4hxY"
  },
  {
   "id": "2026-aboutface-you-surround-yourself-with-all-these-safety-measures-so-you-trans",
@@ -4164,10 +5128,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ABOUTFACE",
+   "org:Aboutface",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "It wasn't long after we"
+  "teaser": "It wasn't long after we",
+  "url": "https://www.youtube.com/watch?v=74D2_kbxCvo"
  },
  {
   "id": "2026-istss-42nd-annual-meeting-event-card-explainer-md",
@@ -4179,10 +5145,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# ISTSS 42nd Annual Meeting (Sep 23-26, 2026, San Antonio TX) \u2014 Event Card"
+  "teaser": "# ISTSS 42nd Annual Meeting (Sep 23-26, 2026, San Antonio TX) \u2014 Event Card",
+  "url": ""
  },
  {
   "id": "2026-leveraging-multimodal-ml-ipv-risk-identification-pmc-PMC12987719-txt",
@@ -4197,7 +5165,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "VENUE: Npj Women's Health 2026 \u00b7 DOI 10.1038/s44294-025-00126-3 \u00b7 PMC PMC12987719"
+  "teaser": "VENUE: Npj Women's Health 2026 \u00b7 DOI 10.1038/s44294-025-00126-3 \u00b7 PMC PMC12987719",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12987719/"
  },
  {
   "id": "2026-orygen-trauma-youth-mental-health-spotlight-transcript-yt-f1ePT_EByeo-txt",
@@ -4209,10 +5178,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ORYGEN",
+   "org:Orygen",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[Music]"
+  "teaser": "[Music]",
+  "url": ""
  },
  {
   "id": "ai-narrative-birth-stories-ptsd-2024-pmc11009279-pdf",
@@ -4226,7 +5197,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11009279/"
  },
  {
   "id": "bhattacharya-2025-ai-ptsd-current-status-future-directions-pmc11760884-pdf",
@@ -4240,7 +5212,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11760884/"
  },
  {
   "id": "chae-2026-ml-ptsd-screening-firefighters-pmc13531790-pdf",
@@ -4254,7 +5227,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13531790/"
  },
  {
   "id": "cwik-2025-caps5-german-psychometrics-pmc12502300-pdf",
@@ -4268,7 +5242,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12502300/"
  },
  {
   "id": "eeg-ptsd-identification-scoping-review-2025-pmc12250877-pdf",
@@ -4282,7 +5257,948 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12250877/"
+ },
+ {
+  "id": "explainer-2025-va-ncptsd-continuing-education-catalog-training-md-md",
+  "title": "explainer-2025-va-ncptsd-continuing-education-catalog-training.md.md",
+  "file": "ptsd-trauma/explainer-2025-va-ncptsd-continuing-education-catalog-training.md.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:NCPTSD",
+   "ch:VA",
+   "org:Va",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Free PTSD Training Resources",
+  "url": ""
+ },
+ {
+  "id": "explainer-2025-va-ptsd-bytes-show-notes-podcast-md",
+  "title": "explainer-2025-va-ptsd-bytes-show-notes-podcast.md",
+  "file": "ptsd-trauma/explainer-2025-va-ptsd-bytes-show-notes-podcast.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:VA",
+   "org:Va",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding PTSD Bytes: A Plain-Language Guide",
+  "url": ""
+ },
+ {
+  "id": "explainer-2025-va-ptsd-coach-app-intro-C_XLmb-qqlQ-md",
+  "title": "explainer-2025-va-ptsd-coach-app-intro-C_XLmb-qqlQ.md",
+  "file": "ptsd-trauma/explainer-2025-va-ptsd-coach-app-intro-C_XLmb-qqlQ.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:VA",
+   "org:Va",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding the PTSD Coach App",
+  "url": ""
+ },
+ {
+  "id": "explainer-2025-va-stair-coach-app-intro-zlTcYUgHZBQ-md",
+  "title": "explainer-2025-va-stair-coach-app-intro-zlTcYUgHZBQ.md",
+  "file": "ptsd-trauma/explainer-2025-va-stair-coach-app-intro-zlTcYUgHZBQ.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:VA",
+   "org:Va",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding STAIR Coach",
+  "url": ""
+ },
+ {
+  "id": "explainer-2025-va-vetchange-app-intro-evmtnKSMe5Q-md",
+  "title": "explainer-2025-va-vetchange-app-intro-evmtnKSMe5Q.md",
+  "file": "ptsd-trauma/explainer-2025-va-vetchange-app-intro-evmtnKSMe5Q.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:VA",
+   "org:Va",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# What VetChange Is and Why It Matters",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-about-ptsd-advice-listen-you-know-who-you-are-veteran-e",
+  "title": "explainer-2026-aboutface-about-ptsd-advice-listen-you-know-who-you-are-veteran-edward-RiekGpvwDN0.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-about-ptsd-advice-listen-you-know-who-you-are-veteran-edward-RiekGpvwDN0.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "ch:WHO",
+   "org:Aboutface",
+   "org:Who",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Veteran Peer Support for PTSD",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-about-ptsd-and-family-my-anger-started-to-increase-cpt-",
+  "title": "explainer-2026-aboutface-about-ptsd-and-family-my-anger-started-to-increase--cpt-josh-ehjbQLP_KFY.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-about-ptsd-and-family-my-anger-started-to-increase--cpt-josh-ehjbQLP_KFY.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "### What This Story Covers",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-about-ptsd-and-family-she-didn-t-think-i-d-ever-get-bet",
+  "title": "explainer-2026-aboutface-about-ptsd-and-family-she-didn't-think-i'd-ever-get-better-v-8suuemJpdQ4.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-about-ptsd-and-family-she-didn't-think-i'd-ever-get-better-v-8suuemJpdQ4.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding the Impact of PTSD on Relationships",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-about-ptsd-suicide-is-not-an-option-veteran-timm-lovitt",
+  "title": "explainer-2026-aboutface-about-ptsd-suicide-is-not-an-option-veteran-timm-lovitt-9dwYHpqjvvk.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-about-ptsd-suicide-is-not-an-option-veteran-timm-lovitt-9dwYHpqjvvk.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Veteran Suicide Prevention",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-about-ptsd-symptoms-you-hear-a-boom-and-even-now-i-coun",
+  "title": "explainer-2026-aboutface-about-ptsd-symptoms-you-hear-a-boom-and-even-now-i-count-vet-vh_lKg1vVco.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-about-ptsd-symptoms-you-hear-a-boom-and-even-now-i-count-vet-vh_lKg1vVco.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "### Understanding PTSD Triggers",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-aboutface-ptsd-treatment-can-turn-your-life-around-31s-",
+  "title": "explainer-2026-aboutface-aboutface-ptsd-treatment-can-turn-your-life-around-31s-psa-qr082CNtV9M.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-aboutface-ptsd-treatment-can-turn-your-life-around-31s-psa-qr082CNtV9M.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Treatment",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-brad-seitz-treatment-blessing-ZCxPdKYVJPQ-md",
+  "title": "explainer-2026-aboutface-brad-seitz-treatment-blessing-ZCxPdKYVJPQ.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-brad-seitz-treatment-blessing-ZCxPdKYVJPQ.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Treatment Through Veteran Experience",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-bud-smith-been-through-it-mC4n86I3eN8-md",
+  "title": "explainer-2026-aboutface-bud-smith-been-through-it-mC4n86I3eN8.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-bud-smith-been-through-it-mC4n86I3eN8.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Recovery Through Personal Experience",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-edward-fair-ghost-in-the-night-WjpwjJRTo_4-md",
+  "title": "explainer-2026-aboutface-edward-fair-ghost-in-the-night-WjpwjJRTo_4.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-edward-fair-ghost-in-the-night-WjpwjJRTo_4.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Triggers and Support",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-i-basically-froze-3VyaD7kjEWw-md",
+  "title": "explainer-2026-aboutface-i-basically-froze-3VyaD7kjEWw.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-i-basically-froze-3VyaD7kjEWw.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Trauma and Recovery",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-i-cannot-be-this-person-BmKjBDejEDc-md",
+  "title": "explainer-2026-aboutface-i-cannot-be-this-person-BmKjBDejEDc.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-i-cannot-be-this-person-BmKjBDejEDc.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Beyond Combat",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-i-made-it-0dKj39D4I_Q-md",
+  "title": "explainer-2026-aboutface-i-made-it-0dKj39D4I_Q.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-i-made-it-0dKj39D4I_Q.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Post-Traumatic Stress and Recovery",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-i-meant-to-protect-her-8n-pqXs-NEk-md",
+  "title": "explainer-2026-aboutface-i-meant-to-protect-her-8n-pqXs-NEk.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-i-meant-to-protect-her-8n-pqXs-NEk.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "### What This Story Covers",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-intro-montage-Eac_CHz8gDo-md",
+  "title": "explainer-2026-aboutface-intro-montage-Eac_CHz8gDo.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-intro-montage-Eac_CHz8gDo.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD and the Power of Treatment",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-it-works-if-you-work-it-aJHqUIQEckg-md",
+  "title": "explainer-2026-aboutface-it-works-if-you-work-it-aJHqUIQEckg.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-it-works-if-you-work-it-aJHqUIQEckg.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "**Understanding Veteran PTSD Recovery**",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-john-angell-ptsd-take-over-nYTwI4rDaIE-md",
+  "title": "explainer-2026-aboutface-john-angell-ptsd-take-over-nYTwI4rDaIE.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-john-angell-ptsd-take-over-nYTwI4rDaIE.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Post-Traumatic Stress",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-my-meditation-uAqe7WkuTVQ-md",
+  "title": "explainer-2026-aboutface-my-meditation-uAqe7WkuTVQ.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-my-meditation-uAqe7WkuTVQ.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Combat-Related Stress and Recovery",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-my-shame-was-being-alive-4aZTVe6Qhso-md",
+  "title": "explainer-2026-aboutface-my-shame-was-being-alive-4aZTVe6Qhso.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-my-shame-was-being-alive-4aZTVe6Qhso.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "### Understanding Survivor\u2019s Guilt",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-ptsd-treatment-works-hear-from-veterans-MnNCeJhjG28-md",
+  "title": "explainer-2026-aboutface-ptsd-treatment-works-hear-from-veterans-MnNCeJhjG28.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-ptsd-treatment-works-hear-from-veterans-MnNCeJhjG28.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Treatment",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-richard-adams-dont-hesitate-cY_IFNK5R1E-md",
+  "title": "explainer-2026-aboutface-richard-adams-dont-hesitate-cY_IFNK5R1E.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-richard-adams-dont-hesitate-cY_IFNK5R1E.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Recovery: A Message of Hope",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-richard-adams-stigma-never-talked-cFCLXeMSYnI-md",
+  "title": "explainer-2026-aboutface-richard-adams-stigma-never-talked-cFCLXeMSYnI.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-richard-adams-stigma-never-talked-cFCLXeMSYnI.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD and the Silence of Stigma",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-rick-collier-whole-new-world-xG7-CmWWwRQ-md",
+  "title": "explainer-2026-aboutface-rick-collier-whole-new-world-xG7-CmWWwRQ.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-rick-collier-whole-new-world-xG7-CmWWwRQ.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Recovery Through Veteran Stories",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-rob-tucker-sleep-gun-NGcaA1deX5s-md",
+  "title": "explainer-2026-aboutface-rob-tucker-sleep-gun-NGcaA1deX5s.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-rob-tucker-sleep-gun-NGcaA1deX5s.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Symptoms Through Personal Experience",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-ron-whitcomb-snipers-scope-fzce7PpU5KE-md",
+  "title": "explainer-2026-aboutface-ron-whitcomb-snipers-scope-fzce7PpU5KE.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-ron-whitcomb-snipers-scope-fzce7PpU5KE.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD: A Veteran\u2019s Perspective on Hyperarousal",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-sarah-humphries-alienated-9VQ05H-Pywo-md",
+  "title": "explainer-2026-aboutface-sarah-humphries-alienated-9VQ05H-Pywo.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-sarah-humphries-alienated-9VQ05H-Pywo.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Through Personal Experience",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-sarah-humphries-families-hard-for-them-GFqumMqrn04-md",
+  "title": "explainer-2026-aboutface-sarah-humphries-families-hard-for-them-GFqumMqrn04.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-sarah-humphries-families-hard-for-them-GFqumMqrn04.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Family Impact in PTSD",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-stu-shipley-easier-to-live-with-JbTOJ9xQ6rQ-md",
+  "title": "explainer-2026-aboutface-stu-shipley-easier-to-live-with-JbTOJ9xQ6rQ.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-stu-shipley-easier-to-live-with-JbTOJ9xQ6rQ.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Veteran PTSD Recovery",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-the-bloodiest-battle-FGNJBDMRJUw-md",
+  "title": "explainer-2026-aboutface-the-bloodiest-battle-FGNJBDMRJUw.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-the-bloodiest-battle-FGNJBDMRJUw.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding the Hidden Toll of Combat Photography",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-the-most-peaceful-place-on-earth-JJ322hxlbVI-md",
+  "title": "explainer-2026-aboutface-the-most-peaceful-place-on-earth-JJ322hxlbVI.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-the-most-peaceful-place-on-earth-JJ322hxlbVI.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Recovery Through Personal Experience",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-tia-christopher-girl-that-left-LIqj1R_nPRU-md",
+  "title": "explainer-2026-aboutface-tia-christopher-girl-that-left-LIqj1R_nPRU.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-tia-christopher-girl-that-left-LIqj1R_nPRU.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Family Dynamics After Military Service",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-tia-christopher-grace-hV8R5-7IQio-md",
+  "title": "explainer-2026-aboutface-tia-christopher-grace-hV8R5-7IQio.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-tia-christopher-grace-hV8R5-7IQio.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Veteran Recovery and Self-Compassion",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-timm-lovitt-driving-trigger-gh2oOAX4hxY-md",
+  "title": "explainer-2026-aboutface-timm-lovitt-driving-trigger-gh2oOAX4hxY.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-timm-lovitt-driving-trigger-gh2oOAX4hxY.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding PTSD Triggers and Recovery",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-aboutface-you-surround-yourself-with-all-these-safety-measures-so",
+  "title": "explainer-2026-aboutface-you-surround-yourself-with-all-these-safety-measures-so-you-74D2_kbxCvo.md",
+  "file": "ptsd-trauma/explainer-2026-aboutface-you-surround-yourself-with-all-these-safety-measures-so-you-74D2_kbxCvo.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ABOUTFACE",
+   "org:Aboutface",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Hypervigilance and Safety Behaviors",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-orygen-trauma-youth-mental-health-spotlight-f1ePT_EByeo-md",
+  "title": "explainer-2026-orygen-trauma-youth-mental-health-spotlight-f1ePT_EByeo.md",
+  "file": "ptsd-trauma/explainer-2026-orygen-trauma-youth-mental-health-spotlight-f1ePT_EByeo.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ORYGEN",
+   "org:Orygen",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Trauma in Youth Mental Health",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-ehlers-cognitive-therapy-ptsd-DEJ2ZBZVw6g-md",
+  "title": "explainer-istss-2025-ehlers-cognitive-therapy-ptsd-DEJ2ZBZVw6g.md",
+  "file": "ptsd-trauma/explainer-istss-2025-ehlers-cognitive-therapy-ptsd-DEJ2ZBZVw6g.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**What This Content Covers**",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-elephant-in-the-room-webinar-l2PNc5vhKAw-md",
+  "title": "explainer-istss-2025-elephant-in-the-room-webinar-l2PNc5vhKAw.md",
+  "file": "ptsd-trauma/explainer-istss-2025-elephant-in-the-room-webinar-l2PNc5vhKAw.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "event:Webinar",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Navigating Socio-Cultural Differences in PTSD Treatment",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-friday-fast-facts-moral-injury-intl-panel-a8C0kc0Dt7s-md",
+  "title": "explainer-istss-2025-friday-fast-facts-moral-injury-intl-panel-a8C0kc0Dt7s.md",
+  "file": "ptsd-trauma/explainer-istss-2025-friday-fast-facts-moral-injury-intl-panel-a8C0kc0Dt7s.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "event:Panel",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Moral Injury Across Global Contexts",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-friday-fast-facts-moral-injury-intro-NjExx6yDCaA-md",
+  "title": "explainer-istss-2025-friday-fast-facts-moral-injury-intro-NjExx6yDCaA.md",
+  "file": "ptsd-trauma/explainer-istss-2025-friday-fast-facts-moral-injury-intro-NjExx6yDCaA.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Moral Injury",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-friday-fast-facts-occupational-trauma-OioyMeCcC0k-md",
+  "title": "explainer-istss-2025-friday-fast-facts-occupational-trauma-OioyMeCcC0k.md",
+  "file": "ptsd-trauma/explainer-istss-2025-friday-fast-facts-occupational-trauma-OioyMeCcC0k.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Occupational Trauma",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-friday-fast-facts-posttraumatic-resilience-growth-XPpGGQnfL",
+  "title": "explainer-istss-2025-friday-fast-facts-posttraumatic-resilience-growth-XPpGGQnfLqE.md",
+  "file": "ptsd-trauma/explainer-istss-2025-friday-fast-facts-posttraumatic-resilience-growth-XPpGGQnfLqE.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Post-Traumatic Growth and Resilience",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-friday-fast-facts-trauma-disclosure-NX6JatVuQhs-md",
+  "title": "explainer-istss-2025-friday-fast-facts-trauma-disclosure-NX6JatVuQhs.md",
+  "file": "ptsd-trauma/explainer-istss-2025-friday-fast-facts-trauma-disclosure-NX6JatVuQhs.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Trauma Disclosure",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-friday-fast-facts-traumatic-bereavement-u20n9cssivo-md",
+  "title": "explainer-istss-2025-friday-fast-facts-traumatic-bereavement-u20n9cssivo.md",
+  "file": "ptsd-trauma/explainer-istss-2025-friday-fast-facts-traumatic-bereavement-u20n9cssivo.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Childhood Grief",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-intergenerational-trauma-kezPTR00WfM-md",
+  "title": "explainer-istss-2025-intergenerational-trauma-kezPTR00WfM.md",
+  "file": "ptsd-trauma/explainer-istss-2025-intergenerational-trauma-kezPTR00WfM.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Intergenerational Trauma",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-norman-moral-distress-workplace-CwOgcTsuFDs-md",
+  "title": "explainer-istss-2025-norman-moral-distress-workplace-CwOgcTsuFDs.md",
+  "file": "ptsd-trauma/explainer-istss-2025-norman-moral-distress-workplace-CwOgcTsuFDs.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Understanding Moral Distress in the Workplace**",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-opening-access-treat-ptsd-primary-care-50371xzLld4-md",
+  "title": "explainer-istss-2025-opening-access-treat-ptsd-primary-care-50371xzLld4.md",
+  "file": "ptsd-trauma/explainer-istss-2025-opening-access-treat-ptsd-primary-care-50371xzLld4.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Understanding Trauma Care in Primary Settings**",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-rauch-ptsd-innovators-Q-tqNXrdhiQ-md",
+  "title": "explainer-istss-2025-rauch-ptsd-innovators-Q-tqNXrdhiQ.md",
+  "file": "ptsd-trauma/explainer-istss-2025-rauch-ptsd-innovators-Q-tqNXrdhiQ.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**What the Content Covers**",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-resick-cpt-innovators-4SQB0DwP1Tw-md",
+  "title": "explainer-istss-2025-resick-cpt-innovators-4SQB0DwP1Tw.md",
+  "file": "ptsd-trauma/explainer-istss-2025-resick-cpt-innovators-4SQB0DwP1Tw.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**What the Content Covers**",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-screening-trauma-prone-organizations-PVbdSOWEkeg-md",
+  "title": "explainer-istss-2025-screening-trauma-prone-organizations-PVbdSOWEkeg.md",
+  "file": "ptsd-trauma/explainer-istss-2025-screening-trauma-prone-organizations-PVbdSOWEkeg.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Mental Health Screening in High-Risk Jobs",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-sleep-trauma-ptsd-X4x9hEvsDrs-md",
+  "title": "explainer-istss-2025-sleep-trauma-ptsd-X4x9hEvsDrs.md",
+  "file": "ptsd-trauma/explainer-istss-2025-sleep-trauma-ptsd-X4x9hEvsDrs.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Sleep, Trauma, and PTSD",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-war-ukraine-trauma-bengNIBSxoc-md",
+  "title": "explainer-istss-2025-war-ukraine-trauma-bengNIBSxoc.md",
+  "file": "ptsd-trauma/explainer-istss-2025-war-ukraine-trauma-bengNIBSxoc.md",
+  "category": "ptsd-trauma",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:ptsd-trauma",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Understanding Trauma Support in the Ukraine Crisis**",
+  "url": ""
  },
  {
   "id": "istss-2025-ehlers-cognitive-therapy-ptsd-transcript-yt-DEJ2ZBZVw6g-txt",
@@ -4294,10 +6210,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Hi, I'm Dr. Sae Dee Larson, clinical"
+  "teaser": "Hi, I'm Dr. Sae Dee Larson, clinical",
+  "url": ""
  },
  {
   "id": "istss-2025-elephant-in-the-room-webinar-transcript-yt-l2PNc5vhKAw-txt",
@@ -4309,10 +6227,13 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "event:Webinar",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "thank you Holly again just echoing it's"
+  "teaser": "thank you Holly again just echoing it's",
+  "url": ""
  },
  {
   "id": "istss-2025-friday-fast-facts-moral-injury-intl-panel-transcript-yt-a8C0kc0Dt7s-t",
@@ -4324,10 +6245,13 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "event:Panel",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hi everyone I'm Sonia Norman and for"
+  "teaser": "hi everyone I'm Sonia Norman and for",
+  "url": ""
  },
  {
   "id": "istss-2025-friday-fast-facts-moral-injury-intro-transcript-yt-NjExx6yDCaA-txt",
@@ -4339,10 +6263,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hi I'm Sonia Norman I'm a clinical"
+  "teaser": "hi I'm Sonia Norman I'm a clinical",
+  "url": ""
  },
  {
   "id": "istss-2025-friday-fast-facts-occupational-trauma-transcript-yt-OioyMeCcC0k-txt",
@@ -4354,10 +6280,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hello I'm Dr Michelle Lily I'm a"
+  "teaser": "hello I'm Dr Michelle Lily I'm a",
+  "url": ""
  },
  {
   "id": "istss-2025-friday-fast-facts-posttraumatic-resilience-growth-transcript-yt-XPpGG",
@@ -4369,10 +6297,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Hi, I'm Jackie Wumsley and I work as a"
+  "teaser": "Hi, I'm Jackie Wumsley and I work as a",
+  "url": ""
  },
  {
   "id": "istss-2025-friday-fast-facts-trauma-disclosure-transcript-yt-NX6JatVuQhs-txt",
@@ -4384,10 +6314,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Hi there, my name is Zara Kenigber and I"
+  "teaser": "Hi there, my name is Zara Kenigber and I",
+  "url": ""
  },
  {
   "id": "istss-2025-friday-fast-facts-traumatic-bereavement-transcript-yt-u20n9cssivo-txt",
@@ -4399,10 +6331,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hi everyone my name is Julie kaplow and"
+  "teaser": "hi everyone my name is Julie kaplow and",
+  "url": ""
  },
  {
   "id": "istss-2025-intergenerational-trauma-transcript-yt-kezPTR00WfM-txt",
@@ -4414,10 +6348,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hello everyone welcome to"
+  "teaser": "hello everyone welcome to",
+  "url": ""
  },
  {
   "id": "istss-2025-norman-moral-distress-workplace-transcript-yt-CwOgcTsuFDs-txt",
@@ -4429,10 +6365,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Hi everyone, welcome. I am Sonia Norman."
+  "teaser": "Hi everyone, welcome. I am Sonia Norman.",
+  "url": ""
  },
  {
   "id": "istss-2025-opening-access-treat-ptsd-primary-care-transcript-yt-50371xzLld4-txt",
@@ -4444,10 +6382,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Hi everyone. It looks like there are"
+  "teaser": "Hi everyone. It looks like there are",
+  "url": ""
  },
  {
   "id": "istss-2025-rauch-ptsd-innovators-transcript-yt-Q-tqNXrdhiQ-txt",
@@ -4459,10 +6399,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hi I'm Dr stie Larsson clinical"
+  "teaser": "hi I'm Dr stie Larsson clinical",
+  "url": ""
  },
  {
   "id": "istss-2025-resick-cpt-innovators-transcript-yt-4SQB0DwP1Tw-txt",
@@ -4474,10 +6416,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hi I'm Dr stie Larsson clinical"
+  "teaser": "hi I'm Dr stie Larsson clinical",
+  "url": ""
  },
  {
   "id": "istss-2025-screening-trauma-prone-organizations-transcript-yt-PVbdSOWEkeg-txt",
@@ -4489,10 +6433,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "all right um well we are going to go"
+  "teaser": "all right um well we are going to go",
+  "url": ""
  },
  {
   "id": "istss-2025-sleep-trauma-ptsd-transcript-yt-X4x9hEvsDrs-txt",
@@ -4504,10 +6450,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hi everybody my name is anthony reffy"
+  "teaser": "hi everybody my name is anthony reffy",
+  "url": ""
  },
  {
   "id": "istss-2025-war-ukraine-trauma-transcript-yt-bengNIBSxoc-txt",
@@ -4519,10 +6467,12 @@
   "tags": [
    "cat:ptsd-trauma",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "wonderful well thank you for joining um"
+  "teaser": "wonderful well thank you for joining um",
+  "url": ""
  },
  {
   "id": "lassen-2025-pcl5-norway-psychometric-evaluation-pmc12541923-pdf",
@@ -4536,7 +6486,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12541923/"
  },
  {
   "id": "nlp-ptsd-assessment-2024-pmc11151516-pdf",
@@ -4550,7 +6501,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11151516/"
  },
  {
   "id": "resick-2023-caps5-vs-pcl5-military-veterans-pmc10291904-pdf",
@@ -4564,7 +6516,8 @@
    "type:paper",
    "yr:2023"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10291904/"
  },
  {
   "id": "sleep-ptsd-insomnia-ml-predictors-2025-pmc12884985-pdf",
@@ -4578,7 +6531,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12884985/"
  },
  {
   "id": "vali-2025-ml-predicting-ptsd-systematic-review-meta-pmc11752770-pdf",
@@ -4592,7 +6546,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11752770/"
  },
  {
   "id": "vali-2025-ml-vs-clinicians-ptsd-treatment-outcome-pmc13058648-pdf",
@@ -4606,7 +6561,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13058648/"
  },
  {
   "id": "bouttell-2026-digital-technology-relapse-prediction-sud-pmc13078403-pdf",
@@ -4620,7 +6576,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13078403/"
  },
  {
   "id": "chau-2025-digital-health-depression-anxiety-lmic-rapid-review-pmc12413575-pdf",
@@ -4634,7 +6591,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12413575/"
  },
  {
   "id": "chiu-2024-mobile-apps-insomnia-depression-sys-review-pmc11530740-pdf",
@@ -4645,10 +6603,12 @@
   "year": "2024",
   "tags": [
    "cat:reviews-meta-analyses",
+   "org:Iu",
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11530740/"
  },
  {
   "id": "dumas-2026-smartphone-digital-phenotyping-scoping-review-pmc13013828-pdf",
@@ -4662,7 +6622,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13013828/"
  },
  {
   "id": "fisher-2026-language-based-depression-detection-ml-sys-review-meta-pmc13039720-p",
@@ -4676,7 +6637,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13039720/"
  },
  {
   "id": "humayun-2025-ai-predictive-tool-mental-health-status-sys-review-pmc12469249-pdf",
@@ -4690,7 +6652,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12469249/"
  },
  {
   "id": "liu-2026-wearable-ai-depression-detection-sys-review-meta-pmc12974932-pdf",
@@ -4701,10 +6664,12 @@
   "year": "2026",
   "tags": [
    "cat:reviews-meta-analyses",
+   "org:Iu",
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12974932/"
  },
  {
   "id": "lu-2025-ai-insomnia-anxiety-depression-bibliometric-pmc11873874-pdf",
@@ -4718,7 +6683,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11873874/"
  },
  {
   "id": "mcclure-2026-personalized-treatment-selection-digital-ed-poc-pmc13446245-pdf",
@@ -4732,7 +6698,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13446245/"
  },
  {
   "id": "mitsea-2026-ai-positive-existential-psychiatry-sys-review-pmc13026824-pdf",
@@ -4746,7 +6713,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13026824/"
  },
  {
   "id": "moniz-lewis-2025-ai-alcohol-research-treatment-perspective-pmc12668786-pdf",
@@ -4760,7 +6728,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12668786/"
  },
  {
   "id": "pimentel-2026-ai-interpersonal-violence-vulnerable-populations-scoping-review-pd",
@@ -4774,7 +6743,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "ruger-navarrete-2025-ai-postpartum-depression-prevention-sys-review-pmc12864048-",
@@ -4788,7 +6758,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12864048/"
  },
  {
   "id": "watek-2026-ai-suicide-prediction-prevention-advantages-disadvantages-review-pmc1",
@@ -4802,7 +6773,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13019873/"
  },
  {
   "id": "wojujutari-2024-cd-risc-reliability-generalization-pmc11584089-pdf",
@@ -4816,7 +6788,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11584089/"
  },
  {
   "id": "zhang-2026-text-based-depression-estimation-ml-sys-review-pmc12936666-pdf",
@@ -4830,7 +6803,23 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12936666/"
+ },
+ {
+  "id": "2024-mass-digital-literacy-older-adults-playbook-grey-lit-explainer-md",
+  "title": "2024-mass-digital-literacy-older-adults-playbook-grey-lit-explainer.md",
+  "file": "special-populations/2024-mass-digital-literacy-older-adults-playbook-grey-lit-explainer.md",
+  "category": "special-populations",
+  "type": "explainer",
+  "year": "2024",
+  "tags": [
+   "cat:special-populations",
+   "type:explainer",
+   "yr:2024"
+  ],
+  "teaser": "# Bridging the Digital Divide for Seniors",
+  "url": ""
  },
  {
   "id": "2024-mass-digital-literacy-older-adults-playbook-grey-lit-pdf",
@@ -4844,7 +6833,8 @@
    "type:grey-lit",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "2025-jmir-bridging-digital-divide-older-adults-explainer-md",
@@ -4855,10 +6845,12 @@
   "year": "2025",
   "tags": [
    "cat:special-populations",
+   "org:Jmir",
    "type:explainer",
    "yr:2025"
   ],
-  "teaser": "# JMIR Blog \u2014 Bridging the Digital Divide for Older Adults"
+  "teaser": "# JMIR Blog \u2014 Bridging the Digital Divide for Older Adults",
+  "url": ""
  },
  {
   "id": "2025-va-beyond-mst-app-intro-transcript-yt-4T0oLH4Lhyk-txt",
@@ -4870,10 +6862,12 @@
   "tags": [
    "cat:special-populations",
    "ch:VA",
+   "org:Va",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "&gt;&gt;Graphic: VA Logo and Seal"
+  "teaser": "&gt;&gt;Graphic: VA Logo and Seal",
+  "url": ""
  },
  {
   "id": "2026-afsp-elevating-voices-veteran-suicide-transcript-yt-bVMsFrjgsmc-txt",
@@ -4885,10 +6879,12 @@
   "tags": [
    "cat:special-populations",
    "ch:AFSP",
+   "org:Afsp",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "This program contains subject matter"
+  "teaser": "This program contains subject matter",
+  "url": "https://www.youtube.com/watch?v=bVMsFrjgsmc"
  },
  {
   "id": "2026-eurljpubhealth-ai-perinatal-mental-health-review-PMC12555860-txt",
@@ -4902,7 +6898,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": "Use of artificial intelligence to improve perinatal mental health: a systematic review"
+  "teaser": "Use of artificial intelligence to improve perinatal mental health: a systematic review",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12555860/"
  },
  {
   "id": "2026-orygen-oslo-suicide-prevention-panel-robinson-lasala-transcript-yt-wVW4_KPV",
@@ -4914,10 +6911,13 @@
   "tags": [
    "cat:special-populations",
    "ch:ORYGEN",
+   "event:Panel",
+   "org:Orygen",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "so therefore we are very very pleased to"
+  "teaser": "so therefore we are very very pleased to",
+  "url": "https://www.youtube.com/watch?v=wVW4_KPVjJQ"
  },
  {
   "id": "argyriou-2024-telehealth-prolonged-exposure-women-veterans-mst-pmc11591394-pdf",
@@ -4931,7 +6931,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11591394/"
  },
  {
   "id": "balgiu-2025-brief-resilience-scale-romanian-healthcare-pmc12822897-pdf",
@@ -4942,10 +6943,12 @@
   "year": "2025",
   "tags": [
    "cat:special-populations",
+   "org:Iu",
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12822897/"
  },
  {
   "id": "dmh-2025-parker-covid-information-exposure-vulnerable-populations-transcript-yt-",
@@ -4960,7 +6963,8 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "okay okay great thank you for that"
+  "teaser": "okay okay great thank you for that",
+  "url": ""
  },
  {
   "id": "edgcomb-2026-pediatric-ed-suicide-selfharm-multimodal-3828-pmc12871580-pdf",
@@ -4974,7 +6978,92 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12871580/"
+ },
+ {
+  "id": "explainer-2025-va-beyond-mst-app-intro-4T0oLH4Lhyk-md",
+  "title": "explainer-2025-va-beyond-mst-app-intro-4T0oLH4Lhyk.md",
+  "file": "special-populations/explainer-2025-va-beyond-mst-app-intro-4T0oLH4Lhyk.md",
+  "category": "special-populations",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:special-populations",
+   "ch:VA",
+   "org:Va",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Understanding Military Sexual Trauma Support**",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-afsp-elevating-voices-veteran-suicide-bVMsFrjgsmc-md",
+  "title": "explainer-2026-afsp-elevating-voices-veteran-suicide-bVMsFrjgsmc.md",
+  "file": "special-populations/explainer-2026-afsp-elevating-voices-veteran-suicide-bVMsFrjgsmc.md",
+  "category": "special-populations",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:special-populations",
+   "ch:AFSP",
+   "org:Afsp",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Veteran Suicide Prevention",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-orygen-oslo-suicide-prevention-panel-robinson-lasala-wVW4_KPVjJQ-",
+  "title": "explainer-2026-orygen-oslo-suicide-prevention-panel-robinson-lasala-wVW4_KPVjJQ.md",
+  "file": "special-populations/explainer-2026-orygen-oslo-suicide-prevention-panel-robinson-lasala-wVW4_KPVjJQ.md",
+  "category": "special-populations",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:special-populations",
+   "ch:ORYGEN",
+   "event:Panel",
+   "org:Orygen",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "**Understanding Rising Youth Suicide and Self-Harm**",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-parker-covid-information-exposure-vulnerable-populations-5OGc",
+  "title": "explainer-dmh-2025-parker-covid-information-exposure-vulnerable-populations-5OGcoU5VWGU.md",
+  "file": "special-populations/explainer-dmh-2025-parker-covid-information-exposure-vulnerable-populations-5OGcoU5VWGU.md",
+  "category": "special-populations",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:special-populations",
+   "ch:DMH",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Understanding Pandemic Information and Well-being**",
+  "url": ""
+ },
+ {
+  "id": "explainer-mclean-2025-llm-caregiver-support-dementia-tZAenij3C6E-md",
+  "title": "explainer-mclean-2025-llm-caregiver-support-dementia-tZAenij3C6E.md",
+  "file": "special-populations/explainer-mclean-2025-llm-caregiver-support-dementia-tZAenij3C6E.md",
+  "category": "special-populations",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:special-populations",
+   "org:Mclean",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**Understanding AI for Dementia Caregivers**",
+  "url": ""
  },
  {
   "id": "farrand-2026-low-intensity-cbt-app-women-veterans-pmc13128060-pdf",
@@ -4988,7 +7077,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13128060/"
  },
  {
   "id": "fernandez-alba-2025-ghq28-suicidal-ideation-spain-pmc12219701-pdf",
@@ -5002,7 +7092,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12219701/"
  },
  {
   "id": "gou-2026-ai-conversational-socially-assistive-agents-older-adults-review-pmc1332",
@@ -5016,7 +7107,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13321516/"
  },
  {
   "id": "halicki-asakawa-2026-mi-coach-ed-app-waitlists-pmc13147139-pdf",
@@ -5030,7 +7122,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13147139/"
  },
  {
   "id": "hampole-2026-posttraumatic-symptoms-mobile-app-military-sexual-trauma-pmc1319537",
@@ -5044,7 +7137,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13195377/"
  },
  {
   "id": "hinojosa-lopez-2026-phq9-gad7-prison-screening-pmc13180662-pdf",
@@ -5058,7 +7152,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13180662/"
  },
  {
   "id": "hirakawa-2026-ai-loneliness-support-older-adults-japan-pmc13087678-pdf",
@@ -5072,7 +7167,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13087678/"
  },
  {
   "id": "jafari-2024-persian-c-ssrs-validation-pmc11267123-pdf",
@@ -5086,7 +7182,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11267123/"
  },
  {
   "id": "kent-wilkinson-2026-game-changers-mh-sud-engagement-pmc13032119-pdf",
@@ -5100,7 +7197,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13032119/"
  },
  {
   "id": "lee-2024-late-life-depression-wearables-prediction-cohort-pmc11177677-pdf",
@@ -5114,7 +7212,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11177677/"
  },
  {
   "id": "liu-2025-chinese-sitbi-r-validation-pmc12522860-pdf",
@@ -5125,10 +7224,12 @@
   "year": "2025",
   "tags": [
    "cat:special-populations",
+   "org:Iu",
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12522860/"
  },
  {
   "id": "luo-2026-early-detection-asd-multimodal-ai-review-pmc13464867-pdf",
@@ -5142,7 +7243,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13464867/"
  },
  {
   "id": "manengela-2026-ghq28-south-african-recidivist-pmc13472388-pdf",
@@ -5156,7 +7258,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13472388/"
  },
  {
   "id": "mclean-2025-llm-caregiver-support-dementia-transcript-yt-tZAenij3C6E-txt",
@@ -5167,10 +7270,12 @@
   "year": "2025",
   "tags": [
    "cat:special-populations",
+   "org:Mclean",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":5.359,\"start\":1.92,\"text\":\"Thank you, Rachel. So, uh I think this\"},{\"duration\":3.999,\"start\":4.64,\"text\":\"is a great segue from that uh"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":5.359,\"start\":1.92,\"text\":\"Thank you, Rachel. So, uh I think this\"},{\"duration\":3.999,\"start\":4.64,\"text\":\"is a great segue from that uh",
+  "url": ""
  },
  {
   "id": "meng-2026-ai-chatbot-memoir-writing-older-adults-pmc13505345-pdf",
@@ -5184,7 +7289,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13505345/"
  },
  {
   "id": "parraga-vico-2026-sensor-based-unwanted-loneliness-older-adults-review-pmc130750",
@@ -5198,7 +7304,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13075024/"
  },
  {
   "id": "sellier-silva-2025-speech-language-markers-youth-mental-health-review-pmc1249751",
@@ -5210,10 +7317,12 @@
   "tags": [
    "cat:special-populations",
    "ch:VA",
+   "org:Va",
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12497510/"
  },
  {
   "id": "shepherd-banigan-2023-veteran-engage-ptsd-care-pmc10219808-pdf",
@@ -5227,7 +7336,8 @@
    "type:paper",
    "yr:2023"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10219808/"
  },
  {
   "id": "soufi-2026-farsi-brief-resilience-scale-iranian-older-adults-pmc12947419-pdf",
@@ -5241,7 +7351,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12947419/"
  },
  {
   "id": "tyrrell-2026-digital-health-loneliness-older-adults-scoping-pmc13475860-pdf",
@@ -5255,7 +7366,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13475860/"
  },
  {
   "id": "wilkinson-2025-ed-cognitions-arfid-anorexia-comparison-pmc12616979-pdf",
@@ -5269,7 +7381,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12616979/"
  },
  {
   "id": "yun-2026-software-robot-cognitive-functions-older-adults-pmc13293570-pdf",
@@ -5283,7 +7396,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13293570/"
  },
  {
   "id": "zhuo-2026-genai-visual-art-therapy-older-adults-pmc13493257-pdf",
@@ -5297,7 +7411,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13493257/"
  },
  {
   "id": "2025-emdr-mental-health-treatment-vr-automation-preprint-pdf",
@@ -5312,7 +7427,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": ""
  },
  {
   "id": "2025-emdria-lets-talk-emdr-show-notes-podcast-txt",
@@ -5324,10 +7440,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:EMDR",
+   "org:Emdria",
    "type:training",
    "yr:2025"
   ],
-  "teaser": "# Let's Talk EMDR (EMDRIA) \u2014 show notes from RSS"
+  "teaser": "# Let's Talk EMDR (EMDRIA) \u2014 show notes from RSS",
+  "url": ""
  },
  {
   "id": "2025-va-cpt-coach-app-intro-transcript-yt-CE2XGZZeidE-txt",
@@ -5339,10 +7457,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:VA",
+   "org:Va",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "&gt;&gt;Graphic: VA Logo and Seal"
+  "teaser": "&gt;&gt;Graphic: VA Logo and Seal",
+  "url": ""
  },
  {
   "id": "2025-va-pe-coach-app-intro-transcript-yt-ralR9qeR8V8-txt",
@@ -5354,10 +7474,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:VA",
+   "org:Va",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Graphic: VA Logo"
+  "teaser": "Graphic: VA Logo",
+  "url": ""
  },
  {
   "id": "2026-brown-guilford-trauma-informed-evaluation-research-book-synopsis-md",
@@ -5371,7 +7493,8 @@
    "type:book",
    "yr:2026"
   ],
-  "teaser": "# Book synopsis \u2014 Trauma-Informed Evaluation and Research: A Practical Guide"
+  "teaser": "# Book synopsis \u2014 Trauma-Informed Evaluation and Research: A Practical Guide",
+  "url": ""
  },
  {
   "id": "2026-emdria-autobiographical-editing-646-session-preview-transcript-yt-zqxm0Ny0r",
@@ -5383,10 +7506,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:EMDR",
+   "org:Emdria",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[Music]"
+  "teaser": "[Music]",
+  "url": "https://www.youtube.com/watch?v=zqxm0Ny0rXw"
  },
  {
   "id": "2026-emdria-emdr-anxiety-548-explainer-md",
@@ -5398,10 +7523,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:EMDR",
+   "org:Emdria",
    "type:explainer",
    "yr:2026"
   ],
-  "teaser": "# EMDR Therapy for Anxiety Disorders (Session Preview) \u2014 Explainer"
+  "teaser": "# EMDR Therapy for Anxiety Disorders (Session Preview) \u2014 Explainer",
+  "url": ""
  },
  {
   "id": "2026-emdria-emdr-anxiety-disorders-548-session-preview-transcript-yt-BkptFLwGVKA",
@@ -5413,10 +7540,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:EMDR",
+   "org:Emdria",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[Music]"
+  "teaser": "[Music]",
+  "url": "https://www.youtube.com/watch?v=BkptFLwGVKA"
  },
  {
   "id": "2026-emdria-emdr-therapy-anxiety-disorders-session-preview-transcript-yt-BkptFLw",
@@ -5428,10 +7557,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:EMDR",
+   "org:Emdria",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[Music]"
+  "teaser": "[Music]",
+  "url": ""
  },
  {
   "id": "2026-emdria-future-of-emdr-keynote-preview-transcript-yt-lgq8iCNjXHc-txt",
@@ -5443,10 +7574,13 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:EMDR",
+   "event:Keynote",
+   "org:Emdria",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[Music]"
+  "teaser": "[Music]",
+  "url": "https://www.youtube.com/watch?v=lgq8iCNjXHc"
  },
  {
   "id": "2026-emdria-inside-emdr-session-clinical-decision-making-transcript-yt-jN14dktph",
@@ -5458,10 +7592,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:EMDR",
+   "org:Emdria",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[Music]"
+  "teaser": "[Music]",
+  "url": ""
  },
  {
   "id": "2026-emdria-processing-continuum-544-session-preview-transcript-yt-Lm4WJ8Q49oY-t",
@@ -5473,10 +7609,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:EMDR",
+   "org:Emdria",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[Music]"
+  "teaser": "[Music]",
+  "url": "https://www.youtube.com/watch?v=Lm4WJ8Q49oY"
  },
  {
   "id": "2026-emdria-sleep-stabilization-126-session-preview-transcript-yt-cjXz413c5F0-tx",
@@ -5488,10 +7626,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:EMDR",
+   "org:Emdria",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "[Music]"
+  "teaser": "[Music]",
+  "url": "https://www.youtube.com/watch?v=cjXz413c5F0"
  },
  {
   "id": "2026-tics-pathways-trauma-podcasts-show-notes-podcast-md",
@@ -5505,7 +7645,8 @@
    "type:training",
    "yr:2026"
   ],
-  "teaser": "# Trauma Informed Conversations (TICS) + Pathways: Becoming Trauma-Responsive \u2014 show notes"
+  "teaser": "# Trauma Informed Conversations (TICS) + Pathways: Becoming Trauma-Responsive \u2014 show notes",
+  "url": "https://www.ticservicesltd.com/podcast/"
  },
  {
   "id": "2026-unc-core-components-trauma-informed-practice-training-md",
@@ -5516,10 +7657,12 @@
   "year": "2026",
   "tags": [
    "cat:trauma-therapies",
+   "org:Unc",
    "type:training",
    "yr:2026"
   ],
-  "teaser": "# Core Components and Skills for Trauma Informed Practice 2026 (UNC)"
+  "teaser": "# Core Components and Skills for Trauma Informed Practice 2026 (UNC)",
+  "url": ""
  },
  {
   "id": "alevizopoulos-2026-biosensor-vr-cbt-psychosis-review-pmc13204254-pdf",
@@ -5533,7 +7676,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13204254/"
  },
  {
   "id": "barnes-2026-tic-implementation-fqhcs-texas-pmc13508052-pdf",
@@ -5544,10 +7688,12 @@
   "year": "2026",
   "tags": [
    "cat:trauma-therapies",
+   "place:Texas",
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13508052/"
  },
  {
   "id": "christensen-2025-immersive-vr-therapy-distressing-voices-psychosis-pmc12670062-p",
@@ -5561,7 +7707,8 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12670062/"
  },
  {
   "id": "citil-akyol-2024-online-emdr-children-case-series-pmc11493590-pdf",
@@ -5576,7 +7723,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11493590/"
  },
  {
   "id": "ctbh-2026-digital-therapeutics-behavioral-health-marsch-transcript-yt-ITvZUQquxZ",
@@ -5587,10 +7735,12 @@
   "year": "2026",
   "tags": [
    "cat:trauma-therapies",
+   "person:Marsch",
    "type:transcript",
    "yr:2026"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":3.36,\"start\":0.16,\"text\":\"started uh welcome to today's grand\"},{\"duration\":3.761,\"start\":2.879,\"text\":\"rounds\"},{\"duration\":3.52,\"start"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":3.36,\"start\":0.16,\"text\":\"started uh welcome to today's grand\"},{\"duration\":3.761,\"start\":2.879,\"text\":\"rounds\"},{\"duration\":3.52,\"start",
+  "url": ""
  },
  {
   "id": "dmh-2025-clinical-virtual-reality-review-rizzo-transcript-yt-2CuwpVrB0XY-txt",
@@ -5602,10 +7752,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:DMH",
+   "person:Rizzo",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":4.719,\"start\":1.12,\"text\":\"um and it's a it's so welcome to the\"},{\"duration\":3.12,\"start\":4.48,\"text\":\"center for behavioral interventi"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":4.719,\"start\":1.12,\"text\":\"um and it's a it's so welcome to the\"},{\"duration\":3.12,\"start\":4.48,\"text\":\"center for behavioral interventi",
+  "url": ""
  },
  {
   "id": "dmh-2025-digital-therapeutics-substance-use-marsch-transcript-yt-6SuYcPTo8m4-txt",
@@ -5617,10 +7769,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:DMH",
+   "person:Marsch",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":2.001,\"start\":2.399,\"text\":\"um\"},{\"duration\":4.28,\"start\":2.92,\"text\":\"[Music]\"},{\"duration\":5.199,\"start\":4.4,\"text\":\"and now i want to"
+  "teaser": "{\"next_cursor\":null,\"snippets\":[{\"duration\":2.001,\"start\":2.399,\"text\":\"um\"},{\"duration\":4.28,\"start\":2.92,\"text\":\"[Music]\"},{\"duration\":5.199,\"start\":4.4,\"text\":\"and now i want to",
+  "url": ""
  },
  {
   "id": "dmh-2025-gazzaley-experiential-medicine-cognitive-enhancement-transcript-yt-xt-9",
@@ -5635,7 +7789,382 @@
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "this will be"
+  "teaser": "this will be",
+  "url": ""
+ },
+ {
+  "id": "explainer-2025-emdria-lets-talk-emdr-show-notes-podcast-md",
+  "title": "explainer-2025-emdria-lets-talk-emdr-show-notes-podcast.md",
+  "file": "trauma-therapies/explainer-2025-emdria-lets-talk-emdr-show-notes-podcast.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:EMDR",
+   "org:Emdria",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# What This Content Covers",
+  "url": ""
+ },
+ {
+  "id": "explainer-2025-va-cpt-coach-app-intro-CE2XGZZeidE-md",
+  "title": "explainer-2025-va-cpt-coach-app-intro-CE2XGZZeidE.md",
+  "file": "trauma-therapies/explainer-2025-va-cpt-coach-app-intro-CE2XGZZeidE.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:VA",
+   "org:Va",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding CPT Coach for PTSD",
+  "url": ""
+ },
+ {
+  "id": "explainer-2025-va-pe-coach-app-intro-ralR9qeR8V8-md",
+  "title": "explainer-2025-va-pe-coach-app-intro-ralR9qeR8V8.md",
+  "file": "trauma-therapies/explainer-2025-va-pe-coach-app-intro-ralR9qeR8V8.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:VA",
+   "org:Va",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# What Is PE Coach?",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-emdria-autobiographical-editing-646-session-preview-zqxm0Ny0rXw-m",
+  "title": "explainer-2026-emdria-autobiographical-editing-646-session-preview-zqxm0Ny0rXw.md",
+  "file": "trauma-therapies/explainer-2026-emdria-autobiographical-editing-646-session-preview-zqxm0Ny0rXw.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:EMDR",
+   "org:Emdria",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Autobiographical Editing in Trauma Therapy",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-emdria-emdr-anxiety-disorders-548-session-preview-BkptFLwGVKA-md",
+  "title": "explainer-2026-emdria-emdr-anxiety-disorders-548-session-preview-BkptFLwGVKA.md",
+  "file": "trauma-therapies/explainer-2026-emdria-emdr-anxiety-disorders-548-session-preview-BkptFLwGVKA.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:EMDR",
+   "org:Emdria",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding EMDR for Anxiety",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-emdria-emdr-therapy-anxiety-disorders-session-preview-BkptFLwGVKA",
+  "title": "explainer-2026-emdria-emdr-therapy-anxiety-disorders-session-preview-BkptFLwGVKA.md",
+  "file": "trauma-therapies/explainer-2026-emdria-emdr-therapy-anxiety-disorders-session-preview-BkptFLwGVKA.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:EMDR",
+   "org:Emdria",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# EMDR Therapy for Anxiety: What to Expect",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-emdria-future-of-emdr-keynote-preview-lgq8iCNjXHc-md",
+  "title": "explainer-2026-emdria-future-of-emdr-keynote-preview-lgq8iCNjXHc.md",
+  "file": "trauma-therapies/explainer-2026-emdria-future-of-emdr-keynote-preview-lgq8iCNjXHc.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:EMDR",
+   "event:Keynote",
+   "org:Emdria",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding the Evolution of EMDR Therapy",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-emdria-inside-emdr-session-clinical-decision-making-jN14dktphRY-m",
+  "title": "explainer-2026-emdria-inside-emdr-session-clinical-decision-making-jN14dktphRY.md",
+  "file": "trauma-therapies/explainer-2026-emdria-inside-emdr-session-clinical-decision-making-jN14dktphRY.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:EMDR",
+   "org:Emdria",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Complex Trauma Therapy",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-emdria-processing-continuum-544-session-preview-Lm4WJ8Q49oY-md",
+  "title": "explainer-2026-emdria-processing-continuum-544-session-preview-Lm4WJ8Q49oY.md",
+  "file": "trauma-therapies/explainer-2026-emdria-processing-continuum-544-session-preview-Lm4WJ8Q49oY.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:EMDR",
+   "org:Emdria",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding the Processing Continuum in Therapy",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-emdria-sleep-stabilization-126-session-preview-cjXz413c5F0-md",
+  "title": "explainer-2026-emdria-sleep-stabilization-126-session-preview-cjXz413c5F0.md",
+  "file": "trauma-therapies/explainer-2026-emdria-sleep-stabilization-126-session-preview-cjXz413c5F0.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:EMDR",
+   "org:Emdria",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Sleep\u2019s Role in Trauma Recovery",
+  "url": ""
+ },
+ {
+  "id": "explainer-2026-unc-core-components-trauma-informed-practice-training-md-md",
+  "title": "explainer-2026-unc-core-components-trauma-informed-practice-training.md.md",
+  "file": "trauma-therapies/explainer-2026-unc-core-components-trauma-informed-practice-training.md.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:trauma-therapies",
+   "org:Unc",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding Trauma-Informed Practice",
+  "url": ""
+ },
+ {
+  "id": "explainer-ctbh-2026-digital-therapeutics-behavioral-health-marsch-ITvZUQquxZ8-md",
+  "title": "explainer-ctbh-2026-digital-therapeutics-behavioral-health-marsch-ITvZUQquxZ8.md",
+  "file": "trauma-therapies/explainer-ctbh-2026-digital-therapeutics-behavioral-health-marsch-ITvZUQquxZ8.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:trauma-therapies",
+   "person:Marsch",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "**What This Content Covers**",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-clinical-virtual-reality-review-rizzo-2CuwpVrB0XY-md",
+  "title": "explainer-dmh-2025-clinical-virtual-reality-review-rizzo-2CuwpVrB0XY.md",
+  "file": "trauma-therapies/explainer-dmh-2025-clinical-virtual-reality-review-rizzo-2CuwpVrB0XY.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:DMH",
+   "person:Rizzo",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Clinical Virtual Reality",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-digital-therapeutics-substance-use-marsch-6SuYcPTo8m4-md",
+  "title": "explainer-dmh-2025-digital-therapeutics-substance-use-marsch-6SuYcPTo8m4.md",
+  "file": "trauma-therapies/explainer-dmh-2025-digital-therapeutics-substance-use-marsch-6SuYcPTo8m4.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:DMH",
+   "person:Marsch",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**What This Content Covers**",
+  "url": ""
+ },
+ {
+  "id": "explainer-dmh-2025-gazzaley-experiential-medicine-cognitive-enhancement-xt-9eAfG",
+  "title": "explainer-dmh-2025-gazzaley-experiential-medicine-cognitive-enhancement-xt-9eAfGTR0.md",
+  "file": "trauma-therapies/explainer-dmh-2025-gazzaley-experiential-medicine-cognitive-enhancement-xt-9eAfGTR0.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:DMH",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Digital Therapeutics for Brain Health",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-chard-cpt-adolescents-tSi0Iw5I_Dk-md",
+  "title": "explainer-istss-2025-chard-cpt-adolescents-tSi0Iw5I_Dk.md",
+  "file": "trauma-therapies/explainer-istss-2025-chard-cpt-adolescents-tSi0Iw5I_Dk.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**What the Content Covers**",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-chrestman-pe-adolescents-hKGk-m3r-ZA-md",
+  "title": "explainer-istss-2025-chrestman-pe-adolescents-hKGk-m3r-ZA.md",
+  "file": "trauma-therapies/explainer-istss-2025-chrestman-pe-adolescents-hKGk-m3r-ZA.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**What This Content Covers**",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-de-jongh-matthijssen-emdr-innovators-zgPhJpwCiM0-md",
+  "title": "explainer-istss-2025-de-jongh-matthijssen-emdr-innovators-zgPhJpwCiM0.md",
+  "file": "trauma-therapies/explainer-istss-2025-de-jongh-matthijssen-emdr-innovators-zgPhJpwCiM0.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:EMDR",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**What EMDR Therapy Is and How It Works**",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-deblinger-cbt-child-abuse-j_h3ApFpTt0-md",
+  "title": "explainer-istss-2025-deblinger-cbt-child-abuse-j_h3ApFpTt0.md",
+  "file": "trauma-therapies/explainer-istss-2025-deblinger-cbt-child-abuse-j_h3ApFpTt0.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Stress First Aid",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-deblinger-tf-cbt-interview-1RykjHCb3Zo-md",
+  "title": "explainer-istss-2025-deblinger-tf-cbt-interview-1RykjHCb3Zo.md",
+  "file": "trauma-therapies/explainer-istss-2025-deblinger-tf-cbt-interview-1RykjHCb3Zo.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "**What This Content Covers**",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-psychedelic-therapy-frontlines-panel-kaTUivBm8Xg-md",
+  "title": "explainer-istss-2025-psychedelic-therapy-frontlines-panel-kaTUivBm8Xg.md",
+  "file": "trauma-therapies/explainer-istss-2025-psychedelic-therapy-frontlines-panel-kaTUivBm8Xg.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:ISTSS",
+   "event:Panel",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Psychedelic-Assisted Therapy for PTSD",
+  "url": ""
+ },
+ {
+  "id": "explainer-istss-2025-psychedelic-therapy-groundwork-primer-Giy3j2wr9cY-md",
+  "title": "explainer-istss-2025-psychedelic-therapy-groundwork-primer-Giy3j2wr9cY.md",
+  "file": "trauma-therapies/explainer-istss-2025-psychedelic-therapy-groundwork-primer-Giy3j2wr9cY.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2025",
+  "tags": [
+   "cat:trauma-therapies",
+   "ch:ISTSS",
+   "org:Istss",
+   "type:explainer",
+   "yr:2025"
+  ],
+  "teaser": "# Understanding Psychedelic-Assisted Therapy for PTSD",
+  "url": ""
  },
  {
   "id": "goga-2022-efficient-emdr-system-pilot-pmc8776167-pdf",
@@ -5650,7 +8179,8 @@
    "type:paper",
    "yr:2022"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8776167/"
  },
  {
   "id": "hebert-2026-emotion-regulation-alexithymia-tf-cbt-sexually-abused-pmc12997376-pd",
@@ -5664,7 +8194,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12997376/"
  },
  {
   "id": "istss-2025-chard-cpt-adolescents-transcript-yt-tSi0Iw5I_Dk-txt",
@@ -5676,10 +8207,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Hi, I'm Dr. Sadie Larson, clinical"
+  "teaser": "Hi, I'm Dr. Sadie Larson, clinical",
+  "url": ""
  },
  {
   "id": "istss-2025-chrestman-pe-adolescents-transcript-yt-hKGk-m3r-ZA-txt",
@@ -5691,10 +8224,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Good day. I'm Dr. Sadie Larson, clinical"
+  "teaser": "Good day. I'm Dr. Sadie Larson, clinical",
+  "url": ""
  },
  {
   "id": "istss-2025-de-jongh-matthijssen-emdr-innovators-transcript-yt-zgPhJpwCiM0-txt",
@@ -5707,10 +8242,12 @@
    "cat:trauma-therapies",
    "ch:EMDR",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "hi I'm Dr STI Larsson clinical"
+  "teaser": "hi I'm Dr STI Larsson clinical",
+  "url": ""
  },
  {
   "id": "istss-2025-deblinger-cbt-child-abuse-transcript-yt-j_h3ApFpTt0-txt",
@@ -5722,10 +8259,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Good afternoon everyone. I am here to"
+  "teaser": "Good afternoon everyone. I am here to",
+  "url": ""
  },
  {
   "id": "istss-2025-deblinger-tf-cbt-interview-transcript-yt-1RykjHCb3Zo-txt",
@@ -5737,10 +8276,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Hi, I'm Dr. Satie Larson, clinical"
+  "teaser": "Hi, I'm Dr. Satie Larson, clinical",
+  "url": ""
  },
  {
   "id": "istss-2025-psychedelic-therapy-frontlines-panel-transcript-yt-kaTUivBm8Xg-txt",
@@ -5752,10 +8293,13 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:ISTSS",
+   "event:Panel",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Welcome everybody. This is our panel"
+  "teaser": "Welcome everybody. This is our panel",
+  "url": ""
  },
  {
   "id": "istss-2025-psychedelic-therapy-groundwork-primer-transcript-yt-Giy3j2wr9cY-txt",
@@ -5767,10 +8311,12 @@
   "tags": [
    "cat:trauma-therapies",
    "ch:ISTSS",
+   "org:Istss",
    "type:transcript",
    "yr:2025"
   ],
-  "teaser": "Just going to say a quick hello uh to"
+  "teaser": "Just going to say a quick hello uh to",
+  "url": ""
  },
  {
   "id": "itani-2026-prenatal-clinicians-tic-competency-pmc13330208-pdf",
@@ -5784,7 +8330,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13330208/"
  },
  {
   "id": "khan-2026-deprend-emdr-mdd-protocol-pmc13019998-pdf",
@@ -5799,7 +8346,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13019998/"
  },
  {
   "id": "kruisinga-2026-online-emdr-ptsd-multiple-trauma-pmc13508539-pdf",
@@ -5814,7 +8362,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13508539/"
  },
  {
   "id": "molero-zafra-2026-tf-cbt-emdr-online-group-pilot-pmc13416442-pdf",
@@ -5829,7 +8378,23 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13416442/"
+ },
+ {
+  "id": "onwumere-2026-carevr-vr-communication-training-carers-pmc13445841-explainer-md",
+  "title": "onwumere-2026-carevr-vr-communication-training-carers-pmc13445841-explainer.md",
+  "file": "trauma-therapies/onwumere-2026-carevr-vr-communication-training-carers-pmc13445841-explainer.md",
+  "category": "trauma-therapies",
+  "type": "explainer",
+  "year": "2026",
+  "tags": [
+   "cat:trauma-therapies",
+   "type:explainer",
+   "yr:2026"
+  ],
+  "teaser": "# Understanding CareVR",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13445841/"
  },
  {
   "id": "onwumere-2026-carevr-vr-communication-training-carers-pmc13445841-pdf",
@@ -5843,7 +8408,8 @@
    "type:training",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13445841/"
  },
  {
   "id": "russo-2024-remote-emdr-long-covid-pmc11674612-pdf",
@@ -5858,7 +8424,8 @@
    "type:paper",
    "yr:2024"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11674612/"
  },
  {
   "id": "wallin-2026-blended-tf-cbt-compassion-adolescents-protocol-pmc13372296-pdf",
@@ -5872,7 +8439,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13372296/"
  },
  {
   "id": "wigle-2026-trauma-informed-care-patient-provider-perspectives-pmc13178877-pdf",
@@ -5886,7 +8454,8 @@
    "type:paper",
    "yr:2026"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13178877/"
  },
  {
   "id": "yasar-2025-online-emdr-2-group-protocol-effectiveness-pmc12101063-pdf",
@@ -5901,6 +8470,7 @@
    "type:paper",
    "yr:2025"
   ],
-  "teaser": ""
+  "teaser": "",
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12101063/"
  }
 ]
