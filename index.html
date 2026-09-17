@@ -172,8 +172,14 @@ function cardHtml(it) {
     .join(' · ');
   const link = it.url ? ` · <a href="${it.url}" target="_blank" rel="noopener">source ↗</a>` : '';
   const meta = [it.year || '', it.category, it.type].filter(Boolean).join(' · ');
+  // "chat about this" deep-links (phase 1: ChatGPT + Perplexity — both accept ?q=)
+  const prompt = encodeURIComponent(
+    `Explain this to a non-expert, with context and caveats: "${it.title}"` +
+    (it.url ? ` (source: ${it.url})` : ''));
+  const chat = `<span class="chatrow"> · 💬 <a href="https://chatgpt.com/?q=${prompt}" target="_blank" rel="noopener">ChatGPT</a>` +
+    ` · <a href="https://www.perplexity.ai/search?q=${prompt}" target="_blank" rel="noopener">Perplexity</a></span>`;
   return `<div class="card" data-id="${it.id}">
-    <div class="meta">${meta}${link}</div>
+    <div class="meta">${meta}${link}${chat}</div>
     <h2>${it.title}</h2>
     <p class="teaser">${it.teaser || ''}</p>
     ${ent ? `<small>${ent}</small>` : ''}
