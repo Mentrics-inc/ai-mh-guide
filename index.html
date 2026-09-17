@@ -172,10 +172,15 @@ function cardHtml(it) {
     .join(' · ');
   const link = it.url ? ` · <a href="${it.url}" target="_blank" rel="noopener">source ↗</a>` : '';
   const meta = [it.year || '', it.category, it.type].filter(Boolean).join(' · ');
-  // "chat about this" deep-links (phase 1: ChatGPT + Perplexity — both accept ?q=)
+  // "chat about this" deep-links. Prompt guarantees the chat can work even
+  // when the material isn't publicly reachable: best case = title + source URL
+  // (chat can open it); worst case = excerpt of the actual text inline.
+  const gist = (it.teaser || '').slice(0, 600);
   const prompt = encodeURIComponent(
-    `Explain this to a non-expert, with context and caveats: "${it.title}"` +
-    (it.url ? ` (source: ${it.url})` : ''));
+    `Explain this to a non-expert, with context and caveats.` +
+    ` Title: "${it.title}"` +
+    (it.url ? ` Source (readable online): ${it.url}` : ' Source: not publicly available.') +
+    (gist ? ` Excerpt of the material: "${gist}"` : ''));
   const chat = `<span class="chatrow"> · 💬 <a href="https://chatgpt.com/?q=${prompt}" target="_blank" rel="noopener">ChatGPT</a>` +
     ` · <a href="https://www.perplexity.ai/search?q=${prompt}" target="_blank" rel="noopener">Perplexity</a></span>`;
   return `<div class="card" data-id="${it.id}">
