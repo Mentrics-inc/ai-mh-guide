@@ -17,6 +17,8 @@ h1 { font-size: 1.6rem; }
 .facet-group[open] summary { margin-bottom: .4rem; }
 .taggroup-h { width: 100%; font-size: .8rem; color: #667; margin: .4rem 0 0; text-transform: uppercase; letter-spacing: .04em; }
 .taggroup-h:first-child { margin-top: 0; }
+.groupchip { background: #dde4ea; }
+.groupchip.on { background: var(--accent); color: #fff; }
 .chip { background: var(--chip); border: 1px solid #ccd; border-radius: 2rem; padding: .3rem .9rem; cursor: pointer; font-size: .9rem; }
 .chip .ico { opacity: .75; margin-right: .25rem; font-size: .85em; }
 .chip.on { background: var(--accent); color: #fff; }
@@ -40,8 +42,9 @@ footer { color: #99a; font-size: .8rem; margin-top: 2rem; }
 <h3>Category</h3><div class="chips" id="chips-category"></div>
 <h3>Type</h3><div class="chips" id="chips-type"></div>
 <details class="facet-group" id="otherTagsWrap">
-<summary>Other tags (channel / year / org / person / place / event) <small id="otherCount"></small></summary>
-<div class="chips" id="chips-tag"></div>
+<summary>Other tags <small id="otherCount"></small></summary>
+<div class="chips" id="chips-groupbar"></div>   <!-- one line: group selectors only -->
+<div id="groupPanels"></div>                     <!-- selected group's chips appear here -->
 </details>
 </div>
 
@@ -58,38 +61,49 @@ const revealed = [];
 async function load() {
   ITEMS = await (await fetch('data/items.json')).json();
   FACETS = await (await fetch('data/facets.json')).json();
-  // entity chips render directly INTO the merged Other-tags row, grouped by
-  // namespace with mini-headings (channel / year / org / person / place / event)
+  // Other tags accordion: ONE line of group selector chips (📅 Year · 🔖 Channel ·
+  // 🏛 Orgs · 👤 People · 📍 Places · 📅 Events); clicking a group reveals ONLY
+  // that group's chips underneath (conserve view space — operator)
   renderChips('category'); renderChips('type');
-  const merged = document.getElementById('chips-tag');
-  merged.innerHTML = '';   // build fresh, grouped
+  const bar = document.getElementById('chips-groupbar');
+  const panels = document.getElementById('groupPanels');
   const GROUPS = [
-    ['tag',   'Channel'], ['tag-yr', 'Year'], ['tag-cat', 'Category'],
-    ['tag-type', 'Type'], ['org', '🏛 Organizations'], ['person', '👤 People'],
-    ['place', '📍 Places'], ['event', '📅 Events']
+    ['yr', '📅 Year'], ['ch', '🔖 Channel'], ['org', '🏛 Organizations'],
+    ['person', '👤 People'], ['place', '📍 Places'], ['event', '📅 Events']
   ];
-  // 'tag' row: FACETS.tag holds ch:/cat:/type:/yr: prefixed keys — split them here
-  const byGroup = {yr: [], ch: [], cat: [], type: []};
-  Object.entries(FACETS.tag || {}).forEach(([k, n]) => {
-    const ns = k.split(':')[0];
-    if (byGroup[ns]) byGroup[ns].push([k, n]);
-  });
-  const mini = (label) => `<div class="taggroup-h">${label}</div>`;
-  const draw = (kind, label, entries) => {
-    if (!entries.length) return;
-    merged.insertAdjacentHTML('beforeend', mini(label));
-    renderChipsEntries(kind, entries, merged);
+  // split FACETS.tag into ch: and yr: buckets
+  const tagEntries = Object.entries(FACETS.tag || {});
+  const buckets = {
+    yr: tagEntries.filter(([k]) => k.startsWith('yr:')).sort((a,b)=>b[1]-a[1]),
+    ch: tagEntries.filter(([k]) => k.startsWith('ch:')).sort((a,b)=>b[1]-a[1]),
+    org: Object.entries(FACETS.org||{}).sort((a,b)=>b[1]-a[1]),
+    person: Object.entries(FACETS.person||{}).sort((a,b)=>b[1]-a[1]),
+    place: Object.entries(FACETS.place||{}).sort((a,b)=>b[1]-a[1]),
+    event: Object.entries(FACETS.event||{}).sort((a,b)=>b[1]-a[1])
   };
-  draw('yr', '📅 Year', byGroup.yr.sort((a,b)=>b[1]-a[1]));
-  draw('tag', '🔖 Channel', Object.entries(FACETS.tag||{}).filter(([k])=>k.startsWith('ch:')).sort((a,b)=>b[1]-a[1]));
-  draw('org', '🏛 Organizations', Object.entries(FACETS.org||{}).sort((a,b)=>b[1]-a[1]));
-  draw('person', '👤 People', Object.entries(FACETS.person||{}).sort((a,b)=>b[1]-a[1]));
-  draw('place', '📍 Places', Object.entries(FACETS.place||{}).sort((a,b)=>b[1]-a[1]));
-  draw('event', '📅 Events', Object.entries(FACETS.event||{}).sort((a,b)=>b[1]-a[1]));
-  document.getElementById('otherCount').textContent = `(${merged.querySelectorAll('.chip').length} tags)`;
+  const total = Object.values(buckets).reduce((s,e)=>s+e.length, 0);
+  document.getElementById('otherCount').textContent = `(${total} tags)`;
+  GROUPS.forEach(([g, label]) => {
+    if (!buckets[g].length) return;
+    const sel = document.createElement('span');
+    sel.className = 'chip groupchip';
+    sel.dataset.g = g;
+    sel.innerHTML = `${label} <small>${buckets[g].length}</small>`;
+    sel.onclick = () => {
+      // toggle: click group → show its chips alone; click again → clear panel
+      const already = sel.classList.contains('on');
+      bar.querySelectorAll('.groupchip.on').forEach(x => x.classList.remove('on'));
+      panels.innerHTML = '';
+      if (!already) {
+        sel.classList.add('on');
+        const row = document.createElement('div'); row.className = 'chips';
+        renderChipsEntries(g, buckets[g], row);
+        panels.appendChild(row);
+      }
+    };
+    bar.appendChild(sel);
+  });
   // details stays CLOSED (default) — operator: content visible without scrolling
-  // single-level chips everywhere: NO accordions — heading + plain chip row
-  // (operator: same pattern as Type; no 2-level nesting, no summaries)
   document.getElementById('poolCount').textContent = `${ITEMS.length} items in the collection`;
   // Editorial confidence score (made-up but deterministic): curated sources + has detail + recency
   ITEMS.forEach(it => {
