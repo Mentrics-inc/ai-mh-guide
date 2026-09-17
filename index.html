@@ -15,6 +15,8 @@ h1 { font-size: 1.6rem; }
 .facet-group { margin: .6rem 0; }
 .facet-group summary { cursor: pointer; color: #345; font-weight: 600; font-size: .95rem; }
 .facet-group[open] summary { margin-bottom: .4rem; }
+.taggroup-h { width: 100%; font-size: .8rem; color: #667; margin: .4rem 0 0; text-transform: uppercase; letter-spacing: .04em; }
+.taggroup-h:first-child { margin-top: 0; }
 .chip { background: var(--chip); border: 1px solid #ccd; border-radius: 2rem; padding: .3rem .9rem; cursor: pointer; font-size: .9rem; }
 .chip .ico { opacity: .75; margin-right: .25rem; font-size: .85em; }
 .chip.on { background: var(--accent); color: #fff; }
@@ -56,15 +58,35 @@ const revealed = [];
 async function load() {
   ITEMS = await (await fetch('data/items.json')).json();
   FACETS = await (await fetch('data/facets.json')).json();
-  // entity chips render directly INTO the merged Other-tags row (no separate rows)
+  // entity chips render directly INTO the merged Other-tags row, grouped by
+  // namespace with mini-headings (channel / year / org / person / place / event)
   renderChips('category'); renderChips('type');
   const merged = document.getElementById('chips-tag');
-  ['tag','org','person','place','event'].forEach(k => renderChipsInto(k, merged));
-  // sort merged row by count desc (parse <small>N</small>)
-  [...merged.children].sort((a,b) =>
-    (+(b.querySelector('small')?.textContent || 0)) - (+(a.querySelector('small')?.textContent || 0)))
-    .forEach(c => merged.appendChild(c));
-  document.getElementById('otherCount').textContent = `(${merged.children.length} tags)`;
+  merged.innerHTML = '';   // build fresh, grouped
+  const GROUPS = [
+    ['tag',   'Channel'], ['tag-yr', 'Year'], ['tag-cat', 'Category'],
+    ['tag-type', 'Type'], ['org', '🏛 Organizations'], ['person', '👤 People'],
+    ['place', '📍 Places'], ['event', '📅 Events']
+  ];
+  // 'tag' row: FACETS.tag holds ch:/cat:/type:/yr: prefixed keys — split them here
+  const byGroup = {yr: [], ch: [], cat: [], type: []};
+  Object.entries(FACETS.tag || {}).forEach(([k, n]) => {
+    const ns = k.split(':')[0];
+    if (byGroup[ns]) byGroup[ns].push([k, n]);
+  });
+  const mini = (label) => `<div class="taggroup-h">${label}</div>`;
+  const draw = (kind, label, entries) => {
+    if (!entries.length) return;
+    merged.insertAdjacentHTML('beforeend', mini(label));
+    renderChipsEntries(kind, entries, merged);
+  };
+  draw('yr', '📅 Year', byGroup.yr.sort((a,b)=>b[1]-a[1]));
+  draw('tag', '🔖 Channel', Object.entries(FACETS.tag||{}).filter(([k])=>k.startsWith('ch:')).sort((a,b)=>b[1]-a[1]));
+  draw('org', '🏛 Organizations', Object.entries(FACETS.org||{}).sort((a,b)=>b[1]-a[1]));
+  draw('person', '👤 People', Object.entries(FACETS.person||{}).sort((a,b)=>b[1]-a[1]));
+  draw('place', '📍 Places', Object.entries(FACETS.place||{}).sort((a,b)=>b[1]-a[1]));
+  draw('event', '📅 Events', Object.entries(FACETS.event||{}).sort((a,b)=>b[1]-a[1]));
+  document.getElementById('otherCount').textContent = `(${merged.querySelectorAll('.chip').length} tags)`;
   // details stays CLOSED (default) — operator: content visible without scrolling
   // single-level chips everywhere: NO accordions — heading + plain chip row
   // (operator: same pattern as Type; no 2-level nesting, no summaries)
@@ -87,10 +109,12 @@ function renderChips(kind) {
 }
 function renderChipsInto(kind, host) {
   if (!host) return;
-  // emoji on the CHIP (selection area) — helps scanning at top; results stay clean text
   const ICON = {org:'🏛', person:'👤', place:'📍', event:'📅', category:'🗂', type:'🏷', year:'📅', tag:'🔖'};
-  const ico = ICON[kind] || '';
   const entries = Object.entries(FACETS[kind] || {}).sort((a,b)=>b[1]-a[1]).slice(0, kind==='tag'?22:99);
+  renderChipsEntries(kind, entries, host, ICON[kind] || '');
+}
+function renderChipsEntries(kind, entries, host, ico = '') {
+  if (!host) return;
   host.insertAdjacentHTML('beforeend', entries.map(([val, n]) =>
     `<span class="chip" data-k="${kind}" data-v="${val}"><span class="ico">${ico}</span>${val.replace(/^(cat:|ch:|yr:|type:)/,'')} <small>${n}</small></span>`).join(''));
   host.querySelectorAll('.chip').forEach(c => c.onclick = (ev) => {
