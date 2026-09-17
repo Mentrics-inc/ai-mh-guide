@@ -37,11 +37,10 @@ footer { color: #99a; font-size: .8rem; margin-top: 2rem; }
 <div id="facets">
 <h3>Category</h3><div class="chips" id="chips-category"></div>
 <h3>Type</h3><div class="chips" id="chips-type"></div>
-<h3>Other tags (channel / year / org / person / place / event)</h3><div class="chips" id="chips-tag"></div>
-<div class="chips" id="chips-org"></div>
-<div class="chips" id="chips-person"></div>
-<div class="chips" id="chips-place"></div>
-<div class="chips" id="chips-event"></div>
+<details class="facet-group" id="otherTagsWrap">
+<summary>Other tags (channel / year / org / person / place / event) <small id="otherCount"></small></summary>
+<div class="chips" id="chips-tag"></div>
+</details>
 </div>
 
 <div id="moreWrap" style="margin:1rem 0"><button id="revealBtn">alright, a few more…</button>
@@ -57,19 +56,16 @@ const revealed = [];
 async function load() {
   ITEMS = await (await fetch('data/items.json')).json();
   FACETS = await (await fetch('data/facets.json')).json();
-  renderChips('category'); renderChips('type'); renderChips('tag');
-  renderChips('org'); renderChips('person'); renderChips('place'); renderChips('event');
-  // merge all entity chips into ONE row under the Other-tags heading, sorted by count
+  // entity chips render directly INTO the merged Other-tags row (no separate rows)
+  renderChips('category'); renderChips('type');
   const merged = document.getElementById('chips-tag');
-  ['org','person','place','event'].forEach(k => {
-    const h = document.getElementById('chips-' + k);
-    [...h.children].forEach(c => merged.appendChild(c));   // move chips, keep clicks
-    h.style.display = 'none';
-  });
+  ['tag','org','person','place','event'].forEach(k => renderChipsInto(k, merged));
   // sort merged row by count desc (parse <small>N</small>)
   [...merged.children].sort((a,b) =>
     (+(b.querySelector('small')?.textContent || 0)) - (+(a.querySelector('small')?.textContent || 0)))
     .forEach(c => merged.appendChild(c));
+  document.getElementById('otherCount').textContent = `(${merged.children.length} tags)`;
+  // details stays CLOSED (default) — operator: content visible without scrolling
   // single-level chips everywhere: NO accordions — heading + plain chip row
   // (operator: same pattern as Type; no 2-level nesting, no summaries)
   document.getElementById('poolCount').textContent = `${ITEMS.length} items in the collection`;
@@ -87,13 +83,16 @@ async function load() {
   showPicks(3);
 }
 function renderChips(kind) {
-  const host = document.getElementById('chips-' + kind);
+  renderChipsInto(kind, document.getElementById('chips-' + kind));
+}
+function renderChipsInto(kind, host) {
+  if (!host) return;
   // emoji on the CHIP (selection area) — helps scanning at top; results stay clean text
   const ICON = {org:'🏛', person:'👤', place:'📍', event:'📅', category:'🗂', type:'🏷', year:'📅', tag:'🔖'};
   const ico = ICON[kind] || '';
   const entries = Object.entries(FACETS[kind] || {}).sort((a,b)=>b[1]-a[1]).slice(0, kind==='tag'?22:99);
-  host.innerHTML = entries.map(([val, n]) =>
-    `<span class="chip" data-k="${kind}" data-v="${val}"><span class="ico">${ico}</span>${val.replace(/^(cat:|ch:|yr:|type:)/,'')} <small>${n}</small></span>`).join('');
+  host.insertAdjacentHTML('beforeend', entries.map(([val, n]) =>
+    `<span class="chip" data-k="${kind}" data-v="${val}"><span class="ico">${ico}</span>${val.replace(/^(cat:|ch:|yr:|type:)/,'')} <small>${n}</small></span>`).join(''));
   host.querySelectorAll('.chip').forEach(c => c.onclick = (ev) => {
     if (ev.ctrlKey || ev.metaKey) {           // Ctrl/Cmd+click = toggle multi-select
       if (active.has(c.dataset.k + ':' + c.dataset.v)) active.delete(c.dataset.k + ':' + c.dataset.v);
